@@ -1240,3 +1240,27 @@ numpy.core._exceptions._ArrayMemoryError: Unable to allocate 5.71 MiB for an arr
 2026-04-29 19:41:28 | INFO | receipt_ocr | OCR complete | file=X51005806719.jpg retries=0 original_size=864x1373 attempted_sizes=[(864, 1373)] capped=False
 2026-04-29 19:41:28 | INFO | receipt_ocr | Completed | file=X51005806719.jpg status=success
 2026-04-29 19:41:29 | INFO | receipt_ocr | Pipeline completed | processed=365
+2026-04-29 20:00:37 | INFO | receipt_ocr | Starting receipt OCR pipeline
+2026-04-29 20:00:38 | INFO | receipt_ocr | Discovery complete | images=371 non_images=0 extensions={'.jpg': 370, '.png': 1} duplicates=4
+2026-04-29 20:00:41 | INFO | receipt_ocr | Resume state loaded | already_processed=365 last_successful_receipt=X51005806719 last_processed_receipt=None gpu_enabled=False
+2026-04-29 20:00:41 | INFO | receipt_ocr | Skipping 1/20 | 0.jpg | status=already_processed
+2026-04-29 20:00:41 | INFO | receipt_ocr | Skipping 2/20 | 1.jpg | status=already_processed
+2026-04-29 20:00:41 | INFO | receipt_ocr | Skipping 3/20 | 10.jpg | status=already_processed
+2026-04-29 20:00:41 | INFO | receipt_ocr | Skipping 4/20 | 11.jpg | status=already_processed
+2026-04-29 20:00:41 | INFO | receipt_ocr | Skipping 5/20 | 12.jpg | status=already_processed
+2026-04-29 20:00:41 | INFO | receipt_ocr | Skipping 6/20 | 13.jpg | status=already_processed
+2026-04-29 20:00:41 | INFO | receipt_ocr | Skipping 7/20 | 14.jpg | status=already_processed
+2026-04-29 20:00:41 | INFO | receipt_ocr | Skipping 8/20 | 15.jpg | status=already_processed
+2026-04-29 20:00:41 | INFO | receipt_ocr | Skipping 9/20 | 16.jpg | status=already_processed
+2026-04-29 20:00:41 | INFO | receipt_ocr | Skipping 10/20 | 17.jpg | status=already_processed
+2026-04-29 20:00:41 | INFO | receipt_ocr | Skipping 11/20 | 18.jpg | status=already_processed
+2026-04-29 20:00:41 | INFO | receipt_ocr | Skipping 12/20 | 19.jpg | status=already_processed
+2026-04-29 20:00:41 | INFO | receipt_ocr | Skipping 13/20 | 2.jpg | status=already_processed
+2026-04-29 20:00:41 | INFO | receipt_ocr | Skipping 14/20 | 20.png | status=already_processed
+2026-04-29 20:00:41 | INFO | receipt_ocr | Skipping 15/20 | 21.jpg | status=already_processed
+2026-04-29 20:00:41 | INFO | receipt_ocr | Skipping 16/20 | 3.jpg | status=already_processed
+2026-04-29 20:00:41 | INFO | receipt_ocr | Skipping 17/20 | 4.jpg | status=already_processed
+2026-04-29 20:00:41 | INFO | receipt_ocr | Skipping 18/20 | 5.jpg | status=already_processed
+2026-04-29 20:00:41 | INFO | receipt_ocr | Skipping 19/20 | 6.JPG | status=already_processed
+2026-04-29 20:00:41 | INFO | receipt_ocr | Skipping 20/20 | 7.jpg | status=already_processed
+2026-04-29 20:00:41 | INFO | receipt_ocr | Pipeline completed | processed=365
