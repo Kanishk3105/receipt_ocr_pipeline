@@ -1,0 +1,93 @@
+{
+  "receipt_id": "X51005749905",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005749905.jpg",
+  "fields": {
+    "store_name": {
+      "value": "'p48 `upS (W) ejue3 ejempieh MN3",
+      "confidence": 0.5767,
+      "low_confidence": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.1917,
+      "low_confidence": true
+    },
+    "items": {
+      "value": [
+        {
+          "name": "'p48 `upS (W) ejue3 ejempieh MN",
+          "price": 3.0
+        },
+        {
+          "name": "6uiddoys JOg nof yueyL",
+          "price": 6.0
+        },
+        {
+          "name": "JepuaL NO IB1o L",
+          "price": 1.0
+        },
+        {
+          "name": "Iloy Jaded pues WGp X ,8 X #O",
+          "price": 1.0
+        },
+        {
+          "name": "'JoillJ Kvind xln `6xs'",
+          "price": 6.0
+        },
+        {
+          "name": "us O0'",
+          "price": 1.0
+        },
+        {
+          "name": "6269 Zs8L-80 'Ial",
+          "price": 80.0
+        },
+        {
+          "name": "8lozieq/ol",
+          "price": 8.0
+        },
+        {
+          "name": "6286 6sg-Z",
+          "price": 10.0
+        },
+        {
+          "name": "6269 ZS8L-€0",
+          "price": 731.0
+        },
+        {
+          "name": "ues43 Injea Jobuejes 'eKer bulened",
+          "price": 43.0
+        },
+        {
+          "name": "5 xi8 '85 :ON",
+          "price": 85.0
+        },
+        {
+          "name": "V-GzzS6L : 'ON 'Bau `",
+          "price": 3.0
+        },
+        {
+          "name": "py",
+          "price": 8.0
+        },
+        {
+          "name": "upS (W) aJjua3 ajempjeH MN]",
+          "price": 3.0
+        }
+      ],
+      "confidence": 0.6067,
+      "low_confidence": true
+    },
+    "total_amount": {
+      "value": 6286.0,
+      "confidence": 0.4717,
+      "low_confidence": true
+    },
+    "ocr_mean_confidence": {
+      "value": 0.3261,
+      "confidence": 0.3261,
+      "low_confidence": true
+    }
+  },
+  "raw_text": "'p48 `upS (W) ejue3 ejempieh MN3\n1e\n6uiddoys JOg nof yueyL\n@iqeuiniel IOu ele pios spoos.\n00'0\nLNIOd\n{6' 1\nLOzE\n% 9 = 4S\n(WUTTST\n(Wy) unaww\nNewuns ISs\nJepuaL NO IB1o L\neiqeKed IWV Ieio_\n00*0\nJuauusnlpv Buipunoy\nO0 +E\n% 9\nLS) 'Iui JWV |bxo_\nIloy Jaded pues WGp X ,8 X #O01\n4S 00'5\nOS Z\nO0z\n828900\n'JoillJ Kvind xln `6xs'\nus O0'01\n0o '01\n00' 1\n0z6o00\nJauuiyl Janbje] pOoM 'sBxz\n8s 00'61\n0o 61\nO0' 1\nEEGL00\nwY\ne3iud*0\nNO\nwai\n6286 659-Zl0 d/H\n6269 Zs8L-80 'Ial\n(ejes,@ eJV) oes Yse?\nZZEOEzoosO:\nON\nazioaui Xej\n8lozieq/ol\n6286 6sg-Z10\n6269 ZS8L-€0 : 731\nues43 Injea Jobuejes 'eKer bulened\nLOELF 'eJesueuia BJV\nENI nrd uir\n5 xi8 '85 :ON\n'ON\n15)\nV-GzzS6L : 'ON 'Bau `03\npy8\nupS (W) aJjua3 ajempjeH MN]\nYyroch\nKreA"
+}

@@ -1,0 +1,93 @@
+{
+  "receipt_id": "X51005442386",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005442386.jpg",
+  "fields": {
+    "store_name": {
+      "value": "SDN",
+      "confidence": 0.6729,
+      "low_confidence": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.2879,
+      "low_confidence": true
+    },
+    "items": {
+      "value": [
+        {
+          "name": "S7.J",
+          "price": 0.0
+        },
+        {
+          "name": "@896",
+          "price": 80.49
+        },
+        {
+          "name": "(ett Totat",
+          "price": 870.0
+        },
+        {
+          "name": "8AR",
+          "price": 8.0
+        },
+        {
+          "name": "hox>",
+          "price": 3.0
+        },
+        {
+          "name": "Mar",
+          "price": 2018.0
+        },
+        {
+          "name": "17;",
+          "price": 52.0
+        },
+        {
+          "name": "(867388-U)",
+          "price": 867388.0
+        },
+        {
+          "name": "7/4,Kewtasan \"",
+          "price": 4.0
+        },
+        {
+          "name": "Tampoi 81200 _",
+          "price": 81200.0
+        },
+        {
+          "name": "st.",
+          "price": 60.0
+        },
+        {
+          "name": "Iodi 0ooo0oj5",
+          "price": 5.0
+        },
+        {
+          "name": "SC.o",
+          "price": 0.0
+        },
+        {
+          "name": "357.",
+          "price": 357.0
+        },
+        {
+          "name": "Gs7}",
+          "price": 7.0
+        }
+      ],
+      "confidence": 0.7029,
+      "low_confidence": false
+    },
+    "total_amount": {
+      "value": 8032102170380.0,
+      "confidence": 0.5679,
+      "low_confidence": true
+    },
+    "ocr_mean_confidence": {
+      "value": 0.5397,
+      "confidence": 0.5397,
+      "low_confidence": true
+    }
+  },
+  "raw_text": "SDN\nJohat _\nJohor\nORe\nSR\nQly\nTau\n(S)\n87.10\nS7.J0\nTotel _\n88,70\n@896: 80.49\n(ett Totat: $8,70\n88.70\ndSt\n609\n821\nTeys\nGST REG\n0 40\n8AR\nYau _\nUke and _\nAgaint\nUs pn\nhox>3\nUNIHAKKA\nINTERNATIONAL\nMar 2018\nBHD\n17;52\n(867388-U)\nJelan \"\nTampal >\n7/4,Kewtasan \"\nTampoi 81200 _\nPerndusblan\nBahru _\ninvoice\nTAXinVOICE\n8032102170380\nkem\nYong\nst.60\nTolal\nFFoo =\nIodi 0ooo0oj5-\n81.00\nMaat -\nVege\nAmount: =\nOST\nPeymerl |\nMode\nCASK\nChange\nAmount\nSC.o0\n357.\nsnmty\nroycunts)\n#000858185884\nWANGE\nJRICE@PERMAS\n(Prica\nJAYA\nInckustve\nGs7}\nTnank ~\nConie\nFoliow\nFacebook convBarWengrice\nFacebookl"
+}

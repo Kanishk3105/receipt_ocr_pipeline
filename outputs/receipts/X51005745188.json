@@ -1,0 +1,105 @@
+{
+  "receipt_id": "X51005745188",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005745188.jpg",
+  "fields": {
+    "store_name": {
+      "value": "ZL\"&",
+      "confidence": 0.5821,
+      "low_confidence": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.1971,
+      "low_confidence": true
+    },
+    "items": {
+      "value": [
+        {
+          "name": "88 ' Sb",
+          "price": 88.0
+        },
+        {
+          "name": "3uoj",
+          "price": 3.0
+        },
+        {
+          "name": "374vnxnl34 Von 34V 1705 9q",
+          "price": 9.0
+        },
+        {
+          "name": "Iw101-4nS",
+          "price": 4.0
+        },
+        {
+          "name": "90sp 430004 qnIXVA   7waox",
+          "price": 7.0
+        },
+        {
+          "name": "S 82'Sp",
+          "price": 82.0
+        },
+        {
+          "name": "FZTOO T0zobb[",
+          "price": 9.0
+        },
+        {
+          "name": "4jIhSVJ",
+          "price": 4.0
+        },
+        {
+          "name": "00: FE*",
+          "price": 80.0
+        },
+        {
+          "name": "3WIL",
+          "price": 3.0
+        },
+        {
+          "name": "Nosx3ds37w",
+          "price": 5.0
+        },
+        {
+          "name": "# LdI",
+          "price": 333.0
+        },
+        {
+          "name": "3JIONNI",
+          "price": 3.0
+        },
+        {
+          "name": "XVL :XvJ ZQ9EbELL-EO",
+          "price": 731.0
+        },
+        {
+          "name": "6b62SE69FTOO",
+          "price": 69.0
+        },
+        {
+          "name": "ONLs",
+          "price": 9.0
+        },
+        {
+          "name": "736 'WVTV hwhs QQQOb",
+          "price": 736.0
+        },
+        {
+          "name": "anvans € L4 Nac 34Q",
+          "price": 34.0
+        }
+      ],
+      "confidence": 0.6121,
+      "low_confidence": true
+    },
+    "total_amount": {
+      "value": 4773.0,
+      "confidence": 0.4771,
+      "low_confidence": true
+    },
+    "ocr_mean_confidence": {
+      "value": 0.3381,
+      "confidence": 0.3381,
+      "low_confidence": true
+    }
+  },
+  "raw_text": "ZL\"&\nZl\"&\n88 ' Sb\n45\nLMoohe\n3uoj\nOor XnYHI\n374vnxnl34 Von 34V 1705 9q009\n00\nJoNvhJ\n81\nKsYJ\n7\n81\n76101\n8\noxionong\nIw101-4nS\nALINvnd\n78101\n90sp 430004 qnIXVA   7waox\n(\nLInn)\nS 82'Sp\nZE'TT\nFZTOO T0zobb[9\nLnoowe\n4/\nAle\nHZLI\n4773X\n4jIhSVJ\n00: FE*80\n3WIL\nNosx3ds37w5\n8T0z/zo/z0 #3W1 L98T620053\n:# LdI333\nHSVJ\n3JIONNI\nXVL :XvJ ZQ9EbELL-EO :731\n6b62SE69FTOO\n:ONLs9\n736 'WVTV hwhs QQQOb\nanvans € L4 Nac 34Q\nX4407\n2\nHsVJ\n475"
+}

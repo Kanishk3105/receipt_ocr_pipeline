@@ -1,0 +1,61 @@
+{
+  "receipt_id": "X51005757294",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005757294.jpg",
+  "fields": {
+    "store_name": {
+      "value": "3i803061",
+      "confidence": 0.7359,
+      "low_confidence": false
+    },
+    "date": {
+      "value": "2018-03-18",
+      "confidence": 0.7509,
+      "low_confidence": false
+    },
+    "items": {
+      "value": [
+        {
+          "name": "D.1.Y.",
+          "price": 1.0
+        },
+        {
+          "name": "CARTRIOGE C10-980 |o'",
+          "price": 980.0
+        },
+        {
+          "name": "cc22-52",
+          "price": 62.0
+        },
+        {
+          "name": "GST@6x",
+          "price": 6.0
+        },
+        {
+          "name": "RM 2(. (u",
+          "price": 2.0
+        },
+        {
+          "name": "RM",
+          "price": 9.4
+        },
+        {
+          "name": "RM 0.6C",
+          "price": 0.6
+        }
+      ],
+      "confidence": 0.8259,
+      "low_confidence": false
+    },
+    "total_amount": {
+      "value": 1851.0,
+      "confidence": 0.7359,
+      "low_confidence": false
+    },
+    "ocr_mean_confidence": {
+      "value": 0.6798,
+      "confidence": 0.6798,
+      "low_confidence": true
+    }
+  },
+  "raw_text": "3i803061\nMR_\nD.1.Y.\n(M)\nSDM\nBHD\n(CO,REG\n86067 1 -D )\nLOt\n185 1-A\n&\n1851-B\nJaLAN KPB\n6_\nKahaSAN PERINDUSTRIAn balakonG\n43300\nSERI KEMBANGAH ,\nSELANGOR\n(GST\nId\nNo :000306020352 )\n(IOI PUChong)\nTaX\nINVOICE\nCaRBON\nFIBER\nCARTRIOGE C10-980 |o'\ncc22-52-62\n25\n9063785\n2 X\n5 . 30\n10 , € 0\nItem(s)\nQty(s)\n2\nTotal\nInc] .\nGST@6x\nRM\n1(.(1\nCaSH\nRM 2(. (u\nCHANGE\nRM 9.40\nGST\n@6x\nincluded\nin tola)\nRM 0.6C\n+-\n18-03-18\n15;12\nSHO |\n2J86\n13 R00006C72 7\nOPERA TOR\nTRAINEE  CASHIER\nEXCHANGE ARE\nALLOWED\nWithin\n7\nDAY\nWITH RECEIPT _\nSTRICTLY\nNO CASK REFUND ,"
+}

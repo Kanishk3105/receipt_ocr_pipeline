@@ -1,0 +1,69 @@
+{
+  "receipt_id": "X51005675099",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005675099.jpg",
+  "fields": {
+    "store_name": {
+      "value": "3 | j 0 |",
+      "confidence": 0.7974,
+      "low_confidence": false
+    },
+    "date": {
+      "value": "2018-01-20",
+      "confidence": 0.9174,
+      "low_confidence": false
+    },
+    "items": {
+      "value": [
+        {
+          "name": "No 18 & 19. Taman City, Jalan Kuching,",
+          "price": 19.0
+        },
+        {
+          "name": "GST ID No",
+          "price": 180.0
+        },
+        {
+          "name": "1, LED 11 SIGNAL",
+          "price": 11.0
+        },
+        {
+          "name": "CONDENSOR (KOZI) 12V",
+          "price": 12.0
+        },
+        {
+          "name": "IODEL SC1ZO1XMT)",
+          "price": 1.0
+        },
+        {
+          "name": "4. OIL FILTER LC",
+          "price": 135.0
+        },
+        {
+          "name": "5. BULB SIGNAL 12V8 RXZ G",
+          "price": 18.5
+        },
+        {
+          "name": "6. NUMBER PLASTIC",
+          "price": 6.0
+        },
+        {
+          "name": "CS-1801-00833Date",
+          "price": 833.0
+        }
+      ],
+      "confidence": 0.8274,
+      "low_confidence": false
+    },
+    "total_amount": {
+      "value": 6.0,
+      "confidence": 0.7974,
+      "low_confidence": false
+    },
+    "ocr_mean_confidence": {
+      "value": 0.8164,
+      "confidence": 0.8164,
+      "low_confidence": false
+    }
+  },
+  "raw_text": "3 | j 0 |\nSuper Terminal Sdn Bhd\n(1150024-H)\nTAX INVOICE\nNo 18 & 19. Taman City, Jalan Kuching,\n52100 Kuala Lun'Dui\nTEL;\n+603-62512293\nGST ID No: 000180269056\nPLATE `O::\n1, LED 11 SIGNAL\nX 55.00\n58.30\nSR\nKZ SIGNA,\nCONDENSOR (KOZI) 12V\nIODEL SC1ZO1XMT)\n18.00\n19.08\nSR\n3.\nLUBE (SEMI) MOTOR OIL\nI\n^\nso.uu\n31.80\nSR\n4. OIL FILTER LC135\n1 X 13.00\n13.78\nSR\n5. BULB SIGNAL 12V8 RXZ G18.5\n1 X3.00\n3.18\nSR\n6. NUMBER PLASTIC\n6 X 1,00\n6.36\nSR\nTotal Sales Inclusive GST @6%\n132.50\nCASH\n132.50\nCHANGE\nO.00\nGk{ Sumnary\nAmount(RM)\nTax(RM)\nSR\n69\n125.00\n7.50\n3-50\nINV NO:\nCS-1801-00833Date\n20/01/2018"
+}

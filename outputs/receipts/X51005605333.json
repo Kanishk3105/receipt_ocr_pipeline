@@ -1,0 +1,101 @@
+{
+  "receipt_id": "X51005605333",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005605333.jpg",
+  "fields": {
+    "store_name": {
+      "value": "{w\" Voj\"",
+      "confidence": 0.5535,
+      "low_confidence": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.1685,
+      "low_confidence": true
+    },
+    "items": {
+      "value": [
+        {
+          "name": "TYIJ3J5 XOCNZ ONY",
+          "price": 5.0
+        },
+        {
+          "name": "Quno) Wa9I",
+          "price": 9.0
+        },
+        {
+          "name": "5'BT",
+          "price": 5.0
+        },
+        {
+          "name": "4se]",
+          "price": 4.0
+        },
+        {
+          "name": "Sh\"T",
+          "price": 2.0
+        },
+        {
+          "name": "6utpunoy",
+          "price": 6.0
+        },
+        {
+          "name": "1s9 JQ",
+          "price": 9.0
+        },
+        {
+          "name": "Jea4}-2e",
+          "price": 25.0
+        },
+        {
+          "name": "69*EI @ odE",
+          "price": 69.0
+        },
+        {
+          "name": "0[8F92 {suexl",
+          "price": 92.0
+        },
+        {
+          "name": "VSOS820FOL :*QN dTTS",
+          "price": 820.0
+        },
+        {
+          "name": "'Andunj etenx Q",
+          "price": 95.0
+        },
+        {
+          "name": "zex WnI Es3o",
+          "price": 3.0
+        },
+        {
+          "name": "Wetec '8 QN",
+          "price": 8.0
+        },
+        {
+          "name": "(00o266261TO0 \"QN 6ax LSg)",
+          "price": 6.0
+        },
+        {
+          "name": "6utnes",
+          "price": 6.0
+        },
+        {
+          "name": "'G8TT/L",
+          "price": 8.0
+        }
+      ],
+      "confidence": 0.5835,
+      "low_confidence": true
+    },
+    "total_amount": {
+      "value": 820.0,
+      "confidence": 0.4485,
+      "low_confidence": true
+    },
+    "ocr_mean_confidence": {
+      "value": 0.2745,
+      "confidence": 0.2745,
+      "low_confidence": true
+    }
+  },
+  "raw_text": "{w\" Voj\"\nuetndod\"Mam\n'hiYOY Z40n 30378\n'no #Nykl\nTYIJ3J5 XOCNZ ONY\nsbuneS Tejol\nEL \" [\n69*62\n%9 0 [\n(y) xe\n(ku) Junouy\nKew\n1S9\nE\nQuno) Wa9I\n5'BT\n0\"0-\n4se]\nSh\"T2\nWx Tezol\nZ0*0-\n6utpunoy\nLb'TC\n1s9 JQ\n'Tui WX Tezop\nJea4}-2e25\nLo\" Tb\n69*EI @ odE\nS.OSb Kdoj\"d\nJunoww\nWopdeaosai\n0[8F92 {suexl\nepiwseyuoN\nVSOS820FOL :*QN dTTS\n0z/0SbZb[b-ED\nTaj\netsketew\n'Andunj etenx Q0095\nzex WnI Es3o\nWetec '8 QN\n(00o266261TO0 \"QN 6ax LSg)\n(m-SZBETT\nGN Kueduj}\nWHa Nos\n(w)\n0J\nXode XY7nd0d\nKru\n(Pw\n6utnes\n60L\n'G8TT/L"
+}

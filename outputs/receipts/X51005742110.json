@@ -1,0 +1,49 @@
+{
+  "receipt_id": "X51005742110",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005742110.jpg",
+  "fields": {
+    "store_name": {
+      "value": "YONG CEN ENTERPRISE",
+      "confidence": 0.8013,
+      "low_confidence": false
+    },
+    "date": {
+      "value": "2018-08-01",
+      "confidence": 0.9213,
+      "low_confidence": false
+    },
+    "items": {
+      "value": [
+        {
+          "name": "JALAN SUBANG JASA 3,",
+          "price": 3.0
+        },
+        {
+          "name": "GST NO",
+          "price": 1147.0
+        },
+        {
+          "name": "RECEIPT # CS00668595 DATE: 08/01/",
+          "price": 2018.0
+        },
+        {
+          "name": "SR:CHAMPIGNONS MUSHROOMS 4258(2.5833X",
+          "price": 2.58
+        }
+      ],
+      "confidence": 0.8913,
+      "low_confidence": false
+    },
+    "total_amount": {
+      "value": 6685.0,
+      "confidence": 0.8013,
+      "low_confidence": false
+    },
+    "ocr_mean_confidence": {
+      "value": 0.8252,
+      "confidence": 0.8252,
+      "low_confidence": false
+    }
+  },
+  "raw_text": "YONG CEN ENTERPRISE\n9\nJALAN SUBANG JASA 3,\n40150 SHAH ALAM, SELANGOR.\nTEL: 012-9719498\nGST NO: 001147981824\nCASH\nRECEIPT # CS00668595 DATE: 08/01/2018\nSALESPERSON\nTIME: 10.47:00\nCOUNTER\nITEM\nQTY\nUIP\nAMOUNT\n9555223500000\n24\n2.58\n61.99\nSR:CHAMPIGNONS MUSHROOMS 4258(2.5833X\nTOTAL QUANTITY\n24\nSUB-TOTAL\n61.99\nDISC\n0.00\nEulov^ Ishr\nGST\n3.72\nTAX\n0.00\nROUNDING\n-0.01\nTOTAL\n65.70\nCASH\n65 70\nBr`\nCHANGE\n0.00\nGOODS SOLD ARE NOT RETURNABLE;\nTHANK YOU."
+}

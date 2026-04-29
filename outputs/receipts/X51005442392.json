@@ -1,0 +1,85 @@
+{
+  "receipt_id": "X51005442392",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005442392.jpg",
+  "fields": {
+    "store_name": {
+      "value": "UNIHAKKA INTERNATIONAL SDN BHD",
+      "confidence": 0.7147,
+      "low_confidence": false
+    },
+    "date": {
+      "value": "2018-03-29",
+      "confidence": 0.7297,
+      "low_confidence": false
+    },
+    "items": {
+      "value": [
+        {
+          "name": "29 Mar 2018 18",
+          "price": 19.0
+        },
+        {
+          "name": "(867383-U)",
+          "price": 867383.0
+        },
+        {
+          "name": "12 Jalan",
+          "price": 12.0
+        },
+        {
+          "name": "ampoi 7i4,Kawasan Perindustrian",
+          "price": 4.0
+        },
+        {
+          "name": "Tamppi,81200 Johor Bahru,Johor",
+          "price": 81200.0
+        },
+        {
+          "name": "ORI",
+          "price": 8032802170347.0
+        },
+        {
+          "name": "SR IOD1QOOQou35",
+          "price": 35.0
+        },
+        {
+          "name": "3 Vege",
+          "price": 3.0
+        },
+        {
+          "name": "\"7.1C",
+          "price": 7.1
+        },
+        {
+          "name": "GST (636",
+          "price": 0.4
+        },
+        {
+          "name": "6zu",
+          "price": 6.0
+        },
+        {
+          "name": "GST REG #",
+          "price": 358103584.0
+        },
+        {
+          "name": "0jo",
+          "price": 3134.0
+        }
+      ],
+      "confidence": 0.8047,
+      "low_confidence": false
+    },
+    "total_amount": {
+      "value": 710.0,
+      "confidence": 0.7147,
+      "low_confidence": false
+    },
+    "ocr_mean_confidence": {
+      "value": 0.6326,
+      "confidence": 0.6326,
+      "low_confidence": true
+    }
+  },
+  "raw_text": "UNIHAKKA INTERNATIONAL SDN BHD\n29 Mar 2018 18:19\n(867383-U)\n12 Jalan\nampoi 7i4,Kawasan Perindustrian\nTamppi,81200 Johor Bahru,Johor\nTAXINVOICE\nInvoice\nORI8032802170347\nQty\nTotal\nSR IOD1QOOQou35-\nMeat _\n3 Vege\n\"7.1C\n57,10\nTotal Amoun:: 52.10\nGST (636: $0.40\nNett Total; #7,10\nPaymert Mada\nAmourt\nCAsH\nChange\n50.00\nGSTSummar\nATioLirills)\nFaxft]\n6zu\n0.40\nGST REG #000358103584\n@ARWANG RICE@PERMAS JAYA\n(Prica Inclusive Ot GST)\nTharkk You\nCome Againl\nLike and Follow Us on Facebooki\nFacebookcom BarWangRice\n0jo3134\nTen"
+}

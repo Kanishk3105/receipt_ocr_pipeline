@@ -1,0 +1,165 @@
+{
+  "receipt_id": "X51005441407",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005441407.jpg",
+  "fields": {
+    "store_name": {
+      "value": "O5",
+      "confidence": 0.597,
+      "low_confidence": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.212,
+      "low_confidence": true
+    },
+    "items": {
+      "value": [
+        {
+          "name": "(w4) *v [",
+          "price": 4.0
+        },
+        {
+          "name": "1SS)",
+          "price": 1.0
+        },
+        {
+          "name": "4utons | (]",
+          "price": 4.0
+        },
+        {
+          "name": "e1ol",
+          "price": 1.0
+        },
+        {
+          "name": "58 `GC",
+          "price": 58.0
+        },
+        {
+          "name": "00",
+          "price": 0.0
+        },
+        {
+          "name": "G| `",
+          "price": 19.0
+        },
+        {
+          "name": "7V1OL",
+          "price": 1.0
+        },
+        {
+          "name": ")uoW1sm[ PV",
+          "price": 1.0
+        },
+        {
+          "name": "1 7t/) sm|eS",
+          "price": 7.0
+        },
+        {
+          "name": "e10[",
+          "price": 10.0
+        },
+        {
+          "name": "5 WH",
+          "price": 5.0
+        },
+        {
+          "name": "179)",
+          "price": 179.0
+        },
+        {
+          "name": "1S",
+          "price": 9.0
+        },
+        {
+          "name": "712|^ JPS",
+          "price": 712.0
+        },
+        {
+          "name": "0+",
+          "price": 0.0
+        },
+        {
+          "name": "ZoJ",
+          "price": 19.0
+        },
+        {
+          "name": "1om",
+          "price": 309.0
+        },
+        {
+          "name": "41o",
+          "price": 41.0
+        },
+        {
+          "name": "ON &1qeL",
+          "price": 1.0
+        },
+        {
+          "name": "ZZ !",
+          "price": 102.0
+        },
+        {
+          "name": "Ssf [8S",
+          "price": 8.0
+        },
+        {
+          "name": "0jio^ui",
+          "price": 0.0
+        },
+        {
+          "name": "(J/J1 Idwis",
+          "price": 1.0
+        },
+        {
+          "name": "VZOLLsQs [",
+          "price": 0.0
+        },
+        {
+          "name": "On",
+          "price": 934.0
+        },
+        {
+          "name": "6L",
+          "price": 8.0
+        },
+        {
+          "name": "1o3lb",
+          "price": 3.0
+        },
+        {
+          "name": "V-/58G",
+          "price": 96.0
+        },
+        {
+          "name": "p4H",
+          "price": 4.0
+        },
+        {
+          "name": "40 e18E]",
+          "price": 18.0
+        },
+        {
+          "name": "24mjuaaoa)",
+          "price": 24.0
+        },
+        {
+          "name": "183 | [",
+          "price": 183.0
+        }
+      ],
+      "confidence": 0.627,
+      "low_confidence": true
+    },
+    "total_amount": {
+      "value": 934.0,
+      "confidence": 0.492,
+      "low_confidence": true
+    },
+    "ocr_mean_confidence": {
+      "value": 0.371,
+      "confidence": 0.371,
+      "low_confidence": true
+    }
+  },
+  "raw_text": "2\nO5\n09\nS\n(w4) *v [\n{WH) )uiniomiv\nK eiluns\n1SS)\nOQ\nW4\n4utons | (]\ne1ol\nunoj\nIvO }\nLI ew\n58 `GC\nWH\nJDNVHJ\n00  00\nW4\nHSVO\nG| `19\nWH\n7V1OL\nZo\n0\nwU\n)uoW1sm[ PV\nJU ! punon\n81\nvQ WH\n(Q\nIS\n1 7t/) sm|eS\ne10[\nra\n5 WH\n179)\n1S9\n712|^ JPS\nS\nOf'\n8S\n0+0\nOf)\n5G\nZoJ19\n1om309\nS\n)s | (] (HH) d\n41o\nNI\n883\nON &1qeL\nF{ ZS\nZZ !102\noxed\nxed\nOn SOd\ninin\ni583\nSsf [8S\n0jio^ui\n#ionNI\nXVL\n(J/J1 Idwis\nGGOGV/.L\n010\nON\nNO | [MAHASJH\nVZOLLsQs [000\nOn 934\n[SD\nSszo\n6L08\n50\n131\n1o3lb\n2G\nBuoyond\nOlilv\nParr duoy\"nd\nippupg\n'Rlij)y\ntP | ef\np ea?inoa\n101\n6f\n8F\n101\nV-/58G96\np4H\nupS\nPi IoM\na41\n40 e18E]\n24mjuaaoa)\n183 | ["
+}

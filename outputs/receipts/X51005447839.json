@@ -1,0 +1,89 @@
+{
+  "receipt_id": "X51005447839",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005447839.jpg",
+  "fields": {
+    "store_name": {
+      "value": "RES4 AURANT",
+      "confidence": 0.812,
+      "low_confidence": false
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.532,
+      "low_confidence": true
+    },
+    "items": {
+      "value": [
+        {
+          "name": "RES4 AURANT",
+          "price": 4.0
+        },
+        {
+          "name": "002693074-K",
+          "price": 2693074.0
+        },
+        {
+          "name": "13,",
+          "price": 13.0
+        },
+        {
+          "name": "POS No",
+          "price": 1.0
+        },
+        {
+          "name": "9 /3/2018 20: 54",
+          "price": 50.0
+        },
+        {
+          "name": "35.",
+          "price": 0.0
+        },
+        {
+          "name": "16.",
+          "price": 0.0
+        },
+        {
+          "name": "10.",
+          "price": 0.0
+        },
+        {
+          "name": "0.",
+          "price": 0.0
+        },
+        {
+          "name": "1 .",
+          "price": 20.0
+        },
+        {
+          "name": "RM 65,",
+          "price": 20.0
+        },
+        {
+          "name": "RM 0.",
+          "price": 0.0
+        },
+        {
+          "name": "RM 65.",
+          "price": 20.0
+        },
+        {
+          "name": "0.",
+          "price": 0.0
+        }
+      ],
+      "confidence": 0.902,
+      "low_confidence": false
+    },
+    "total_amount": {
+      "value": 2693074.0,
+      "confidence": 0.932,
+      "low_confidence": false
+    },
+    "ocr_mean_confidence": {
+      "value": 0.8489,
+      "confidence": 0.8489,
+      "low_confidence": false
+    }
+  },
+  "raw_text": "RES4 AURANT\nJIAWE |\nJIAWE\nHOUSE\n002693074-K\n13,\nJLN\nTASik\nUTAMA\nMEDAN\nNIAGA\nDAMA\nSG\nBES /\n57000\nKL\nINVO ICE\nInvoice\n9820\nCash ier : admin\nPOS No:1\nDate\n9 /3/2018 20: 54: 50\nTable\n16\nITEM\nQTy\nU/P (Rm)\ndisc ('\nAint (RM;\nB. Bean Bitterground\nFi sh Head\n(S)\n35. 00\nF.Hong\nSauteed\n(s)}\n16. 00\nSteamed Egg (S)\n10. 00\n0O\nCh i nese\nTea\n2\n60\n0. 00\n1 .20\nCOLD\nRice\n(B)\n2\n1.50\nSub Total\nBefore Di scount\nRM 65, 20\nServ ice Chargo\nRM 0. 00\nTota\nSa |es\nRM 65. 20\nRound\nng Adjustinent\nRM\n0. 00\nTOTAL\nRM\n65.20\nKong"
+}

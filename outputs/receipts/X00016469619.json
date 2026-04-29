@@ -1,0 +1,65 @@
+{
+  "receipt_id": "X00016469619",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X00016469619.jpg",
+  "fields": {
+    "store_name": {
+      "value": "tan woon yann",
+      "confidence": 0.6527,
+      "low_confidence": true
+    },
+    "date": {
+      "value": "2018-10-19",
+      "confidence": 0.6677,
+      "low_confidence": true
+    },
+    "items": {
+      "value": [
+        {
+          "name": "8 HOME   dECo",
+          "price": 8.0
+        },
+        {
+          "name": "27,JALAN DEDAF 13 _",
+          "price": 13.0
+        },
+        {
+          "name": "Location/SP",
+          "price": 5.0
+        },
+        {
+          "name": "MB",
+          "price": 2658.0
+        },
+        {
+          "name": "ds04",
+          "price": 352.0
+        },
+        {
+          "name": "5T-PRIVILEGE   CARD/GD INDAH",
+          "price": 5.0
+        },
+        {
+          "name": "a8a",
+          "price": 88.0
+        },
+        {
+          "name": "GF-TABLE LAMP /STITCK <1>",
+          "price": 1.0
+        }
+      ],
+      "confidence": 0.7427,
+      "low_confidence": false
+    },
+    "total_amount": {
+      "value": 2658.0,
+      "confidence": 0.6977,
+      "low_confidence": true
+    },
+    "ocr_mean_confidence": {
+      "value": 0.4949,
+      "confidence": 0.4949,
+      "low_confidence": true
+    }
+  },
+  "raw_text": "tan woon yann\nInDAH GIFT\n8 HOME   dECo\n27,JALAN DEDAF 13 _\nTaman Johor JaYA_\n91100 Jqhor Bahru, JOHQR _\nTel:07-3507405\nFax:07-3558160\nRECEIPT\n19/10/2018\n20:49:59 H01\nCashier-\nCh\nLocation/SP: 05\n/0531\nMB: 0026588\nRouu No: 0I\nds04 00035279\nQesc [Iter\n@t\nFrice\nAmt ( Rm\n5T-PRIVILEGE   CARD/GD INDAH\na8a88\n1O.0o\n10.00\nGF-TABLE LAMP /STITCK <1>\n62483\n55,%0\n55.90\n@DIsC\n1O . 007\n-5.59\n#Total Qty\nTOTAL Ant ,\nPm\n80.31\nROUNDING AD} _\n~0, Of\nFm\n60.30\nCASH; _\nRN\n70. 30\nCHANGE _\nRM\nf0,0o\nThank You\nPlease Come Again\nCoods Sold Arp Nat Returnzble\nDealing In Wholesale And Retatl"
+}

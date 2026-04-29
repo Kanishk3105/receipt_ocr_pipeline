@@ -1,0 +1,89 @@
+{
+  "receipt_id": "X51005441402",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005441402.jpg",
+  "fields": {
+    "store_name": {
+      "value": "THREE",
+      "confidence": 0.7459,
+      "low_confidence": false
+    },
+    "date": {
+      "value": "2018-03-03",
+      "confidence": 0.8659,
+      "low_confidence": false
+    },
+    "items": {
+      "value": [
+        {
+          "name": "109 , SS21/14,",
+          "price": 14.0
+        },
+        {
+          "name": "V0:_POSQ1/00O1223(",
+          "price": 9.0
+        },
+        {
+          "name": "INV DATE: 03/03/",
+          "price": 2018.0
+        },
+        {
+          "name": "INv DT : 03/03/2018 10:58:51 PH",
+          "price": 51.0
+        },
+        {
+          "name": "HH GUINESS   12 GLASSES",
+          "price": 12.0
+        },
+        {
+          "name": "150 ,",
+          "price": 150.0
+        },
+        {
+          "name": "1FO,v_",
+          "price": 1.0
+        },
+        {
+          "name": "SERVICE CHARGE   1OX",
+          "price": 1.0
+        },
+        {
+          "name": "GST  6*",
+          "price": 6.0
+        },
+        {
+          "name": "174,",
+          "price": 174.0
+        },
+        {
+          "name": "SVC SERVICE CHARGE",
+          "price": 10.0
+        },
+        {
+          "name": "150 ,",
+          "price": 0.0
+        },
+        {
+          "name": "GST 6X",
+          "price": 6.0
+        },
+        {
+          "name": "165 ,",
+          "price": 0.0
+        }
+      ],
+      "confidence": 0.8359,
+      "low_confidence": false
+    },
+    "total_amount": {
+      "value": 1661886464.0,
+      "confidence": 0.7459,
+      "low_confidence": false
+    },
+    "ocr_mean_confidence": {
+      "value": 0.702,
+      "confidence": 0.702,
+      "low_confidence": false
+    }
+  },
+  "raw_text": "THREE\nSTOOGES\nBISTRO & CAFE\n109 , SS21/14,\nDAMANSARA UTAMA\nGST  ID\n001661886464\nTaX INVOICE\nTABLE\nG7\nLNV\nV0:_POSQ1/00O1223(9\nINV DATE: 03/03/2018\nCASHIER; CASHIER\nINv DT : 03/03/2018 10:58:51 PH\nRi\nQTY ITEM\nAMQUNT\nHH GUINESS   12 GLASSES\n150 ,\nSVC\nSUB  TOTAL\n1FO,v_\nSERVICE CHARGE   1OX\n16\nGST  6*\nNET   TOTAL\n174,\nCASH\nCHANGE\n25,10\nTax Summary\nAmount\nTax\nSVC SERVICE CHARGE 10\n150 , 00\n15,00\nSR\nGST 6X\n165 , 00\n9,90\nThank You.\nPlz Come Again"
+}

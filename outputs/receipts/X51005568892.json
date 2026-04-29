@@ -1,0 +1,97 @@
+{
+  "receipt_id": "X51005568892",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005568892.jpg",
+  "fields": {
+    "store_name": {
+      "value": "X3koyoJ378vONI13YLON34v0703a000",
+      "confidence": 0.5551,
+      "low_confidence": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.1701,
+      "low_confidence": true
+    },
+    "items": {
+      "value": [
+        {
+          "name": "2S pl",
+          "price": 2.0
+        },
+        {
+          "name": "IUv 13j IUV Jiqaxol",
+          "price": 13.0
+        },
+        {
+          "name": "a6ue4)",
+          "price": 4.0
+        },
+        {
+          "name": "4Se)",
+          "price": 4.0
+        },
+        {
+          "name": "t81Mau ILQL",
+          "price": 81.0
+        },
+        {
+          "name": "TJaL 8n",
+          "price": 8.0
+        },
+        {
+          "name": "(ala)(",
+          "price": 411.0
+        },
+        {
+          "name": "7v1c4-88n",
+          "price": 8.0
+        },
+        {
+          "name": "AOua037MDI um3od",
+          "price": 3.0
+        },
+        {
+          "name": "9cli",
+          "price": 9.0
+        },
+        {
+          "name": "2pm",
+          "price": 2.0
+        },
+        {
+          "name": "3ka",
+          "price": 3.0
+        },
+        {
+          "name": "331OANI XVL",
+          "price": 331.0
+        },
+        {
+          "name": "Elbesesweddd :1aja1 'ON)",
+          "price": 1.0
+        },
+        {
+          "name": "'lyalnd yvoNv",
+          "price": 8.0
+        },
+        {
+          "name": "tn-G53L03)",
+          "price": 3.0
+        }
+      ],
+      "confidence": 0.5851,
+      "low_confidence": true
+    },
+    "total_amount": {
+      "value": 3148.0,
+      "confidence": 0.4501,
+      "low_confidence": true
+    },
+    "ocr_mean_confidence": {
+      "value": 0.2779,
+      "confidence": 0.2779,
+      "low_confidence": true
+    }
+  },
+  "raw_text": "X3koyoJ378vONI13YLON34v0703a000\nOOA NNMHL\n2v\n2S pl\nY9 -(3148+\nIUv 13j IUV Jiqaxol\n438\n00' 0\na6ue4)\n00 '97\n4Se)\n00 '97\nLSQIjwi evoL\nNY\n2\nALUUNMTO MIQL\nt81Mau ILQL\nLSONOV JNIONIOY\n66\"*52\nTJaL 8n8\nLv |\n(ala)(411\n25\" F2\n7v1c4-88n8\nAOua037MDI um3od\n9cli\n86S61\n2pm\nH@\n2003\nicli\nLidubd |\nId-|d#\n3ka03\nlosevi\n'ON\n331OANI XVL\nElbesesweddd :1aja1 'ON)\n'lyalnd yvoNv8\ntn-G53L03)\nOHA Nas L+I7 Nj3834313\nKed"
+}

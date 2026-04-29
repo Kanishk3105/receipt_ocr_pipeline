@@ -1,0 +1,49 @@
+{
+  "receipt_id": "17",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\17.jpg",
+  "fields": {
+    "store_name": {
+      "value": "bock",
+      "confidence": 0.6591,
+      "low_confidence": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.2291,
+      "low_confidence": true
+    },
+    "items": {
+      "value": [
+        {
+          "name": "73oo\"",
+          "price": 73.0
+        },
+        {
+          "name": "TKZGF1 SLZFF",
+          "price": 1.0
+        },
+        {
+          "name": "'18Ta Trt o3o",
+          "price": 80.0
+        },
+        {
+          "name": "Eoe",
+          "price": 31.0
+        }
+      ],
+      "confidence": 0.6441,
+      "low_confidence": true
+    },
+    "total_amount": {
+      "value": 970.0,
+      "confidence": 0.5091,
+      "low_confidence": true
+    },
+    "ocr_mean_confidence": {
+      "value": 0.4092,
+      "confidence": 0.4092,
+      "low_confidence": true
+    }
+  },
+  "raw_text": "bock\nrrcrIPt\nfor\nYour\nchunce\nuln\n73oo\"\nID\nTKZGF1 SLZFF\nWalmart\nSave monoy: Llvo bottar.\n970\nt\nopI\n'18Ta Trt o3o80\nOddd0000\n70_\n6\nEoe31\nJ#\nF\n1\nKFT\nES\n88\nH\n045009821\n2\n13\nF\n1\n@4\nFaneci\nE\nH\n1\nsupidjaL\nFa{\n{\nduE\n0L\n0n1\nIA\n4:26:03"
+}

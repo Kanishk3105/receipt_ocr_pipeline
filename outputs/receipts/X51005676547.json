@@ -1,0 +1,45 @@
+{
+  "receipt_id": "X51005676547",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005676547.jpg",
+  "fields": {
+    "store_name": {
+      "value": "3 |8 0'| 0,1 +",
+      "confidence": 0.8211,
+      "low_confidence": false
+    },
+    "date": {
+      "value": "2018-01-13",
+      "confidence": 0.9411,
+      "low_confidence": false
+    },
+    "items": {
+      "value": [
+        {
+          "name": "NO 290, JALAN AIR PANAS,",
+          "price": 290.0
+        },
+        {
+          "name": "CSO",
+          "price": 1272.0
+        },
+        {
+          "name": "GLOVE 1200 (PER PAIR)",
+          "price": 1200.0
+        }
+      ],
+      "confidence": 0.9111,
+      "low_confidence": false
+    },
+    "total_amount": {
+      "value": 2018.0,
+      "confidence": 0.8211,
+      "low_confidence": false
+    },
+    "ocr_mean_confidence": {
+      "value": 0.8691,
+      "confidence": 0.8691,
+      "low_confidence": false
+    }
+  },
+  "raw_text": "3 |8 0'| 0,1 +\nSYARIKAT PERNIAGAAN GIN KEE\n(81109-A)\nNO 290, JALAN AIR PANAS,\nSETAPAK,\n53200, KUALA LUMPUR;\nTEL\n03-40210276\nGST ID\n000750673920\nSIMPLIF;ED TAX INVOICE\nCASH\nDoc No\nCSO0012726\nDate\"\n13/01/2018\nCashier\nUSER\nTime:\n15.52.00\nSalesperson\nRef.\nItom\nSIPrice\nAmount\nTax\n1432\n2 12\n1272\nSR\nGLOVE 1200 (PER PAIR)\nTotal\n12.72\nTotal Sales (Excluding GST)\n12.00\nDiscount\n00\nTotal GST\n0.72\nRounding\n0.00\nTotal Sales (Inclusive of GST)\n12.72\nCASH\n12.72\nChange\n0.00\nGST SUMMARY\nIax Code\nAmt (RM\nTax (RM\nSR\n12.00\n0 72\nTotal\n12.00\n0.72\nGQODS SOLD ARE NOT RETURNABLE, THANK YOU"
+}

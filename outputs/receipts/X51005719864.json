@@ -1,0 +1,45 @@
+{
+  "receipt_id": "X51005719864",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005719864.jpg",
+  "fields": {
+    "store_name": {
+      "value": "FUN N CHELR (MALURD)",
+      "confidence": 0.7707,
+      "low_confidence": false
+    },
+    "date": {
+      "value": "2018-05-01",
+      "confidence": 0.7857,
+      "low_confidence": false
+    },
+    "items": {
+      "value": [
+        {
+          "name": "Lot 37636,JALAN 6/370,",
+          "price": 370.0
+        },
+        {
+          "name": "CSO",
+          "price": 1.0
+        },
+        {
+          "name": "64On",
+          "price": 64.0
+        }
+      ],
+      "confidence": 0.8607,
+      "low_confidence": false
+    },
+    "total_amount": {
+      "value": 2811.0,
+      "confidence": 0.7707,
+      "low_confidence": false
+    },
+    "ocr_mean_confidence": {
+      "value": 0.7571,
+      "confidence": 0.7571,
+      "low_confidence": false
+    }
+  },
+  "raw_text": "FUN N CHELR (MALURD)\nLot 37636,JALAN 6/370,\nTAMAN\nBUKIT MALURI\n52100 KUALA LUMPUR\nTel\n03-62612536\nTAX INNVOICE\n(Gst\nID\nNo .\n8\n001439154176)\n05/01/2018\nCashier:\nCSO1\n11.44.44\ns/P:MAL\nNo:0200419363\nItem/desc .\nQty\nPrice\nAmt\nRAIN BEBOLa(S)sha\nBU\nsR\n0412638\n2\n14,90\n29, 80\nTotal Qty\n2\nTOTAL EXCL GST\n28,11\nADD : GST\n64On\n1.69\n29.80\nCASH\n50.00\nCHANGE\n20 . 20\nGst\nsummary\nAmount\nRM\nTax\nRM\nsr\n=\n6X\n28,11\n1.69\n0.00\n0.00\ngoods soLd ARE\nNot  RETURNABLE\nTHANK\nYOU\nPLEASE\nCOME\nAGAIN"
+}

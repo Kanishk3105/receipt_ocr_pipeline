@@ -1,0 +1,53 @@
+{
+  "receipt_id": "X51005621482",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005621482.jpg",
+  "fields": {
+    "store_name": {
+      "value": "FumT",
+      "confidence": 0.7941,
+      "low_confidence": false
+    },
+    "date": {
+      "value": "2018-03-20",
+      "confidence": 0.8691,
+      "low_confidence": false
+    },
+    "items": {
+      "value": [
+        {
+          "name": "No",
+          "price": 57.0
+        },
+        {
+          "name": "Jalan SS 3/29,",
+          "price": 29.0
+        },
+        {
+          "name": "Your sorvlce jobs such a8 photocopy and printing aro",
+          "price": 8.0
+        },
+        {
+          "name": "aublocted to the 8% GST during chockout",
+          "price": 8.0
+        },
+        {
+          "name": "acceptable within",
+          "price": 3.0
+        }
+      ],
+      "confidence": 0.8391,
+      "low_confidence": false
+    },
+    "total_amount": {
+      "value": 6.0,
+      "confidence": 0.7491,
+      "low_confidence": false
+    },
+    "ocr_mean_confidence": {
+      "value": 0.7092,
+      "confidence": 0.7092,
+      "low_confidence": false
+    }
+  },
+  "raw_text": "FumT\nPREMIO STATIONERY SDN BHD\n(Co\nNo\n123769-W)\nGST\nNo\n001032994816\nNo 57\nJalan SS 3/29,\n47300 Petaling Jaya. Selangor\n03-7874 8605\nTAX\ninvoice\nInvoice No\nS53-154439\nDate\n20/03/2018 3.20.16 PM\nCashier\nIV\nDescription\nQty\nPrice\nAmount\nSR\nENERGIZER\n15.4\n13 40\nBATTERYAAAS\nTotal\n3.40\nDiscount\n0.00\nTotal Sales Inclusive GST @6 00%\n3.40\nCash Received\n20.00\nChange\n6 60\nStarting Ist April\nYo wlll no longer be Isoulng handwritten\nInvolceb ,\nYour sorvlce jobs such a8 photocopy and printing aro\nrephced by tho order Iorm plona with\nEopy ot thlt rocolpt\nAll goods and servicos\naublocted to the 8% GST during chockout\nAtl qoodt sold ar0 not roturnablclrofundablo Exchengor ero onty\nacceptable within 3\nwith\nproot of recolpt.\nAll cartridgo & toner seles aro fnal and non-efundablo\nNo cuwh rotunda {or credit card purchatos\nNo rofunde or oxchanger wlll be sntortalnad without proof of rocolpt\nTermt\nand conditiont #pppllod:\nGST Summary\n%\nAmount(RM)\nTax(RM)\nSR\n6,00\n12,64\n0 76\nThank you for Shopping\nPREMIO\nHave\nNice Dayl\nFor tho Intest newus Ind updater\nlino UI On facobook comVpre\n\"omiortationory\nReg\naro\nduyt"
+}

@@ -1,0 +1,93 @@
+{
+  "receipt_id": "X00016469623",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X00016469623.jpg",
+  "fields": {
+    "store_name": {
+      "value": "tan woon yann",
+      "confidence": 0.6021,
+      "low_confidence": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.2171,
+      "low_confidence": true
+    },
+    "items": {
+      "value": [
+        {
+          "name": "1ub1-R",
+          "price": 1.0
+        },
+        {
+          "name": "16,6uu)1J",
+          "price": 1.0
+        },
+        {
+          "name": "1Duu",
+          "price": 1.0
+        },
+        {
+          "name": "HA",
+          "price": 44.0
+        },
+        {
+          "name": "99 Slrai Wany[",
+          "price": 99.0
+        },
+        {
+          "name": "9uug",
+          "price": 9.0
+        },
+        {
+          "name": "71386#2PCS",
+          "price": 2.0
+        },
+        {
+          "name": "JU'",
+          "price": 822.0
+        },
+        {
+          "name": "Lem(3)",
+          "price": 3.0
+        },
+        {
+          "name": "RM JO",
+          "price": 91.0
+        },
+        {
+          "name": "Rm",
+          "price": 3090.0
+        },
+        {
+          "name": "51 Ou",
+          "price": 51.0
+        },
+        {
+          "name": "Jllul",
+          "price": 2153.0
+        },
+        {
+          "name": "I6A]NE E",
+          "price": 6.0
+        },
+        {
+          "name": "H4hgE",
+          "price": 4.0
+        }
+      ],
+      "confidence": 0.6321,
+      "low_confidence": true
+    },
+    "total_amount": {
+      "value": 3090.0,
+      "confidence": 0.4971,
+      "low_confidence": true
+    },
+    "ocr_mean_confidence": {
+      "value": 0.3824,
+      "confidence": 0.3824,
+      "low_confidence": true
+    }
+  },
+  "raw_text": "tan woon yann\nMk\"\n0)\nSin\n#hil\n(Lu\n#fu\n86441\n1ub1-R\n'Aian #PR\nHmabah Ptk\nNuustrian AALAPOMG\nJJuO\nSERI KEHBANG;AH_\nSFLAnGOR\nTESCU PuRA NILAIE\nINVOIce\nAuiu FLo Mash & SHINE\nESIUuu\n0'44\n16,6uu)1J\n3.M1\n# (1 + /\nFm\n1Duu\n#\"\nHA44\nIm',#)\n4 6\n4.{\n0,4'\nI il\n2572\nHA$\n079' 670141/004\n11\n1!\n#Etnsu AJAIB\n99 Slrai Wany[\n9uug\nwDul\n15\n46556514u0 j85\n7 .45\n1 45\nHANbk FRLHIF\n71386#2PCS\npMM\n6/300)\nJU'822\n4 , 5U\n50\nLem(3)\nUly(s )\nTata\nRM JO 91\nRUuMD[#L Al)JU,MEH\nRh (\nTuTAL\nRUUngfv\nRm 30,90\nCaSm\n80.7\nRH\n51 Ou\nMakul\nR 20, |0\n1k\n1 J:54\nJllul 2153\n(\nKuinuuzqu?\nUpt+ A ( Uk\nI6A]NE E\nCASHIER\nH4hgE\nAkE ALLOWED HITulh\nDays\n#itk RECE [PT\nIRJu My\nnd CASH REFUND\nMab\nkuu"
+}

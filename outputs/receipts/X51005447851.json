@@ -1,0 +1,77 @@
+{
+  "receipt_id": "X51005447851",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005447851.jpg",
+  "fields": {
+    "store_name": {
+      "value": "PASARAYA BORONG PINTAR",
+      "confidence": 0.8468,
+      "low_confidence": false
+    },
+    "date": {
+      "value": "2018-01-30",
+      "confidence": 0.8168,
+      "low_confidence": false
+    },
+    "items": {
+      "value": [
+        {
+          "name": "(124525-H)",
+          "price": 124525.0
+        },
+        {
+          "name": "NO 1!-G8191819-2 JALAN TASIK UTAMA",
+          "price": 4.0
+        },
+        {
+          "name": "016-5498845,",
+          "price": 5498845.0
+        },
+        {
+          "name": "30/01/2018 ; 4 48",
+          "price": 23.0
+        },
+        {
+          "name": "TR'v: CROO",
+          "price": 2815.0
+        },
+        {
+          "name": "JNTER",
+          "price": 3.0
+        },
+        {
+          "name": "RE VIVE 500ML",
+          "price": 500.0
+        },
+        {
+          "name": "100",
+          "price": 0.0
+        },
+        {
+          "name": "98",
+          "price": 30.0
+        },
+        {
+          "name": "ZRL = 0 %",
+          "price": 0.0
+        },
+        {
+          "name": "O.",
+          "price": 0.0
+        }
+      ],
+      "confidence": 0.8918,
+      "low_confidence": false
+    },
+    "total_amount": {
+      "value": 0.0,
+      "confidence": 0.5218,
+      "low_confidence": true
+    },
+    "ocr_mean_confidence": {
+      "value": 0.8263,
+      "confidence": 0.8263,
+      "low_confidence": false
+    }
+  },
+  "raw_text": "PASARAYA BORONG PINTAR\nSDN BHD\nBR No\n(124525-H)\nNO 1!-G8191819-2 JALAN TASIK UTAMA 4\nMEDAN NIAGA TASIK DAMAI\n016-5498845,\nGST No.\n30/01/2018 ; 4 48 23\nTAX INVOICE\nTR'v: CROO02815\nJNTER 3\nCASHIER\n11\n2T\nUOM\nUNIT Amt Exc\nAmt Inc.\nGST\nPrice\nTax\nTax Code\nRE VIVE 500ML\nWALK\n1 70\n1 70\n1.70\nZRI\nTcital Qty:\n00\n1.70\nTotal Includes @ST 0%\n70\nCustomers Pavment\nCash\n100 00\nChange\n98 30\nGST Summary\nAmount (RM)\nTax (RM)\nZRL = 0 %\n1\n70\nO.00\n\"Goods sold are not returnable\nThank YOU for shopping at\nPASARAYA\nBORONG PINTAR SDN BHD"
+}

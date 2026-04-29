@@ -1,0 +1,101 @@
+{
+  "receipt_id": "X51005568899",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005568899.jpg",
+  "fields": {
+    "store_name": {
+      "value": "OnQJ3u",
+      "confidence": 0.5993,
+      "low_confidence": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.2143,
+      "low_confidence": true
+    },
+    "items": {
+      "value": [
+        {
+          "name": "OnQJ3u",
+          "price": 3.0
+        },
+        {
+          "name": "LdI3J3U",
+          "price": 3.0
+        },
+        {
+          "name": "NIHIM (3m077v",
+          "price": 77.0
+        },
+        {
+          "name": "J9nwhjX]",
+          "price": 9.0
+        },
+        {
+          "name": "#ZiTsHw 4on",
+          "price": 4.0
+        },
+        {
+          "name": "LhJJ 4OLv4Jdo",
+          "price": 4.0
+        },
+        {
+          "name": "[oHS 9i:9i",
+          "price": 9.0
+        },
+        {
+          "name": "Ll-0l",
+          "price": 81.0
+        },
+        {
+          "name": "X90S",
+          "price": 90.0
+        },
+        {
+          "name": "(H& ) 1uV",
+          "price": 1.0
+        },
+        {
+          "name": "XgO1SJ",
+          "price": 1.0
+        },
+        {
+          "name": "9CVm",
+          "price": 9.0
+        },
+        {
+          "name": "93d HJOIJ",
+          "price": 93.0
+        },
+        {
+          "name": "J40S131 SvuJhj)",
+          "price": 131.0
+        },
+        {
+          "name": "QI 1SJ)",
+          "price": 1.0
+        },
+        {
+          "name": "HOJnv",
+          "price": 735.0
+        },
+        {
+          "name": "Ib3S Ooe8v",
+          "price": 8.0
+        }
+      ],
+      "confidence": 0.6293,
+      "low_confidence": true
+    },
+    "total_amount": {
+      "value": 9996.0,
+      "confidence": 0.4943,
+      "low_confidence": true
+    },
+    "ocr_mean_confidence": {
+      "value": 0.3762,
+      "confidence": 0.3762,
+      "low_confidence": true
+    }
+  },
+  "raw_text": "OnQJ3u\nHSVJ\nOn\nATJIUIS\nLdI3J3U\nHLIM Sahq\nNIHIM (3m077v\nJuv\nJ9nwhjX]\n#ZiTsHw 4on\nLhJJ 4OLv4Jdo\n89[0000008 &1\n6017\n[oHS 9i:9i\nLl-0l-81\n88 ' 0\nLS' G\nX90S\n1S9\n(wu)xe[\n(H& ) 1uV\nKjewmns\n1S9\n06 ' 5\nHd\nHSva\n06 ' 5\nN8\nXgO1SJ\n(JUi\n[e101\n(S)K+0\n(s)Wa+I\n06 ' 5\n06 ' 5\nX [\n901 |06z4 [ 9996\n09/9\n9CVm\nSt\n0p|-3\n93d HJOIJ\n~JJIOANI XVJ-\n(77w\nJ40S131 SvuJhj)\n(825988260 | 00:\non\nQI 1SJ)\nHOJnv 735\nNvjnvanzx\nIb3S Ooe8v\nJnoxvIvb\nNHIHLSQONIuJd\n9\n9-(581\n9 V-(981\n101\n[-LZbvOL:\n938' 0J)\nOHg\nnOS\na\"I'0\n4w"
+}

@@ -1,0 +1,81 @@
+{
+  "receipt_id": "X51005230657",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005230657.jpg",
+  "fields": {
+    "store_name": {
+      "value": "WOJ\"",
+      "confidence": 0.5704,
+      "low_confidence": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.1854,
+      "low_confidence": true
+    },
+    "items": {
+      "value": [
+        {
+          "name": "os",
+          "price": 1.0
+        },
+        {
+          "name": "S6 L",
+          "price": 6.0
+        },
+        {
+          "name": "%9 @ 1S5 p2UIIWV [e1o]",
+          "price": 1.0
+        },
+        {
+          "name": "YOB JnN@dvz98z ,€ X n€",
+          "price": 98.0
+        },
+        {
+          "name": "Ooos € @ San3378w",
+          "price": 3.0
+        },
+        {
+          "name": "SOdOol XWWB dn3p88y",
+          "price": 88.0
+        },
+        {
+          "name": "HOJ ~3NNODONJ VSl",
+          "price": 3.0
+        },
+        {
+          "name": "Ocou30-)",
+          "price": 18.0
+        },
+        {
+          "name": "0i J9)",
+          "price": 9.0
+        },
+        {
+          "name": "'nVX SNVLV8 VWVIn HVGNva",
+          "price": 8.0
+        },
+        {
+          "name": "8 \"X3S",
+          "price": 3.0
+        },
+        {
+          "name": "'OHa 'NOS XYOM3N 73NNHD SSO4J",
+          "price": 4.0
+        }
+      ],
+      "confidence": 0.6004,
+      "low_confidence": true
+    },
+    "total_amount": {
+      "value": 8896.0,
+      "confidence": 0.4654,
+      "low_confidence": true
+    },
+    "ocr_mean_confidence": {
+      "value": 0.3121,
+      "confidence": 0.3121,
+      "low_confidence": true
+    }
+  },
+  "raw_text": "WOJ\"\n'Ie4608896e105\n\"sn Iiew- apaid 'Minbua Kue jOy\nQOA MNVHL\n\"556\"\nos 1\njejoj\"\nSp*0\nOs\"_\nV@ &S\n(iWNu)\"\nWi)\nXe\nJUNOUIV\nMewuns JSD\nQo'&\nJapue\nKojiof\"\n8861\npled\nS6 L\neiqekedIW Imol\nJualutsnipv Quirnod\n56*L\n%9 @ 1S5 p2UIIWV [e1o]\nOOOS 0\nHS Fs0\nYOB JnN@dvz98z ,€ X n€\nOoos € @ San3378w3\nNS !L€\nSOdOol XWWB dn3p88y\n# 16[\nC008'4\nHOJ ~3NNODONJ VSl\nOOOL\n0\nJdid LInaNODJOUBHWINO\nMWi_\nNo\nOcou30-)18\n~\"ON\n@xioauI XBL\n0i J9)\nBLSs LSO)-E0\n8896 LS0g-E0\nPL\n'nVX SNVLV8 VWVIn HVGNva\n8 \"X3S\nTIWNVYJW MIVC ' Lt\n'OHa 'NOS XYOM3N 73NNHD SSO4J\nXej"
+}

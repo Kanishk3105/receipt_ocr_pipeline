@@ -1,0 +1,41 @@
+{
+  "receipt_id": "X51005605332",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005605332.jpg",
+  "fields": {
+    "store_name": {
+      "value": "POPULAR BOOK",
+      "confidence": 0.7899,
+      "low_confidence": false
+    },
+    "date": {
+      "value": "2018-03-14",
+      "confidence": 0.8049,
+      "low_confidence": false
+    },
+    "items": {
+      "value": [
+        {
+          "name": "Jalan 7/118B,",
+          "price": 118.0
+        },
+        {
+          "name": "CBE Rubber Band2oOgm",
+          "price": 2.0
+        }
+      ],
+      "confidence": 0.8799,
+      "low_confidence": false
+    },
+    "total_amount": {
+      "value": 9201.0,
+      "confidence": 0.7899,
+      "low_confidence": false
+    },
+    "ocr_mean_confidence": {
+      "value": 0.7998,
+      "confidence": 0.7998,
+      "low_confidence": false
+    }
+  },
+  "raw_text": "POPULAR BOOK\nCo.\n(m)\nSDN\nBHD\n(Co_\nNo_\n[13825-W )\n(GST\nNo ,\n001492992000 )\nNo\n8\nJalan 7/118B,\nDesa\nTun Razak\n56000 Kua la\nMalaysia\nSUnway VELOCITY\nTe ]\n03-9201 6281/8920\n14/03/18 12:52\nSlip\nNo.\n0040081037\nLEE WIN\nLEE\nTrans :\n90243\nDeseription\nAmount\nCBE Rubber Band2oOgm\n7. 95\nT\nTotal\nRM\nIncl_\nof\nGST\n7, 95\nCash\n~1o. 00\nCHANGE\n2. 05\nItem Count\nGST Summary\nAmount\n(RM)\nTax (RW)\nT\n@\n6%\n7. 50\n0. 45\nTotal\nSav\n0\n00\nBE\nA\nPOPULAR CARD\nMEMBER\nAND ENjJOY\nSPECIAL DISCOUNTS\nThAnk\nYOU .\nPLEASE\nCOME\nAGAin .\nWww. popular. com_\nMy\nChinese books\non]ine\nWww. popularonline. com. @Y\nReg\nLumpur,\nings\nBuy"
+}

@@ -1,0 +1,157 @@
+{
+  "receipt_id": "X51005724625",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005724625.jpg",
+  "fields": {
+    "store_name": {
+      "value": "NOX XNVHL",
+      "confidence": 0.5941,
+      "low_confidence": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.2091,
+      "low_confidence": true
+    },
+    "items": {
+      "value": [
+        {
+          "name": "318VNunL3Y J.ON Juv @10S SQOOD",
+          "price": 10.0
+        },
+        {
+          "name": "So*",
+          "price": 9.0
+        },
+        {
+          "name": "OS' L9Z",
+          "price": 9.0
+        },
+        {
+          "name": "epo5XEI",
+          "price": 5.0
+        },
+        {
+          "name": "Ayvwwns LS",
+          "price": 2.0
+        },
+        {
+          "name": "Sp",
+          "price": 91.0
+        },
+        {
+          "name": "Ss\"S",
+          "price": 2.0
+        },
+        {
+          "name": "So",
+          "price": 91.0
+        },
+        {
+          "name": "1SD Ie1ol",
+          "price": 1.0
+        },
+        {
+          "name": "Juno3sia",
+          "price": 3.0
+        },
+        {
+          "name": "OS L9z",
+          "price": 9.0
+        },
+        {
+          "name": "(1S_ buipniox3) sejes Ib1ol",
+          "price": 1.0
+        },
+        {
+          "name": "Sv' L",
+          "price": 8.0
+        },
+        {
+          "name": "8p' Li",
+          "price": 8.0
+        },
+        {
+          "name": "OS",
+          "price": 91.0
+        },
+        {
+          "name": "9sLloi",
+          "price": 9.0
+        },
+        {
+          "name": "B00l",
+          "price": 1.0
+        },
+        {
+          "name": "031*eV",
+          "price": 8.0
+        },
+        {
+          "name": "O0.Oz 60 :Owix",
+          "price": 60.0
+        },
+        {
+          "name": "Y3sn",
+          "price": 3.0
+        },
+        {
+          "name": "ZOLQLOOOS",
+          "price": 2.0
+        },
+        {
+          "name": "OLLLSO9-Llo",
+          "price": 9.0
+        },
+        {
+          "name": "YOSNV73S TIMON3Q",
+          "price": 3.0
+        },
+        {
+          "name": "Oo8ep VS3O NMWVL",
+          "price": 3.0
+        },
+        {
+          "name": "LYOdSNVY1 VXVC WV7V I3ns",
+          "price": 3.0
+        },
+        {
+          "name": "01 Il",
+          "price": 8.0
+        },
+        {
+          "name": "ED1OAM XVI",
+          "price": 1.0
+        },
+        {
+          "name": "a1 JSD",
+          "price": 1.0
+        },
+        {
+          "name": "'YODNV73S ' IIMON3O",
+          "price": 881.0
+        },
+        {
+          "name": "DNIJNVJ NVZVr 9LZ 10I",
+          "price": 10.0
+        },
+        {
+          "name": "NVnh? MEX NVdVd Iva3x",
+          "price": 3.0
+        }
+      ],
+      "confidence": 0.6241,
+      "low_confidence": true
+    },
+    "total_amount": {
+      "value": 881.0,
+      "confidence": 0.4891,
+      "low_confidence": true
+    },
+    "ocr_mean_confidence": {
+      "value": 0.3646,
+      "confidence": 0.3646,
+      "low_confidence": true
+    }
+  },
+  "raw_text": "NOX XNVHL\n318VNunL3Y J.ON Juv @10S SQOOD\nSo*9\n0s'LOZ\nIeioj\n90'91\nOS' L9Z\nYS\n(WU) RUI\n(WU)\n%6\nepo5XEI\nAyvwwns LS2\nSp91\nebueyj\n00*ooe\nHSv)\nSs\"S02\n(1S) J0 exenijui) oeies (biol\n00 0\nbuipunoy\nSo 91\n1SD Ie1ol\nQo'0\nJuno3sia\nOS L9z\n(1S_ buipniox3) sejes Ib1ol\n95.88Z\n8\n'NQ IeIoL\nNawiS\nUS\nSv' L8\n8p' Li\nOS 91\n9sLloi\n(a) pic OLva\nuS\n06 09\n08'09\n00 *S9\nLlbaoi\n'0) YVSWY HISVd\n&S\nOz' Lz|\n09'C0\n00'08\nB00l01\nIunoum\n031*eV8\n034d/8\nWoM\n(483)\n(180)\n;iy\nuosjedseies\nO0.Oz 60 :Owix\nY3sn\nJeiyseo\nBLQZIEOLZL_@eq\nZOLQLOOOS2\n'ON?q\nOLLLSO9-Llo\nYOSNV73S TIMON3Q\nOo8ep VS3O NMWVL\nZ NVWV NVIVC\nL\nON\nLYOdSNVY1 VXVC WV7V I3ns\n01 Il8\nED1OAM XVI\n9lpoos| 8LO00\na1 JSD\n260989L8-€0\nXJ\nZ60989L8-€0\n731\n'YODNV73S ' IIMON3O 00881\nDNIJNVJ NVZVr 9LZ 10I\n(X-S8OE8SSO00)\nNVnh? MEX NVdVd Iva3x\n90+359gu\nKio"
+}

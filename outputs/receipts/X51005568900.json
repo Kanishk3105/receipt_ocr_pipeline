@@ -1,0 +1,61 @@
+{
+  "receipt_id": "X51005568900",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005568900.jpg",
+  "fields": {
+    "store_name": {
+      "value": "MR .",
+      "confidence": 0.7552,
+      "low_confidence": false
+    },
+    "date": {
+      "value": "2017-12-28",
+      "confidence": 0.7702,
+      "low_confidence": false
+    },
+    "items": {
+      "value": [
+        {
+          "name": "PADLOCK ST-P6150 5OMM",
+          "price": 5.0
+        },
+        {
+          "name": "GST @6X",
+          "price": 6.0
+        },
+        {
+          "name": "RM",
+          "price": 990.0
+        },
+        {
+          "name": "RM",
+          "price": 0.1
+        },
+        {
+          "name": "Sq6x",
+          "price": 6.0
+        },
+        {
+          "name": "SHO",
+          "price": 1.0
+        },
+        {
+          "name": "Ro",
+          "price": 208.0
+        }
+      ],
+      "confidence": 0.8452,
+      "low_confidence": false
+    },
+    "total_amount": {
+      "value": 6150.0,
+      "confidence": 0.6502,
+      "low_confidence": true
+    },
+    "ocr_mean_confidence": {
+      "value": 0.7227,
+      "confidence": 0.7227,
+      "low_confidence": false
+    }
+  },
+  "raw_text": "MR .\n0.I.Y _\nSon BHD\n(CO,REG\n:704427-T\nLOT\n185 1-A\n&\n1851-B ,\nJalaN\nKPB\n6\nkawaSAN PERINDUSTRIAN BalakONG\n43300 SERI\nKEMBANGAN\nSELANGOR\n(GST\nId\nNo\n:00 1092886528 )\n(CHERAS\nLEISURE MALL)\n-Tax\nINVOICE -\nPADLOCK ST-P6150 5OMM\n#S\n0z02\n12/48\n694213156 1507\n1 X\n9. 90\n9, 90\nItem(s)\nQty(s)\n1\nTota)\nInc|\nGST @6X\nRM 9,90\nCASH\nRM\n10 ,00\nCHANGE\nRM 0.10\nGST  Summary\nAmt ( RM)\nTax(RM )\nGST\nSq6x\n9,34\n0.56\n#-\n28-12-17\n18\n52\nSHO 1\nZtog\nT1\nRo00020832\nOPERATOR\nTRA INEE\nCASHIER\nEXCHANGE\nARE\nALLOWED WITHIn\nDayS\nWITH RECEIPT\nSTRICTLY\nNo cash REFUND_"
+}

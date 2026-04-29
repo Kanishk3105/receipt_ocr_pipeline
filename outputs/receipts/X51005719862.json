@@ -1,0 +1,65 @@
+{
+  "receipt_id": "X51005719862",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005719862.jpg",
+  "fields": {
+    "store_name": {
+      "value": "Iz'",
+      "confidence": 0.5618,
+      "low_confidence": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.1768,
+      "low_confidence": true
+    },
+    "items": {
+      "value": [
+        {
+          "name": "OE '",
+          "price": 9.0
+        },
+        {
+          "name": "N 3a",
+          "price": 3.0
+        },
+        {
+          "name": "Wa (",
+          "price": 19.0
+        },
+        {
+          "name": "#[eS [E1o]",
+          "price": 1.0
+        },
+        {
+          "name": "03 \"Hd",
+          "price": 3.0
+        },
+        {
+          "name": "Na9s %",
+          "price": 20.0
+        },
+        {
+          "name": "ELIOL/ZOT/ LBz",
+          "price": 91.0
+        },
+        {
+          "name": "'1' Im",
+          "price": 1.0
+        }
+      ],
+      "confidence": 0.5918,
+      "low_confidence": true
+    },
+    "total_amount": {
+      "value": 91.0,
+      "confidence": 0.4568,
+      "low_confidence": true
+    },
+    "ocr_mean_confidence": {
+      "value": 0.293,
+      "confidence": 0.293,
+      "low_confidence": true
+    }
+  },
+  "raw_text": "Iz'\n61 *E\n19 ? $\n(Mu)rel\n(KJ)iumem\nOE '9\nN 3a\n00 '0T\nM K\nOL \"\nWa (19\n#[eS [E1o]\n$ 0z 'ChY\n5\n03 \"Hd\nBT-ZO-Eo\nNa9s %20\nELIOL/ZOT/ LBz91\n0 DIOWI\nNEENNea MNL\n'WSSNH NYTHI\n'1' Im\n'tiez"
+}

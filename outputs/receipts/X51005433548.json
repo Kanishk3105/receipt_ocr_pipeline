@@ -1,0 +1,109 @@
+{
+  "receipt_id": "X51005433548",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005433548.jpg",
+  "fields": {
+    "store_name": {
+      "value": "Y1asos7",
+      "confidence": 0.6627,
+      "low_confidence": true
+    },
+    "date": {
+      "value": "2018-03-03",
+      "confidence": 0.6777,
+      "low_confidence": true
+    },
+    "items": {
+      "value": [
+        {
+          "name": "Y1asos",
+          "price": 7.0
+        },
+        {
+          "name": "379 ,",
+          "price": 379.0
+        },
+        {
+          "name": "81750 PLENTGNG",
+          "price": 81750.0
+        },
+        {
+          "name": "~707",
+          "price": 3874904.0
+        },
+        {
+          "name": "J80195388-D)",
+          "price": 80195388.0
+        },
+        {
+          "name": "(G3t NO, 080150517818)",
+          "price": 80150517818.0
+        },
+        {
+          "name": "TAXINV: D01-[",
+          "price": 541798.0
+        },
+        {
+          "name": "03/03/",
+          "price": 18.0
+        },
+        {
+          "name": "16,00 ZRL",
+          "price": 1600.0
+        },
+        {
+          "name": "2.40 ZRL",
+          "price": 2.4
+        },
+        {
+          "name": "(,STEHED PORK  258G",
+          "price": 258.0
+        },
+        {
+          "name": "~H@Tan IkPN SARDIN",
+          "price": 4256.0
+        },
+        {
+          "name": "6.80   SR",
+          "price": 6.8
+        },
+        {
+          "name": "33.",
+          "price": 80.0
+        },
+        {
+          "name": "83/03448 fO;18 #007",
+          "price": 15417986.0
+        },
+        {
+          "name": "8xx",
+          "price": 8.0
+        },
+        {
+          "name": "(d0# _",
+          "price": 0.0
+        },
+        {
+          "name": "(3,.",
+          "price": 60.0
+        },
+        {
+          "name": "0.0)",
+          "price": 0.0
+        }
+      ],
+      "confidence": 0.6927,
+      "low_confidence": true
+    },
+    "total_amount": {
+      "value": 80150517818.0,
+      "confidence": 0.7827,
+      "low_confidence": false
+    },
+    "ocr_mean_confidence": {
+      "value": 0.5171,
+      "confidence": 0.5171,
+      "low_confidence": true
+    }
+  },
+  "raw_text": "Y1asos7\nPASAR MINI JIN SENG\n379 ,\nJalan PERMAS SATU\nBangAR BARU PERNAS JaVa\n81750 PLENTGNG\nJohor_\nTEL\n~707-3874904\n{CO_\nNO\nJ80195388-D)\n(G3t NO, 080150517818)\nTAXINV: D01-[541798\nGashier\nCASHIER\n03/03/18\nVaGETABLES\nTELUR \"\nTELUR MASIN\n16,00 ZRL\nVEGETABLES\n2.40 ZRL\n(,STEHED PORK  258G\n.Bp ZRL\n~H@Tan IkPN SARDIN 4256\n6.80\n6.80   SR\nIten Count\nSUBTOTAL;\n33.80\nTLRM\n(ST\"\n33. 80\n0.77\nCAEh\nPayment Deta} Is\nCaSk CHANGE\n50.00\n16.20\n83/03448 fO;18 #007-15417986\nGASHZER\nGST Summar\"\nAnount (FM)\nSR\n8xx\nTax(RM)\nzaL\n(d0# _\n(3,.60\n0,77\n20.20\n0.0)\nThank Yol\nCOma aqain\nGogEN SOLd ARE MOT REFUNDABLE\nPlease"
+}

@@ -1,0 +1,45 @@
+{
+  "receipt_id": "X51005663310",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005663310.jpg",
+  "fields": {
+    "store_name": {
+      "value": "318 0 > 0|3'",
+      "confidence": 0.7588,
+      "low_confidence": false
+    },
+    "date": {
+      "value": "2018-09-02",
+      "confidence": 0.7738,
+      "low_confidence": false
+    },
+    "items": {
+      "value": [
+        {
+          "name": "No 7 . Simpang Off Batu Village",
+          "price": 7.0
+        },
+        {
+          "name": "GST Reg No .",
+          "price": 1269.0
+        },
+        {
+          "name": "BEG €i;",
+          "price": 1.0
+        }
+      ],
+      "confidence": 0.8488,
+      "low_confidence": false
+    },
+    "total_amount": {
+      "value": 7191.0,
+      "confidence": 0.7588,
+      "low_confidence": false
+    },
+    "ocr_mean_confidence": {
+      "value": 0.7306,
+      "confidence": 0.7306,
+      "low_confidence": false
+    }
+  },
+  "raw_text": "318 0 > 0|3'\nLIM SENG THO HARDWARE CRADING\nNo 7 . Simpang Off Batu Village\nJalan Ipoh Batu 5. 51200 Kuala LumJur\nMALAYSIA\nTei & Fax No\n03-6258 7191\n03-6258 7191\nCumpany Reg No\n(002231061-T)\nGST Reg No .001269075968\nTAX INVOICE\nNo\nCS 24388\nLal\n09/02/2018 10 05\nCasnier #\nLST\nRM\nCode\nBEG €i;1\n'~(U NO:,\n0 70\n8 4G\nRR\nSubtotal\n8 40\nTotal Incl\nof GST\n40\nPayment\n40\nChange Due\n0o\nTolal Item(s)\n12\nGST Summary\nAmount(RM)\nTax(RM)\nSR\n6%6\n7 92\n() 09\n*6\nTHANK YOU\nPL EASE COME AGAIN\n0an #\n'COODS SOLD ARE NOT RETURNABLE"
+}

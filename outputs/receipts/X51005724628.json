@@ -1,0 +1,49 @@
+{
+  "receipt_id": "X51005724628",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005724628.jpg",
+  "fields": {
+    "store_name": {
+      "value": "KEDAI PAPAN YEW CHIUAN",
+      "confidence": 0.8122,
+      "low_confidence": false
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.5322,
+      "low_confidence": true
+    },
+    "items": {
+      "value": [
+        {
+          "name": "LOT 276 JALAN BANTING",
+          "price": 276.0
+        },
+        {
+          "name": "JALAN AMAN",
+          "price": 2.0
+        },
+        {
+          "name": "(G8t)",
+          "price": 8.0
+        },
+        {
+          "name": "BESI R 5.5 (CQ)",
+          "price": 5.5
+        }
+      ],
+      "confidence": 0.9022,
+      "low_confidence": false
+    },
+    "total_amount": {
+      "value": 1001.0,
+      "confidence": 0.8122,
+      "low_confidence": false
+    },
+    "ocr_mean_confidence": {
+      "value": 0.8494,
+      "confidence": 0.8494,
+      "low_confidence": false
+    }
+  },
+  "raw_text": "R\nKEDAI PAPAN YEW CHIUAN\n(0005583085-K)\nLOT 276 JALAN BANTING\n43800 DENGKIL, SELANGOR\nTEL\n03-87686092\nFAX\n03-87686092\nGST ID\n000781500416\nTAX INVOICE\nBill To\nSUCI ALAM JAYA TRANSPORT\nNO\nJALAN AMAN 2\nTAMAN DESA 43800\nDENGKIL SELANGOR\n017-6057770\nDoc No.\nCS00Q10679\nDate:\n70/0372018\nCashier\nUSER\nTime:\n13.49.00\nSalesperson\nRef :\n(G8t)\n(GSt)\nItem\nSPrice\nS/Price\nAmount\nTax\n1001 35\n10\n0.00\n0.40\n04.80\nSR\nBESI R 5.5 (CQ)\nTotal\n10\n84.80\nTotal Sales (Excluding GST)\n80.00\nDiscount\n0.00\nTotal GST\n4.80\nRounding\n00\nTotal Salee (Inclueive of GST)\n84.80\nCASH\n84.80\nChange\n0.00\nGST SUMMARY\nIax Code\nAnt (RM\nIax (RM\nSR\n60.00\n4.80\nTotal\n00.00\n4.80\nGOODS SOLD ARE NOT RETURNABLE, THANK YOU\nQX\nQty:"
+}

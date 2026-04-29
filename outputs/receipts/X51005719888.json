@@ -1,0 +1,81 @@
+{
+  "receipt_id": "X51005719888",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005719888.jpg",
+  "fields": {
+    "store_name": {
+      "value": "POTTERS",
+      "confidence": 0.7839,
+      "low_confidence": false
+    },
+    "date": {
+      "value": "2018-04-01",
+      "confidence": 0.7989,
+      "low_confidence": false
+    },
+    "items": {
+      "value": [
+        {
+          "name": "11, Sg Buloh _",
+          "price": 11.0
+        },
+        {
+          "name": "Tel: 016-667",
+          "price": 982.0
+        },
+        {
+          "name": "No;",
+          "price": 392.0
+        },
+        {
+          "name": "Inv n: G/",
+          "price": 22.0
+        },
+        {
+          "name": "A40O0O7  PLASTIC PLATE",
+          "price": 7.0
+        },
+        {
+          "name": "1.00 SR",
+          "price": 1.0
+        },
+        {
+          "name": "AAOO022 CHINA POT",
+          "price": 22.0
+        },
+        {
+          "name": "15,80   SR",
+          "price": 1580.0
+        },
+        {
+          "name": "AAOOO16 PLANT",
+          "price": 16.0
+        },
+        {
+          "name": "AA00016 PLANT",
+          "price": 16.0
+        },
+        {
+          "name": "7.00 SR",
+          "price": 7.0
+        },
+        {
+          "name": "SR Inclusive GST 6X",
+          "price": 6.0
+        }
+      ],
+      "confidence": 0.8739,
+      "low_confidence": false
+    },
+    "total_amount": {
+      "value": 3980.0,
+      "confidence": 0.8289,
+      "low_confidence": false
+    },
+    "ocr_mean_confidence": {
+      "value": 0.7864,
+      "confidence": 0.7864,
+      "low_confidence": false
+    }
+  },
+  "raw_text": "POTTERS\nGARDEN\nSDN\nBHID\n(1153774-0)\nBatu\n11, Sg Buloh _\n47000  Selangor _\nTel: 016-667 0982\n016-333 3812\nGST\nNo; 000392024064\nTaX INVOICE\nTABLE\n01\nPOS  ID\nG\nInv n: G/00002268\nCASHIER: Administrator\nIn DT: 04/01/2018 12:29:18 PM\nRM\nITEM\nAMQUNT\nA40O0O7  PLASTIC PLATE\n1.00 SR\nAAOO022 CHINA POT\n2 07 , 90\n15,80   SR\nAAOOO16 PLANT\n16. 00 SR\nAA00016 PLANT\n7.00 SR\n5\nSUB   TOTAL\n39,80\nNET  TOTAL\n30,80\nCash\n40 . 00\nCHANGE\n0,20\nTax Summary\nAmount\nTax\nSR Inclusive GST 6X\n37 , 54\n2.26\nThank you Please Come Again\n##*\nItem Sold are Nt Refundable & Exchangeable\nReg"
+}

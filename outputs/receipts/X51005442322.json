@@ -1,0 +1,169 @@
+{
+  "receipt_id": "X51005442322",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005442322.jpg",
+  "fields": {
+    "store_name": {
+      "value": "QCF' 0",
+      "confidence": 0.5433,
+      "low_confidence": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.1583,
+      "low_confidence": true
+    },
+    "items": {
+      "value": [
+        {
+          "name": "QCF'",
+          "price": 0.0
+        },
+        {
+          "name": "802 192",
+          "price": 7.0
+        },
+        {
+          "name": "Yz5i",
+          "price": 5.0
+        },
+        {
+          "name": "L1 \"bS",
+          "price": 2.0
+        },
+        {
+          "name": "'X9g JSE)-S",
+          "price": 9.0
+        },
+        {
+          "name": "e1ol UL pepnijui Ygw",
+          "price": 489.0
+        },
+        {
+          "name": "#d/a334 Jo a180 W0Jy S4JLOW € pLLeA",
+          "price": 4.0
+        },
+        {
+          "name": "3003 NQILVOITVA  A3auns",
+          "price": 3.0
+        },
+        {
+          "name": "INIOC J4y 3m hoh s0 1731 JSwaId",
+          "price": 1731.0
+        },
+        {
+          "name": "Ob '",
+          "price": 692.0
+        },
+        {
+          "name": "790 LSQ",
+          "price": 790.0
+        },
+        {
+          "name": "0i '&Z",
+          "price": 0.0
+        },
+        {
+          "name": "64) A4S %0l",
+          "price": 0.0
+        },
+        {
+          "name": "90' LEZ",
+          "price": 90.0
+        },
+        {
+          "name": "S SF\" '",
+          "price": 6.0
+        },
+        {
+          "name": "S SE",
+          "price": 6.0
+        },
+        {
+          "name": "8 SE\"",
+          "price": 6.0
+        },
+        {
+          "name": "ILlvT 3J",
+          "price": 1.0
+        },
+        {
+          "name": "S L9' L",
+          "price": 9.0
+        },
+        {
+          "name": "793k djisvox 4J",
+          "price": 4.0
+        },
+        {
+          "name": "L9' Lg",
+          "price": 9.0
+        },
+        {
+          "name": "St+34 HoNwY",
+          "price": 34.0
+        },
+        {
+          "name": "$ [9* L",
+          "price": 9.0
+        },
+        {
+          "name": "Nd 55;91;50 Gt",
+          "price": 50.0
+        },
+        {
+          "name": "E4sanj",
+          "price": 4.0
+        },
+        {
+          "name": "16659 *4J",
+          "price": 4.0
+        },
+        {
+          "name": "4ooqaje",
+          "price": 3.0
+        },
+        {
+          "name": "Rw \" VQJ\" seW0.4 Kuo}",
+          "price": 0.4
+        },
+        {
+          "name": "MIM :a1/aq3M",
+          "price": 3.0
+        },
+        {
+          "name": "61 LOLSC-LO :t",
+          "price": 81.0
+        },
+        {
+          "name": "M4a31 #S]U NV7VC",
+          "price": 7.0
+        },
+        {
+          "name": "ali? Mvuez1 77kw NoJv",
+          "price": 77.0
+        },
+        {
+          "name": "2119 J",
+          "price": 7.0
+        },
+        {
+          "name": "LNvanv1Sad",
+          "price": 1.0
+        }
+      ],
+      "confidence": 0.5733,
+      "low_confidence": true
+    },
+    "total_amount": {
+      "value": 16659.0,
+      "confidence": 0.4383,
+      "low_confidence": true
+    },
+    "ocr_mean_confidence": {
+      "value": 0.2518,
+      "confidence": 0.2518,
+      "low_confidence": true
+    }
+  },
+  "raw_text": "QCF' 0\n:802 192-7\nYz5i\nL1 \"bS2\n'X9g JSE)-S\n(Wh)ls?\n(Wa) Juncwx\nKrvnsLSg\ne1ol UL pepnijui Ygw 489\nHISLA\nJaq\ndnoJb Jet LQ!Adwapa! aud\n#d/a334 Jo a180 W0Jy S4JLOW € pLLeA\n3003 NQILVOITVA  A3auns\nLizo\n04025\nINIOC J4y 3m hoh s0 1731 JSwaId\nOb ' 692\n[eJol\nSz SL\n790 LSQ\n0i '&Z\n64) A4S %0l\n90' LEZ\nezoigns\nS SF\" '6\nISdld\nS SE 6\ndnl\n8 SE\"6\nILlvT 3J1\nJ4\n(lam Wnlpax\nS L9' L9\ndIdls An\npepeo]\n793k djisvox 4J\nUnlpah\nL9' Lg\ndIdls An\nHvIS\nSt+34 HoNwY\n[aM wnppax\n$ [9* L9\nEV TGL\nNd 55;91;50 Gt\nEQ\nE4sanj\n16659 *4J\nNITZNZ VioL\nLHL &\n4ooqaje3\nRw \" VQJ\" seW0.4 Kuo}\nMIM :a1/aq3M\n61 LOLSC-LO :t81\nM4a31 #S]U NV7VC\nQN\nali? Mvuez1 77kw NoJv\n2119 J07\nLNvanv1Sad\nJPW"
+}

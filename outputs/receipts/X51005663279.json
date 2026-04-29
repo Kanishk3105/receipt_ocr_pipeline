@@ -1,0 +1,37 @@
+{
+  "receipt_id": "X51005663279",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005663279.jpg",
+  "fields": {
+    "store_name": {
+      "value": "3 | 8",
+      "confidence": 0.8065,
+      "low_confidence": false
+    },
+    "date": {
+      "value": "2017-12-28",
+      "confidence": 0.9265,
+      "low_confidence": false
+    },
+    "items": {
+      "value": [
+        {
+          "name": "NO 290,JALAN AIR PANAS,",
+          "price": 290.0
+        }
+      ],
+      "confidence": 0.8965,
+      "low_confidence": false
+    },
+    "total_amount": {
+      "value": 2017.0,
+      "confidence": 0.8065,
+      "low_confidence": false
+    },
+    "ocr_mean_confidence": {
+      "value": 0.8368,
+      "confidence": 0.8368,
+      "low_confidence": false
+    }
+  },
+  "raw_text": "3 | 8\nSYARIKAT PERNIAGAAN GIN KEE\n(81109-A)\nNO 290,JALAN AIR PANAS,\nSETAPAK,\n53200, KUALA LUMPUR,\nTEL\n03-40210276\nGST ID\n000750673920\nSIMPLIFIED TAX INVOICE\nCASH\nDoc No\nCS00O12441\nDate.\n28/12/2017\nCashler\nUSER\nTime\n11 58.00\nSalesperson\nRef.\nItem\nSIPrice\nAmount\nTax\n1971\n148.40\n148 40\nSR\nPASIR HALUS\nLOAD (SMALL)\nTotal\n748 40\nTotal Sales (Excluding GST)\n140.00\nDiscount\n0o\nTotal GST\n8.40\nRounding\n00\nTotal Sales (Inclusive of GST)\n148.40\nCASH\n148.40\nChange\n0.00\nGST SUMMARY\nIax Code\nAmt (RM)\nIax (RM)\nSR\n140 00\n8 40\nTotal\n140.00\n8.40\nFo\nGJODS SOLD ARE NOT RETURNABLE\nTHANK YQU\nQty\n@ty'\""
+}

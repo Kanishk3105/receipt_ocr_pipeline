@@ -1,0 +1,37 @@
+{
+  "receipt_id": "15",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\15.jpg",
+  "fields": {
+    "store_name": {
+      "value": "to wln",
+      "confidence": 0.6718,
+      "low_confidence": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.2418,
+      "low_confidence": true
+    },
+    "items": {
+      "value": [
+        {
+          "name": "S2e",
+          "price": 2.0
+        }
+      ],
+      "confidence": 0.7168,
+      "low_confidence": false
+    },
+    "total_amount": {
+      "value": 299.0,
+      "confidence": 0.5218,
+      "low_confidence": true
+    },
+    "ocr_mean_confidence": {
+      "value": 0.4374,
+      "confidence": 0.4374,
+      "low_confidence": true
+    }
+  },
+  "raw_text": "to wln\ntedortcelet for\nYout\nID $;\nWalmart\nSava mone\nLive battan\n299\nWjsa\n#\nJ9604060\n07/z2/16\n20:63;11\nChange due\n0,00\nITEMS SOLD\nHllt\n'84316'\n58,\nEtchtr| Scen\nS2e\nback_"
+}

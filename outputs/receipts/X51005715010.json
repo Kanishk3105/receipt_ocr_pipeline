@@ -1,0 +1,53 @@
+{
+  "receipt_id": "X51005715010",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005715010.jpg",
+  "fields": {
+    "store_name": {
+      "value": "3-1708032",
+      "confidence": 0.7481,
+      "low_confidence": false
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.3181,
+      "low_confidence": true
+    },
+    "items": {
+      "value": [
+        {
+          "name": "2a29 Reg",
+          "price": 29.0
+        },
+        {
+          "name": "PWP LEsS_308 MAR_",
+          "price": 18.0
+        },
+        {
+          "name": "RH41 _",
+          "price": 41.0
+        },
+        {
+          "name": "RW",
+          "price": 4.0
+        },
+        {
+          "name": "RH",
+          "price": 5.0
+        }
+      ],
+      "confidence": 0.7931,
+      "low_confidence": false
+    },
+    "total_amount": {
+      "value": 4400.0,
+      "confidence": 0.7031,
+      "low_confidence": false
+    },
+    "ocr_mean_confidence": {
+      "value": 0.6069,
+      "confidence": 0.6069,
+      "low_confidence": true
+    }
+  },
+  "raw_text": "3-1708032\nwatsons\nWatson' s Persona\nCare Stores Sdn Ehd\n2a29 Reg\n0do947830234\n688\nSummit,\nSubang (SS)\n2224\nVS   Cut   SCISSORS\n64542\nQVs  TEMPo_TWEEZER\n8\n21434\nWS  BABY  WIPES   FRAG\n98\nPWP LEsS_308 MAR_18\n95448\nWATSONS  RASKET\nZ\nSUBTOTAL   (OTy\n4)\nRH41 _\n82\nROUnDIngG\nRHO _\nSUBTOTAL  (QtY\n4)\nRW4\nCASH\nRH5\n8\nCHANGE   CASh\nRiTo _\nGST , SUMHARY\nFate\nNet (RM)\nRM)\nTqta] (RM)\nQ0%\n#\nSTA\nEHENT\nLuya |\ny aCc , nllmber\n9926016+*\nDescriptjon\nTota _\nPoints\nQpening_Balance\n2264\nEarned Pqints\nClosing Ba lance\n2307\n##+=\n00440010036  25032018  13;11;54 0003  ika\nCompany"
+}

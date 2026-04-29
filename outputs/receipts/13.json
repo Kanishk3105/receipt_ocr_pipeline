@@ -1,0 +1,41 @@
+{
+  "receipt_id": "13",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\13.jpg",
+  "fields": {
+    "store_name": {
+      "value": "Walmart",
+      "confidence": 0.6362,
+      "low_confidence": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.2062,
+      "low_confidence": true
+    },
+    "items": {
+      "value": [
+        {
+          "name": "4nk Lah} ACI |VATIL",
+          "price": 4.0
+        },
+        {
+          "name": "3og Qal",
+          "price": 3.0
+        }
+      ],
+      "confidence": 0.6212,
+      "low_confidence": true
+    },
+    "total_amount": {
+      "value": 4912.0,
+      "confidence": 0.4862,
+      "low_confidence": true
+    },
+    "ocr_mean_confidence": {
+      "value": 0.3581,
+      "confidence": 0.3581,
+      "low_confidence": true
+    }
+  },
+  "raw_text": "Walmart\nSave money. Live br-(ter_\n29H/\nKbz\nLOIAFI)\n2014\nliwux\nI [ OHEMLE\nGI |\nAldl\nWS} EidtuleJ:]\n0\nsufoin\nASI\nT055\n0\n4nk Lah} ACI |VATIL\n5 W\nACCOUNI\n39685462.4912S1 .\nCOlX\n19256\n3og Qal\nItan Antl\nrnd\nBal\n0 @\n5) 00\n08/11, [1\n19 14 J1\nILH\nhy\n92*1\n{J\n1932\nW\nUhh\n\"Sf=\n(m\n\"\nEverv @v\n22:#1\nstore\nettoiplo\nYtij'\nHaloxa\nJp\nNh"
+}

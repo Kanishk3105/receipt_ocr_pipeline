@@ -1,0 +1,57 @@
+{
+  "receipt_id": "X51005719902",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005719902.jpg",
+  "fields": {
+    "store_name": {
+      "value": "KING'$ CONFECTIONERY S/B 273500-U (KSB)",
+      "confidence": 0.7461,
+      "low_confidence": false
+    },
+    "date": {
+      "value": "2018-01-03",
+      "confidence": 0.8661,
+      "low_confidence": false
+    },
+    "items": {
+      "value": [
+        {
+          "name": "no.41 , Jalan SERI  BINTANG",
+          "price": 41.0
+        },
+        {
+          "name": "TEL MO",
+          "price": 12.0
+        },
+        {
+          "name": "Date:[1/03/18 21",
+          "price": 30.0
+        },
+        {
+          "name": "Cashier :FT",
+          "price": 8303.0
+        },
+        {
+          "name": "Ctr #",
+          "price": 2.0
+        },
+        {
+          "name": "4s online at",
+          "price": 4.0
+        }
+      ],
+      "confidence": 0.8361,
+      "low_confidence": false
+    },
+    "total_amount": {
+      "value": 8832.0,
+      "confidence": 0.8661,
+      "low_confidence": false
+    },
+    "ocr_mean_confidence": {
+      "value": 0.7025,
+      "confidence": 0.7025,
+      "low_confidence": false
+    }
+  },
+  "raw_text": "KING'$ CONFECTIONERY S/B 273500-U (KSB)\nno.41 , Jalan SERI  BINTANG\n2\nTAHAN SRI  BINTANG,\n52100 KUALA LUMPUR\nTEL MO: - 012\n602  8832\n(GST  Id\n000294060032)\nTax\nInvoice\nInv No :KSB8Q051978\nDate:[1/03/18 21:30\nCashier :FT8303\nCtr #02\nCode\nDesc\nQty\nRm\nDX\nAmt\n201019 KAYA PUFF\n1.60\n0\n6 . 40 S\n231027 Slice Cak\n8.70\n0\n8.70 $\n101110 Cheese Le\n3,50 30\n2.45 5\n251030 Cheese\nTa\n3.40\n0\n3.40 $\n171153 D/R BUTTE\n4.20\n0\n4,20 $\nQty\n25.15\nRounding Adj\n0 . 00\nQue\n25,15\n25, 15\nChange\n0.00\n(Total Included GST\n@ 67\n1.42 ,\nGQods  SOLD NOT  RETURNABLE/EXCHANGEABLE!\nTKANK YQU PLEASE COME AGAIN!\nTaSTY BAKING HEALTHY NATION!\n\"=Visit\n4s online at\nHww\nCom.HY==\nFay\nkings."
+}

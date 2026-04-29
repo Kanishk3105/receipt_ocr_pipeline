@@ -1,0 +1,93 @@
+{
+  "receipt_id": "X51005444045",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005444045.jpg",
+  "fields": {
+    "store_name": {
+      "value": "J10j asea[d 'nok #ue4l",
+      "confidence": 0.5347,
+      "low_confidence": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.1497,
+      "low_confidence": true
+    },
+    "items": {
+      "value": [
+        {
+          "name": "J10j asea[d 'nok #ue4l",
+          "price": 4.0
+        },
+        {
+          "name": "S '\"Q",
+          "price": 5.0
+        },
+        {
+          "name": "29 = $",
+          "price": 29.0
+        },
+        {
+          "name": "hjedtns JS",
+          "price": 9.0
+        },
+        {
+          "name": "02'",
+          "price": 2.0
+        },
+        {
+          "name": "01 'TT",
+          "price": 1.0
+        },
+        {
+          "name": "0p 'TT",
+          "price": 0.0
+        },
+        {
+          "name": "0p 'FTHY",
+          "price": 0.0
+        },
+        {
+          "name": "8T-E0",
+          "price": 61.0
+        },
+        {
+          "name": "Lts",
+          "price": 695.0
+        },
+        {
+          "name": "BETOL/SOF/ W+",
+          "price": 285.0
+        },
+        {
+          "name": "oN 3JIONHI",
+          "price": 3.0
+        },
+        {
+          "name": "A3731338 NHNHL",
+          "price": 3731338.0
+        },
+        {
+          "name": "1'd {",
+          "price": 7.0
+        },
+        {
+          "name": "(X-LESSTS) 8/5 IatH (3345",
+          "price": 66.0
+        }
+      ],
+      "confidence": 0.5647,
+      "low_confidence": true
+    },
+    "total_amount": {
+      "value": 3731338.0,
+      "confidence": 0.5497,
+      "low_confidence": true
+    },
+    "ocr_mean_confidence": {
+      "value": 0.2327,
+      "confidence": 0.2327,
+      "low_confidence": true
+    }
+  },
+  "raw_text": "J10j asea[d 'nok #ue4l\n59\nS '\"Q5\n29 = $\n(MJ)rej\nhjedtns JS9\n02'\n01 'TT\n0p 'TT\n$\n0p 'FTHY\n8T-E0-61\nLts695\nBETOL/SOF/ W+285\noN 3JIONHI\nZILLOLTBFOOQ\nON *QI JSJ\nA3731338 NHNHL\n'HSIk MYTHI\n1'd {07\n(X-LESSTS) 8/5 IatH (3345 66\nurebe"
+}

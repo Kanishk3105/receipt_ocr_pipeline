@@ -1,0 +1,73 @@
+{
+  "receipt_id": "X51005230621",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005230621.jpg",
+  "fields": {
+    "store_name": {
+      "value": "LOT 13, JALAN",
+      "confidence": 0.6411,
+      "low_confidence": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.2561,
+      "low_confidence": true
+    },
+    "items": {
+      "value": [
+        {
+          "name": "LOT 13, JALAN",
+          "price": 13.0
+        },
+        {
+          "name": "LOT 13, JALAN IPOtt;",
+          "price": 13.0
+        },
+        {
+          "name": "KG BATU",
+          "price": 30.0
+        },
+        {
+          "name": "(Gst Reg No",
+          "price": 1610.0
+        },
+        {
+          "name": "Hen03a",
+          "price": 79.0
+        },
+        {
+          "name": "PPD 4LMuDEUIVE",
+          "price": 4.0
+        },
+        {
+          "name": "1.OCQ Pc",
+          "price": 1.0
+        },
+        {
+          "name": "6023#CARTEN",
+          "price": 6023.0
+        },
+        {
+          "name": "1.00dpc",
+          "price": 1.0
+        },
+        {
+          "name": "To3 Ilem(o) =",
+          "price": 3.0
+        }
+      ],
+      "confidence": 0.6711,
+      "low_confidence": true
+    },
+    "total_amount": {
+      "value": 6023.0,
+      "confidence": 0.5811,
+      "low_confidence": true
+    },
+    "ocr_mean_confidence": {
+      "value": 0.4691,
+      "confidence": 0.4691,
+      "low_confidence": true
+    }
+  },
+  "raw_text": "LOT 13, JALAN\nLOT 13, JALAN IPOtt;\nKG BATU 30\nULU YAULNW\nMJq0 BTG KALI , ZELANGOR\ncomazy Regn;\n284922-0 )\n(Gst Reg No: 001610333920\nTII Ewoce\nHen03a79\nDzte\n0018\nCantc\nPPD 4LMuDEUIVE\n1.887\n1.OCQ Pc\n2.00\n6023#CARTEN\ns.00p\n3\n1.00dpc\n5.30\n7.30\n6.69\n730\n0.00\nPayment =\n7.30\nchznge Due\n0.00\nTo3 Ilem(o) =\nIAN/\nTar\n6\n041\nTHWNNK YOUJ #tttttt\nPLEASE COME AGAN**"
+}

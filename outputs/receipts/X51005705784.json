@@ -1,0 +1,53 @@
+{
+  "receipt_id": "X51005705784",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005705784.jpg",
+  "fields": {
+    "store_name": {
+      "value": "(EDAI BUKU NEW ACHEIVERS",
+      "confidence": 0.8105,
+      "low_confidence": false
+    },
+    "date": {
+      "value": "2017-09-15",
+      "confidence": 0.9305,
+      "low_confidence": false
+    },
+    "items": {
+      "value": [
+        {
+          "name": "NO. 12 & 14, JALAN JINIANG 27/",
+          "price": 54.0
+        },
+        {
+          "name": "TAMAN ALAM MEGAH; SEKSYEN",
+          "price": 27.0
+        },
+        {
+          "name": "Date: 15/09/",
+          "price": 2017.0
+        },
+        {
+          "name": "ON ENVOLOPE 4x9 WINDOW",
+          "price": 20.5
+        },
+        {
+          "name": "3 SEASONSHARD COVER BOOK",
+          "price": 3007.0
+        }
+      ],
+      "confidence": 0.9005,
+      "low_confidence": false
+    },
+    "total_amount": {
+      "value": 3007.0,
+      "confidence": 0.8105,
+      "low_confidence": false
+    },
+    "ocr_mean_confidence": {
+      "value": 0.8457,
+      "confidence": 0.8457,
+      "low_confidence": false
+    }
+  },
+  "raw_text": "(EDAI BUKU NEW ACHEIVERS\n(CO NO. SA0345444-K)\nNO. 12 & 14, JALAN JINIANG 27/54\nTAMAN ALAM MEGAH; SEKSYEN 27\n40400 SHAH ALAM , SELANGOR D,\nE\nTel\n603-51910643\nFAX\n603-51910643\nGST NO\n001729572864\nFULL TAX INVOICE\n1o\nJt #\nCSO0294436\nJerson:\nDate: 15/09/2017\nXr;\nUSER\nTime: 10.22.00\n(GST)\n(Gsti\nQtv\nRSP\nRSP\nAmount\n0320\n3.20\n3.39\n10.18\nON ENVOLOPE 4x9 WINDOW 20.5\n12363087\n3\n3.80\n4.03\n12.08\n3 SEASONSHARD COVER BOOK 3007\n70448257\n7.90\n8.37\n8.37\nP RWT HARDCOVER FOOLSCAP 300,S 26138\n1300514\n2.73\n2.89\n8,68\nSHARPIE FINE PERMANENT MARKER\n1300637\n3\n2.73\n2.89\n8.68\nSHARPIE FINE PERMANENT MARKER\nTOT QTY:\n13\n48.00\nExcluded GST) Sub Total\n45.28\nDlscount\n0.00\nTotal GST\n2.72\nRounding\n0.00\nTotal\n48.00\n9\nCAsH\n48.00\nChange\n0.00\nSUMMARY\nCode\nAmount\nGST\n45.28\n2.72\nTotal\n45.28\n2.72\nGOODS SOLD ARE NOT RETURNABLE,\nTHANK YOU."
+}

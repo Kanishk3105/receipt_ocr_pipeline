@@ -1,0 +1,61 @@
+{
+  "receipt_id": "X51005582745",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005582745.jpg",
+  "fields": {
+    "store_name": {
+      "value": "MODERN",
+      "confidence": 0.7113,
+      "low_confidence": false
+    },
+    "date": {
+      "value": "2016-04-12",
+      "confidence": 0.8313,
+      "low_confidence": false
+    },
+    "items": {
+      "value": [
+        {
+          "name": "JalaN Janbu HELAKA 2,",
+          "price": 2.0
+        },
+        {
+          "name": "NO",
+          "price": 2098.0
+        },
+        {
+          "name": "RECETPT #: CSO0090733 DATE: 04/12/",
+          "price": 2016.0
+        },
+        {
+          "name": "CLSTEL67O",
+          "price": 67.0
+        },
+        {
+          "name": "SR ;STEL670 HEATGUN  201'\"STANLEY\"",
+          "price": 201.0
+        },
+        {
+          "name": "ROUNDING",
+          "price": 50.0
+        },
+        {
+          "name": "@ 67 INLLUDED In TQTAL",
+          "price": 67.0
+        }
+      ],
+      "confidence": 0.8013,
+      "low_confidence": false
+    },
+    "total_amount": {
+      "value": 9073.0,
+      "confidence": 0.7113,
+      "low_confidence": false
+    },
+    "ocr_mean_confidence": {
+      "value": 0.625,
+      "confidence": 0.625,
+      "low_confidence": true
+    }
+  },
+  "raw_text": "MODERN\nDEPOT\nSDN\nBHD\n950345-T\nNO.19, PT48685\nJalaN Janbu HELAKA 2,\nJInJANG 'SELATAN, KEPONG_\nTEL;\n+6j-6242 8070 FAX: +603-6242 8176\nGST\nNO:  002098102272\nCaSH\nRECETPT #: CSO0090733 DATE: 04/12/2016\nSALESPERSON\nTIME: 09:58:00\nCASHIER\n4\nTHYE\nITEN\nQTY\nu/p\nAMOUNt\nCLSTEL67O\n141.51\n141.51\nSR ;STEL670 HEATGUN  201'\"STANLEY\"\nS/n: 031274\nTOTAL WUAntITY\nSUb-ToTAL\n141.51\n@ISC\nTOTAL GST\nIaX\nTotAL\nROUNDING 50\nCash\n150\nCHANGE\n0\nGST  SuMMARY\nCQDE\nAwqunt\nTax/aht\nSR\n141.51\n8,49\nTaX TOTAL:\n8.49\ngoonS SOLD ARE NOT  RETURNARLE ,\nThANK  YOU\n0 GST\n@ 67 INLLUDED In TQTAL"
+}

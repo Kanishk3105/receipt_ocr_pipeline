@@ -1,0 +1,129 @@
+{
+  "receipt_id": "X51005675914",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005675914.jpg",
+  "fields": {
+    "store_name": {
+      "value": "ON guv 010S $OOOD",
+      "confidence": 0.5636,
+      "low_confidence": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.1786,
+      "low_confidence": true
+    },
+    "items": {
+      "value": [
+        {
+          "name": "ON guv 010S $OOOD",
+          "price": 10.0
+        },
+        {
+          "name": "(W9)ZEI",
+          "price": 9.0
+        },
+        {
+          "name": "MT) 7wp",
+          "price": 7.0
+        },
+        {
+          "name": "OC",
+          "price": 69.0
+        },
+        {
+          "name": "Va",
+          "price": 9.0
+        },
+        {
+          "name": "VSVIf uadJv2S",
+          "price": 2.0
+        },
+        {
+          "name": "Oc9f",
+          "price": 9.0
+        },
+        {
+          "name": "12 31/TIXVW",
+          "price": 31.0
+        },
+        {
+          "name": "Z2 G",
+          "price": 8.0
+        },
+        {
+          "name": "#8lp",
+          "price": 8.0
+        },
+        {
+          "name": "Lo8E",
+          "price": 8.0
+        },
+        {
+          "name": "1v) Nvdvd",
+          "price": 1.0
+        },
+        {
+          "name": "Z1'z",
+          "price": 1.0
+        },
+        {
+          "name": "9005 431I14 ALLOId SNBINad",
+          "price": 14.0
+        },
+        {
+          "name": "OC'",
+          "price": 5.0
+        },
+        {
+          "name": "a2udis",
+          "price": 2.0
+        },
+        {
+          "name": "a3udiS",
+          "price": 3.0
+        },
+        {
+          "name": "(O Ep %",
+          "price": 1.0
+        },
+        {
+          "name": "A5iON XVI",
+          "price": 5.0
+        },
+        {
+          "name": "aI 1S?",
+          "price": 1.0
+        },
+        {
+          "name": "Eeclizop-€o : \"",
+          "price": 131.0
+        },
+        {
+          "name": "34VC1OS ONOWVIC",
+          "price": 1.0
+        },
+        {
+          "name": "091 NIr '€-0-i 1O",
+          "price": 7.0
+        },
+        {
+          "name": "(A-L862L8}",
+          "price": 8.0
+        }
+      ],
+      "confidence": 0.5936,
+      "low_confidence": true
+    },
+    "total_amount": {
+      "value": 9005.0,
+      "confidence": 0.4586,
+      "low_confidence": true
+    },
+    "ocr_mean_confidence": {
+      "value": 0.2968,
+      "confidence": 0.2968,
+      "low_confidence": true
+    }
+  },
+  "raw_text": "ON guv 010S $OOOD\n+8\"&\n00*79\nieHOJ\n78 &\nO0'19\nyS\n(W9)ZEI\nMT) 7wp\napo)ke]\n51z\neBueyj\nQ0*02\nHSVJ\n58'29\nL0o\nfuifunoy\np8 €\nLSE) Iepol\nOC 0\nJunaJSICl\nOC  69\n(J;\nVa 9\nKQJelel\nVSVIf uadJv2S\nUs\ntZ 0\nK 0\nO0 #\nsebt\nYJJJO) Mc ! 'Iv[/T#[Mouuv\n&S\n3p !\nQQ 0\nOc9f\n12 31/TIXVW\n4S\nZ2 G8\n00 L\n#8lp\n(1JS' ~L 837104 (van)\n8S\n37'H\n8F0\n00 8\nLo8E\n1v) Nvdvd\n85\n217\nZ1'z\nOo*€\n+iei\n9005 431I14 ALLOId SNBINad\n8S\nOc\"y\nOC'5\n00 5\n59L |\nXej\nIunowv\na2udis\na3udiS\nuiaji\n(lso)\n(1S5)\nJy\nucsjadsaies\n(O Ep %1\nail\nYEISI)\nJaiysej\nLl(zi.-lini\nO107\nZOSGCOJO(S )\nON J0Q\nA5iON XVI\nZLZvLGlzeloo\naI 1S?\nWOJ IIMWOHOZLONOX NVN\nEEzezzup-€o\nXVJ\nEeclizop-€o : \"131\nXvawo? NIC JJo\n34VC1OS ONOWVIC\n091 NIr '€-0-i 1O7\n(A-L862L8}"
+}

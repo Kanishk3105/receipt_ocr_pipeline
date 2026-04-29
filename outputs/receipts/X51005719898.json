@@ -1,0 +1,45 @@
+{
+  "receipt_id": "X51005719898",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005719898.jpg",
+  "fields": {
+    "store_name": {
+      "value": "MR _",
+      "confidence": 0.7429,
+      "low_confidence": false
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.3579,
+      "low_confidence": true
+    },
+    "items": {
+      "value": [
+        {
+          "name": "45+45CM PLAIn",
+          "price": 45.0
+        },
+        {
+          "name": "Sq6X",
+          "price": 6.0
+        },
+        {
+          "name": "13:09 ShO",
+          "price": 1.0
+        }
+      ],
+      "confidence": 0.8329,
+      "low_confidence": false
+    },
+    "total_amount": {
+      "value": 1190.0,
+      "confidence": 0.7429,
+      "low_confidence": false
+    },
+    "ocr_mean_confidence": {
+      "value": 0.6954,
+      "confidence": 0.6954,
+      "low_confidence": true
+    }
+  },
+  "raw_text": "MR _\n0.I.Y. (KUCHAI )\nSDN\nBHD\n(CO Reg\n750441-W)\nloT\n185 1-4\n&\n185 1-B ,\nJalan KPB\n6 _\nKamasan PERINDUSTRIAN BaLAKONG\n43300   SERI\nKEMbANGAN\nSELANGOR\n(GST\nID\nNo\n;000473792512)\n(TescO MEnJALARA KePonG , HQ )\nTax\nINVOICE\nCUshiON\n45+45CM PLAIn\n+S\nEzog\n5/60\n9064525\n1X 11,90\n11,90\nItem( s )\naty(s)\n1\ntotal\ninc |\nGST\n@6X\nRM\n11.90\nCASH\nRM 22 . 00\nChAnge\nRM\n10 ,10\nGST  Summary\nAmt (RM)\nTax(RM)\nGST\nSq6X\n11.23\n0.67\n19-03- 18\n13:09 ShO1\nB026\n1T3\nRooo 129969\nOPERATOR\nthQT\nAIDA\nNOR HAFIDZA\nEXCHANGE\nARE\nALLOWED WITHIN\n7\nDAYS NITH RECEIPT _\nSTRICTLY\nNO\nCaSh REFUND ."
+}

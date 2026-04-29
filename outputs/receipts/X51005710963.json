@@ -1,0 +1,49 @@
+{
+  "receipt_id": "X51005710963",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005710963.jpg",
+  "fields": {
+    "store_name": {
+      "value": "Ts Tonls BAINARE",
+      "confidence": 0.699,
+      "low_confidence": true
+    },
+    "date": {
+      "value": "2018-03-21",
+      "confidence": 0.819,
+      "low_confidence": false
+    },
+    "items": {
+      "value": [
+        {
+          "name": "GST NO",
+          "price": 761.0
+        },
+        {
+          "name": "RECEIPT # CSQ",
+          "price": 3225.0
+        },
+        {
+          "name": "DATE: 21/03/",
+          "price": 2018.0
+        },
+        {
+          "name": "SR: (UNIT) 2QHSAMURAI SPRAY PAINT",
+          "price": 2.0
+        }
+      ],
+      "confidence": 0.789,
+      "low_confidence": false
+    },
+    "total_amount": {
+      "value": 3225.0,
+      "confidence": 0.699,
+      "low_confidence": true
+    },
+    "ocr_mean_confidence": {
+      "value": 0.5978,
+      "confidence": 0.5978,
+      "low_confidence": true
+    }
+  },
+  "raw_text": "Ts Tonls BAINARE\n1151414-P\n69\nJaLAN BANDAR SATV,\n'PUsat\nBANDAR PUCHONG\n47160\nPuCHONG\nSELANGOR\nTEL; 03-58290352\nGST NO:  000761802752\nTaX INVOICE\nRECEIPT # CSQ0032256\nDATE: 21/03/2018\nSALESPERSON\nTIME:\n13:40: Q0\nCASHTER\n3\nUSER\nITEH\nQTY\nu/P\nAMQUNT\n(RM)\n(RM)\n2017\n.Q0\n7. 00\nSR: (UNIT) 2QHSAMURAI SPRAY PAINT\nTOTAL    QUANTity\nSUR-TQTAL\nDISC\nTAX\nTOTAL\nRoundiNG\n8\nCASH\nCHANGE\nGST SUMMARY\nCODE\nAQUNT\nTaX/AMT\nSR\n7 , Q0\n0.42\nTaX\nTOTAL:\n0,42\ngoodS SQLD ARE NDT RETURNABLE _\nTHANK   YQU_"
+}

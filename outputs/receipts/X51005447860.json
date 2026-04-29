@@ -1,0 +1,125 @@
+{
+  "receipt_id": "X51005447860",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005447860.jpg",
+  "fields": {
+    "store_name": {
+      "value": "AEON C0 _",
+      "confidence": 0.7441,
+      "low_confidence": false
+    },
+    "date": {
+      "value": "2018-02-19",
+      "confidence": 0.7141,
+      "low_confidence": false
+    },
+    "items": {
+      "value": [
+        {
+          "name": "AEON C0 _",
+          "price": 0.0
+        },
+        {
+          "name": "(M) BHD ( 126926-H)",
+          "price": 126926.0
+        },
+        {
+          "name": "3RD FLR,",
+          "price": 3.0
+        },
+        {
+          "name": "55100 KUALA LUMPup",
+          "price": 55100.0
+        },
+        {
+          "name": "0020 1",
+          "price": 7394388.0
+        },
+        {
+          "name": "HON-SUN: 1000 HRS",
+          "price": 1000.0
+        },
+        {
+          "name": "2200 HRS",
+          "price": 2200.0
+        },
+        {
+          "name": "Ix 0000(",
+          "price": 14089728.0
+        },
+        {
+          "name": "5.9SR",
+          "price": 5.9
+        },
+        {
+          "name": "Ix 0000Q",
+          "price": 7572029.0
+        },
+        {
+          "name": "5 ,9OSP",
+          "price": 9.0
+        },
+        {
+          "name": "Ix (100u67",
+          "price": 31878.0
+        },
+        {
+          "name": "5,Y0S",
+          "price": 3.0
+        },
+        {
+          "name": "'50VEN CAR NECK",
+          "price": 50.0
+        },
+        {
+          "name": "[ten; Cxsurt",
+          "price": 3.0
+        },
+        {
+          "name": "33 , {uj",
+          "price": 33.0
+        },
+        {
+          "name": "Irivoice No: 201802195",
+          "price": 13200266167.0
+        },
+        {
+          "name": "@ 6X",
+          "price": 6.0
+        },
+        {
+          "name": "19/02/2018 16",
+          "price": 45.0
+        },
+        {
+          "name": "5132 002 (",
+          "price": 26157.0
+        },
+        {
+          "name": "0293605  SHIVANESWARY A/P MaNY",
+          "price": 293605.0
+        },
+        {
+          "name": "TEL 1-300-80-AEON",
+          "price": 80.0
+        },
+        {
+          "name": "2366)",
+          "price": 2366.0
+        }
+      ],
+      "confidence": 0.7291,
+      "low_confidence": false
+    },
+    "total_amount": {
+      "value": 13200266167.0,
+      "confidence": 0.8191,
+      "low_confidence": false
+    },
+    "ocr_mean_confidence": {
+      "value": 0.5981,
+      "confidence": 0.5981,
+      "low_confidence": true
+    }
+  },
+  "raw_text": "AEON C0 _\n(M) BHD ( 126926-H)\n3RD FLR,\nAEON  TAMAN MALURT\nJLN JEJAKA\nTAMAN MALURI\nCHERAS _\n55100 KUALA LUMPup\nGST  ID\n0020 1 7394388\nSHOPPI NG  HOURS\nHON-SUN: 1000 HRS\n2200 HRS\nIx 0000(14089728\n5.9SR\nSAKUMASHIK OROP\nIx 0000Q07572029\n5 ,9OSP\nBINDER CLTP ~AL\nIx (100u67 31878\n5,Y0S3\n'50VEN CAR NECK\nSub-total\n17.70\nTgta | Sales Inc] GST\n17,7\nTota/ After Ad)\n[nc | GST\n17.70\nZasH\n50,70\n[ten; Cxsurt 3\nChange Amt\n33 , {uj\nIrivoice No: 201802195 13200266167\nGST   Summary\nAmount\nThy\nSR\n@ 6X\n16,71\n(1,99\nTota|\n16,71\n0,99\n19/02/2018 16 :45\n5132 002 (026157\n0293605  SHIVANESWARY A/P MaNY\nDAISO SUNHAY VELOCITY\nTEL 1-300-80-AEON\n2366)\nThANk   YQu FlR  YoUR PATRONace\nPLEASE COME AGAIN"
+}

@@ -1,0 +1,45 @@
+{
+  "receipt_id": "X51005361883",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005361883.jpg",
+  "fields": {
+    "store_name": {
+      "value": "TEQ HENG STATIDMERY ZRA KE",
+      "confidence": 0.7843,
+      "low_confidence": false
+    },
+    "date": {
+      "value": "2018-01-18",
+      "confidence": 0.7993,
+      "low_confidence": false
+    },
+    "items": {
+      "value": [
+        {
+          "name": "NO. 53, JALAN",
+          "price": 53.0
+        },
+        {
+          "name": "JIANYU STELL RULER 30Cm Thick",
+          "price": 30.0
+        },
+        {
+          "name": "Note: (2) Indicated The Item Sold Has Been Related",
+          "price": 2.0
+        }
+      ],
+      "confidence": 0.8743,
+      "low_confidence": false
+    },
+    "total_amount": {
+      "value": 9872.0,
+      "confidence": 0.7843,
+      "low_confidence": false
+    },
+    "ocr_mean_confidence": {
+      "value": 0.7874,
+      "confidence": 0.7874,
+      "low_confidence": false
+    }
+  },
+  "raw_text": "TEQ HENG STATIDMERY ZRA KE\n(001451637-M)\nNO. 53, JALAN\nAR, 45600\nBATAt\nBERJUNTAY\nSFLANG\nDARUL EHSAN\nTEL\n03-3271 9872\nVAX\n03-3271\nGST No.\n000689913856\nSIMPLIMED TAN INVOIC'E\nCASH\nReceipt No,\nCS1801/26874\nDJatc\n18/01/2018\nITEM\nQTF\nU/P\nDISC%\nAMOUNT\n(RM)\n9557068000035\n3.50\n5.69\n3.30\nJIANYU STELL RULER 30Cm Thick\n1,.30\nO.00\n1.30\nLAMINATE FILM\nTotal\n4.60\nSUB-TOTAL (EX)\n4.60\nTOTAL TAX\n0.28\nROUNDING\n0.02\nTOTAL\n4.90\nCASH\n4.90\nCHANGE\n0.00\nGST SUMMARY\nTAX CODE\n%6\nAMOUNT'\nTAX\n(RM)\n(RM)\nSR\nOO\n4.60\n0.28\nTOTAL :\n4.60\n0,28\nNote: (2) Indicated The Item Sold Has Been Related\nTo GST (Goods & Services Tax)\nGOODS SOLD ARE NOT RETURNABLE,\nTHANK YOU.\nQty."
+}

@@ -1,0 +1,49 @@
+{
+  "receipt_id": "X51005453804",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005453804.jpg",
+  "fields": {
+    "store_name": {
+      "value": "STATIONERY SDN BHD",
+      "confidence": 0.7293,
+      "low_confidence": false
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.3443,
+      "low_confidence": true
+    },
+    "items": {
+      "value": [
+        {
+          "name": "I627SRM)9 SEKSYEN",
+          "price": 9.0
+        },
+        {
+          "name": "8 JJ JALAN SR",
+          "price": 19.0
+        },
+        {
+          "name": "NO",
+          "price": 32.0
+        },
+        {
+          "name": "GST ID",
+          "price": 2130.0
+        }
+      ],
+      "confidence": 0.7593,
+      "low_confidence": false
+    },
+    "total_amount": {
+      "value": 6.0,
+      "confidence": 0.7293,
+      "low_confidence": false
+    },
+    "ocr_mean_confidence": {
+      "value": 0.6652,
+      "confidence": 0.6652,
+      "low_confidence": true
+    }
+  },
+  "raw_text": "180303\nSTATIONERY SDN BHD\nIJANHING\nI627SRM)9 SEKSYEN 9\n8 JJ JALAN SR 19\nNO 32\nSERDANG RAYA\nSERAREGERDGAN SELANGOR\n43300 SERI\nEHSAN\nDARUL\nGST ID : 002130201536\nTax Invoice\nNo\nCs-20242\n22.022018\nTex\nRM\nSR\n12.00\nFCastell 187057.75 Tacbd\nWtuto\n(@ 5 660\n75g-\n12 00\nTotal Ant Ind: GST 0 6%\nRoundng Adjetmoni\n1200\nTotal Amt\n20 00\nPald Ainount\n8 00\nChenoo\nTold Gty Tonda\nTar\nGST Summary\nAmount\n(RM)\n(RMI\n22\n68\nsr\n32\n0.68\nTotal\nTANK YOU\nenjuirv blase contact Us\nFor anv\n(naw)\nPayablo\n@A"
+}

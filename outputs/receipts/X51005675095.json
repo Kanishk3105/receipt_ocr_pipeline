@@ -1,0 +1,45 @@
+{
+  "receipt_id": "X51005675095",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005675095.jpg",
+  "fields": {
+    "store_name": {
+      "value": "3 ' 8 0f oV",
+      "confidence": 0.6821,
+      "low_confidence": true
+    },
+    "date": {
+      "value": "2018-01-14",
+      "confidence": 0.6971,
+      "low_confidence": true
+    },
+    "items": {
+      "value": [
+        {
+          "name": "62,Blok 01,",
+          "price": 1.0
+        },
+        {
+          "name": "1/o #M",
+          "price": 1.0
+        },
+        {
+          "name": "Irclusive 6} G;T",
+          "price": 6.0
+        }
+      ],
+      "confidence": 0.7121,
+      "low_confidence": false
+    },
+    "total_amount": {
+      "value": 6205.0,
+      "confidence": 0.6821,
+      "low_confidence": true
+    },
+    "ocr_mean_confidence": {
+      "value": 0.5603,
+      "confidence": 0.5603,
+      "low_confidence": true
+    }
+  },
+  "raw_text": "3 ' 8 0f oV\nSARIS\nIJulamas\nSUN VICTCRY SN BH\n(Nn; 193573-M\"\nLevel\n62,Blok 01,\nSolaris Outamas;\nNo: I,aalan Outamas\n1,\n50480 Kala Lupr;\n(GST\nID N:077/0352)\nTE:03-6205 5385\nTax\nInvoic\nPls mQ?\n'N-N.02071401180188\n1/o #M\nTickec N.028165\nEntry\nTiie\n14/01/2018 (Sn) 12:03\nPaid Time\n14/1/*18 (sn) 13;51\nParking Time\n1.45\nPau}ing Fee\nRate A\nA. 0O\nApnt\n14.1,|8\nA.77\nGST\n6,0\n7\nA.23\n==\nTotal\n4,o0\nR14 . 0\nPaid\nm4 . 0\ncange\nRMO .\nIrclusive 6} G;T\nTark Yau"
+}

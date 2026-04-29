@@ -1,0 +1,105 @@
+{
+  "receipt_id": "X51005365187",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005365187.jpg",
+  "fields": {
+    "store_name": {
+      "value": "3-1707067",
+      "confidence": 0.7569,
+      "low_confidence": false
+    },
+    "date": {
+      "value": "2018-02-03",
+      "confidence": 0.7719,
+      "low_confidence": false
+    },
+    "items": {
+      "value": [
+        {
+          "name": "002309592-F)",
+          "price": 2309592.0
+        },
+        {
+          "name": "NO.220,GROIJND FIOOR,",
+          "price": 220.0
+        },
+        {
+          "name": "JALAN BS 10/",
+          "price": 6.0
+        },
+        {
+          "name": "SFKSYEN 10.43300 SERI KEMBANGAN.",
+          "price": 10.43
+        },
+        {
+          "name": "03",
+          "price": 89699823.0
+        },
+        {
+          "name": "CS",
+          "price": 110240.0
+        },
+        {
+          "name": "02/03/",
+          "price": 2018.0
+        },
+        {
+          "name": "16.",
+          "price": 0.0
+        },
+        {
+          "name": "6.0Q",
+          "price": 6.0
+        },
+        {
+          "name": "HOMECARE GASCOAL SO1G",
+          "price": 1.0
+        },
+        {
+          "name": "6 QD",
+          "price": 6.0
+        },
+        {
+          "name": "NAPROXEN NA 275 MG",
+          "price": 275.0
+        },
+        {
+          "name": "956783740003",
+          "price": 956783740003.0
+        },
+        {
+          "name": "6 {",
+          "price": 3.0
+        },
+        {
+          "name": "PMS GAIJZE BANDAGE S6:M X 4M",
+          "price": 4.0
+        },
+        {
+          "name": "31",
+          "price": 90.0
+        },
+        {
+          "name": "20",
+          "price": 38.0
+        },
+        {
+          "name": "10",
+          "price": 30.0
+        }
+      ],
+      "confidence": 0.8469,
+      "low_confidence": false
+    },
+    "total_amount": {
+      "value": 956783740003.0,
+      "confidence": 0.8769,
+      "low_confidence": false
+    },
+    "ocr_mean_confidence": {
+      "value": 0.7264,
+      "confidence": 0.7264,
+      "low_confidence": false
+    }
+  },
+  "raw_text": "3-1707067\nF&P PHARMACY\n002309592-F)\nNO.220,GROIJND FIOOR,\nJALAN BS 10/6\nTAMAN BUKIT SERDANG,\nSFKSYEN 10.43300 SERI KEMBANGAN.\nSELANGC)R DARUL EHSAN\nTEL\n03-89699823\nGST\nNo\n001881666112\nTAX INVQICE\nDoc, No\nCS00110240\nDJate'\n02/03/2018\nCashier\nF&P\nTime.\n16.46.00\nSalesperson\nRel\n(GST)\n(GST)\nItem)\nQy _\nSiPtice\nSiprice\nAmount\nTax\n955799210624\n5.86\n8.01\n6.0Q\nSR\nHOMECARE GASCOAL SO1G\n1486\n00\n6 QD\nQ0\nZRL\nPP\nNAPROXEN NA 275 MG\n956783740003:\n4 30\n4 30\n30\nZRL\nYLlLOWV\nOMON Ju ML\n1014\n358\n3 80\n80\nSR\nPANADUl SOLUBLE TABL ET\n1156\n6 {3\nS0\nS0\nSR\nPMS GAIJZE BANDAGE S6:M X 4M\n955061014\nO0\n5 30\n5 30\nSR\nDETTOL iu ML\nTotal Qty\n31 90\nTolal Sales (Excl:Iding GSTi\n30.68\nDiscoeint\n0.00\nTotai GST\n22\nRou nding\n0.00\nTatal Salea (Iriclusive of GST)\n31.90\nCASH\n50.00\nChange\n18.10\nGsT SUMMARY\nTex Code\n%\nAnwl (RM)\nIax (RW\nSR\n20 38\n1.22\nZKL\n{)\n10 30\n0.00\nTotal\n30.68\n1.22\nGOODS SOLD ARE NOT RETURNABLE\n& EXCHANGABLE,\nTHANK YOU.\nReg"
+}

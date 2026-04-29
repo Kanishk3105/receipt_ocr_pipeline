@@ -1,0 +1,57 @@
+{
+  "receipt_id": "X51005587261",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005587261.jpg",
+  "fields": {
+    "store_name": {
+      "value": "CHop",
+      "confidence": 0.7702,
+      "low_confidence": false
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.4902,
+      "low_confidence": true
+    },
+    "items": {
+      "value": [
+        {
+          "name": "Lonpe1v5121 _",
+          "price": 5121.0
+        },
+        {
+          "name": "V-Power\"",
+          "price": 97.0
+        },
+        {
+          "name": "6.00% GST",
+          "price": 6.0
+        },
+        {
+          "name": "Shel",
+          "price": 1.0
+        },
+        {
+          "name": "'eor?5623N95}",
+          "price": 95.0
+        },
+        {
+          "name": "(b) GST Act",
+          "price": 2014.0
+        }
+      ],
+      "confidence": 0.8002,
+      "low_confidence": false
+    },
+    "total_amount": {
+      "value": 8994.0,
+      "confidence": 0.8152,
+      "low_confidence": false
+    },
+    "ocr_mean_confidence": {
+      "value": 0.7561,
+      "confidence": 0.7561,
+      "low_confidence": false
+    }
+  },
+  "raw_text": "CHop\nLIAN\nLonpe1v5121 _\n000200101-A\nKl\nSek _\n27\nSlte\nam_\nSe/ angor '\n1164\nTelephone\n93-51911239\nGST No\n000840968142\n>>>>>>>\nPre-AuthorlsatIon\n{<s<<\nPre auth code\nA01A1490249339\n11.54\nItre\nV-Power\": 97\n# 01\n2.600\nRM\nRM\n30. 00\nR\nCash\nRM\n30 . 00\n30 . 00\n6.00% GST\nTotal Gross\nRM\n1.70\n30 . 00\nShel 1\nty Card\n6018840117325593r\nWI)\nbe awarded for\npurchases _\nany eligible\nyour tuel\nwith pointsl\nCashler\nJamaluddin\nThis Is not the fInal\nflscal\nrecelpt\nDate\n23703/17 {4308 14342 8OS\nShift\n01 8994\n160\nDfese]\n8\nPetro]\nunder\n'eor?5623N95}\nglven rel ef\n(b) GST Act 2014\nThank Yoy &d Please\nAgaln\nYEW\nCompany\nang-\nPump\nlitre\nTotal\nLoyal\nPofnts\nPay\nTime\nNum\nCNo\nSect\nCome"
+}

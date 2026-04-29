@@ -1,0 +1,65 @@
+{
+  "receipt_id": "X51005712017",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005712017.jpg",
+  "fields": {
+    "store_name": {
+      "value": "Gerbang Alaf Restaurants Sdn Bhd",
+      "confidence": 0.7564,
+      "low_confidence": false
+    },
+    "date": {
+      "value": "2018-03-18",
+      "confidence": 0.7714,
+      "low_confidence": false
+    },
+    "items": {
+      "value": [
+        {
+          "name": "Leve] ^6 _",
+          "price": 6.0
+        },
+        {
+          "name": "Bangunan tH , Damansara Uptown",
+          "price": 3.0
+        },
+        {
+          "name": "No,3 ,",
+          "price": 3.0
+        },
+        {
+          "name": "Jalan SS21/39,47400 Petal ing Jaya",
+          "price": 3947.0
+        },
+        {
+          "name": "(GST   Id No: 000504664064)",
+          "price": 504.0
+        },
+        {
+          "name": "McDonaId 's Rawang DT(#188)",
+          "price": 188.0
+        },
+        {
+          "name": "Inv#",
+          "price": 1881.0
+        },
+        {
+          "name": "2 Sma7 1 Cone",
+          "price": 1.0
+        }
+      ],
+      "confidence": 0.8464,
+      "low_confidence": false
+    },
+    "total_amount": {
+      "value": 6.0,
+      "confidence": 0.7564,
+      "low_confidence": false
+    },
+    "ocr_mean_confidence": {
+      "value": 0.7252,
+      "confidence": 0.7252,
+      "low_confidence": false
+    }
+  },
+  "raw_text": "Gerbang Alaf Restaurants Sdn Bhd\n(65351-M)\nLIcensee of McDonaId 's\nLeve] ^6 _\nBangunan tH , Damansara Uptown3\nNo,3 ,\nJalan SS21/39,47400 Petal ing Jaya\nSelangor\n(GST   Id No: 000504664064)\nMcDonaId 's Rawang DT(#188)\nTel No_\n03-6092-1968\nTAX INVOICE\nMFY Side\nInv# 001881904580783\nORD #70 ~REG #19-   18/03/2018 23:02: 16\nGTY ITEM\ntOTAl\nMcChicken\n11.10\nCoke\nL\nFries\n2 Sma7 1 Cone\n2.00\nTakelut Total\n(inc]  GST)\n13 . 10\nTota] Rounded\n13.10\nCash Tendered\n20 , 00\nChange\n6.90\nTOTAL  INCLUDES 6x GST\n0.74\nInk Ycu and PIease Come Again.\nGuest Relat Ions Center\n1300-13-1300"
+}

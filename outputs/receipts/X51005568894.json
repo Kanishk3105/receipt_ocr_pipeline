@@ -1,0 +1,89 @@
+{
+  "receipt_id": "X51005568894",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005568894.jpg",
+  "fields": {
+    "store_name": {
+      "value": "VIOPAC MARKETING SDN BHD (1070687-M)",
+      "confidence": 0.8209,
+      "low_confidence": false
+    },
+    "date": {
+      "value": "2017-01-17",
+      "confidence": 0.9409,
+      "low_confidence": false
+    },
+    "items": {
+      "value": [
+        {
+          "name": "GST REG;",
+          "price": 565.0
+        },
+        {
+          "name": "To",
+          "price": 2.0
+        },
+        {
+          "name": "1.00 PKT",
+          "price": 1.0
+        },
+        {
+          "name": "1.00 PKT",
+          "price": 1.0
+        },
+        {
+          "name": "24 x 20 (75HT) Rad",
+          "price": 75.0
+        },
+        {
+          "name": "1.00 PKT",
+          "price": 1.0
+        },
+        {
+          "name": "26 x 33 (85HT) Red",
+          "price": 85.0
+        },
+        {
+          "name": "1.00 PKT",
+          "price": 1.0
+        },
+        {
+          "name": "1 OPP Tapes",
+          "price": 1.0
+        },
+        {
+          "name": "1,00 PCS",
+          "price": 100.0
+        },
+        {
+          "name": "GST 6%",
+          "price": 6.0
+        },
+        {
+          "name": "1. The original receipt must be presented",
+          "price": 1.0
+        },
+        {
+          "name": "2. Exchange Is done within",
+          "price": 2.0
+        },
+        {
+          "name": "2. In good condition ad in it's origlal pakcing",
+          "price": 2.0
+        }
+      ],
+      "confidence": 0.9109,
+      "low_confidence": false
+    },
+    "total_amount": {
+      "value": 2017.0,
+      "confidence": 0.8209,
+      "low_confidence": false
+    },
+    "ocr_mean_confidence": {
+      "value": 0.8686,
+      "confidence": 0.8686,
+      "low_confidence": false
+    }
+  },
+  "raw_text": "VIOPAC MARKETING SDN BHD (1070687-M)\n14 JALAN MANIS 4 TAMAN SEGAR 56100 KL\nTEL: 03-91334364\nFAX; 03-91310522\nw.vivopac.com\nGST REG; 000565805056\nTAX INVOICE\nDoc #\nCS21532619\nDate\n17/01/2017 01.31.27 PM\nPromoter\nTerminal\nTo2\nCashier\nAI\nDESCRIPTION\nPRICE\nDisc\nAMOUNT TAX\nQTY\nRM\nRM CODE\nPP\n14x20 0.04mm\n1.00 PKT\n14.6000\n14.60\nSR\nPP\n16x26 0.04mm\n1.00 PKT\n14.6000\n14.60\nSR\n24 x 20 (75HT) Rad\n1.00 PKT\n6.0000\n6.00\nSR\n26 x 33 (85HT) Red\n1.00 PKT\n8.0000\n8.00\nSR\n1 OPP Tapes\n1,00 PCS\n0.8000\n0.80\nSR\nItem Count:\n5\nItemi Qty:\n5.00\nSub Total (Exclusive GST)\n44.00\nGST 6%\n2.64\nRounding Adj:\n0.01\nRounded Total (RM):\n46.65\nCash\n51.65\nCash Change\n5.00\nGST Summary\nAmount(RM)\nTa(RM)\nSR\n6 %\n44.00\n2.64\nTerms\nConditions\nGoods sold are not refundable with cash;\nFor exchande of goods sold the following apply:\n1. The original receipt must be presented\n2. Exchange Is done within\n7\nfrom date of receipt\n2. In good condition ad in it's origlal pakcing\ndays"
+}

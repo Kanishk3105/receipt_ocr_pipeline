@@ -1,0 +1,32 @@
+{
+  "receipt_id": "4",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\4.jpg",
+  "fields": {
+    "store_name": {
+      "value": "Walmart",
+      "confidence": 0.629,
+      "low_confidence": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.199,
+      "low_confidence": true
+    },
+    "items": {
+      "value": [],
+      "confidence": 0.214,
+      "low_confidence": true
+    },
+    "total_amount": {
+      "value": 174.0,
+      "confidence": 0.629,
+      "low_confidence": true
+    },
+    "ocr_mean_confidence": {
+      "value": 0.3422,
+      "confidence": 0.3422,
+      "low_confidence": true
+    }
+  },
+  "raw_text": "Walmart\nSavt monty: Ltve batter:\nSTt\n43\n3\n95146\nHRo\n0\nTaX\n3\n1\nJEmoe'\n3\nEFT DEAIT\nPRIARY\ntotaL\nmtt\n174\nCQW;087193\n12/00/16\n12:99;24\nITEHS SOLD\nMit\nOren\n39126\nSovlntt Catcher\nScon Dith Walarf"
+}

@@ -1,0 +1,45 @@
+{
+  "receipt_id": "X51005663317",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005663317.jpg",
+  "fields": {
+    "store_name": {
+      "value": "2 18 |2 012",
+      "confidence": 0.7159,
+      "low_confidence": false
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.3309,
+      "low_confidence": true
+    },
+    "items": {
+      "value": [
+        {
+          "name": "No 7 Simpang Off Batu Village",
+          "price": 7.0
+        },
+        {
+          "name": "Tel 2 fan Nc",
+          "price": 2.0
+        },
+        {
+          "name": "3GST",
+          "price": 3.0
+        }
+      ],
+      "confidence": 0.7459,
+      "low_confidence": false
+    },
+    "total_amount": {
+      "value": 7191.0,
+      "confidence": 0.6109,
+      "low_confidence": true
+    },
+    "ocr_mean_confidence": {
+      "value": 0.6353,
+      "confidence": 0.6353,
+      "low_confidence": true
+    }
+  },
+  "raw_text": "2 18 |2 012\nLIm SENG THO HARDWARE TRADING\nNo 7 Simpang Off Batu Village\nJalan Ipoh Batu 5. 51200 Kuala Lumpur\nMALAYSIA\nTel 2 fan Nc\n02\n~587191\n03-6258 7191\nCompariy\nNo\n100_231061-T}\nGsT Reg No\n001269075968\nTAX INVOICE\nIr;voie No\nCS 23304\nDale\n29/122/2017 11 41\nCashier #\nLST\nRM\ncode\n?I,Elv ?'\n: 00\nOo\n00\nUbrstal\nOC\nToial\n3GST\nCO\nPaynent\nUO\nCrianige Due\n0Q\nTolal It-nI S}\nGST Suiniinary\nAnustm(RM}!\nTax ( FrMM)\nSR\n87\n66\n0 34\n0.sY\nf#AlvK YOlJ\nPLEASE COME A\n'\n((\n{1oS0DARE NO)T RE [URNAFLE\nReg"
+}

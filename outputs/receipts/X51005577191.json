@@ -1,0 +1,32 @@
+{
+  "receipt_id": "X51005577191",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005577191.jpg",
+  "fields": {
+    "store_name": {
+      "value": "intt",
+      "confidence": 0.6303,
+      "low_confidence": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.2453,
+      "low_confidence": true
+    },
+    "items": {
+      "value": [],
+      "confidence": 0.2603,
+      "low_confidence": true
+    },
+    "total_amount": {
+      "value": 3832.0,
+      "confidence": 0.5703,
+      "low_confidence": true
+    },
+    "ocr_mean_confidence": {
+      "value": 0.4451,
+      "confidence": 0.4451,
+      "low_confidence": true
+    }
+  },
+  "raw_text": "intt\n8\n~i\n2\n9\n9\n85\n2\n2\n30\n3\n1\n1\nF\n0\nnn\n1\n1;\n]\n2\nH-t\n8\n3\n382\n6\n2\n~f\n3\nmtsj\n8\n%\n1\n33\n0\n3m\n2\n#\n8\n1\n3832\nE3\nH\n3\n1\n7 &\nZ\n2\n#\n25\n3\n4\n2\nI\n8\n2\n2\n1\n8\n1\n1\n2\n1\n5\nI\nh\n9\nkes\nHk"
+}

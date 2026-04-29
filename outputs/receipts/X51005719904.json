@@ -1,0 +1,77 @@
+{
+  "receipt_id": "X51005719904",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005719904.jpg",
+  "fields": {
+    "store_name": {
+      "value": "Yem Fresh",
+      "confidence": 0.7049,
+      "low_confidence": false
+    },
+    "date": {
+      "value": "2918-03-10",
+      "confidence": 0.7199,
+      "low_confidence": false
+    },
+    "items": {
+      "value": [
+        {
+          "name": "No , 1456 , Ja lar Rimblnan",
+          "price": 1456.0
+        },
+        {
+          "name": "GST   LD-00181790720u",
+          "price": 1817.0
+        },
+        {
+          "name": "Rmg.",
+          "price": 90.0
+        },
+        {
+          "name": "A07 BlackSugar Ice",
+          "price": 7.0
+        },
+        {
+          "name": "RH? .",
+          "price": 50.0
+        },
+        {
+          "name": "S02 Pudding Soybean",
+          "price": 2.0
+        },
+        {
+          "name": "RHB .",
+          "price": 90.0
+        },
+        {
+          "name": "Rw2g ,",
+          "price": 30.0
+        },
+        {
+          "name": "Inclusive ot 6x GST",
+          "price": 6.0
+        },
+        {
+          "name": "RMI ,66 )",
+          "price": 66.0
+        },
+        {
+          "name": "RM3O ,",
+          "price": 30.0
+        }
+      ],
+      "confidence": 0.7349,
+      "low_confidence": false
+    },
+    "total_amount": {
+      "value": 6243.0,
+      "confidence": 0.5999,
+      "low_confidence": true
+    },
+    "ocr_mean_confidence": {
+      "value": 0.6109,
+      "confidence": 0.6109,
+      "low_confidence": true
+    }
+  },
+  "raw_text": "Yem Fresh\nNo , 1456 , Ja lar Rimblnan\n1\nLaman Rimbunan Keporig,\n52100 Kua la Lumpur\nTel : (603) 6243 5520)\nGST   LD-00181790720u\nEtl) No_\n001-3246\nDine In\nCate; 2018-03-I8 13:18; 48\nRQS Uyster Mee\nRmg.90\n:Take Away\nA07 BlackSugar Ice\nRH? . 50\nFresh Mi lk\n:Pear|\n:Herb.J\nRM3 . 0O\n;Take\nS02 Pudding Soybean\nRHB . 90\nTake Away\nGr ana Tata|\nRw2g , 30\n(B1 ] 1\nInclusive ot 6x GST\nRMI ,66 )\nTash\nRM3O , 30\nChange\nPM , 00\nThank   You .\nPlease visit us at:\nFacebaok : -Yam Fresn\nS\nWifi SSID: yamfresh\nWifi Pasword; buyatr inkfirst\n00|-2918-03-10 13:21:02\nRainny\n00|-3246 [|}\nRayd\nAway"
+}

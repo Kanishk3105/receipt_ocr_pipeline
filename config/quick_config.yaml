@@ -1,0 +1,40 @@
+dataset_root: "C:/Users/kanis/Downloads/AI-OCR dataset-20260428T205037Z-3-001/AI-OCR dataset"
+output_root: "./outputs"
+image_extensions:
+  - ".jpg"
+  - ".jpeg"
+  - ".png"
+  - ".bmp"
+  - ".tif"
+  - ".tiff"
+  - ".webp"
+preprocessing:
+  enable_denoise: true
+  denoise_h: 12
+  enable_clahe: true
+  clahe_clip_limit: 2.0
+  clahe_tile_grid: 8
+  enable_adaptive_threshold: false
+  adaptive_block_size: 31
+  adaptive_c: 10
+  enable_global_threshold_fallback: true
+  deskew_min_angle_abs: 0.4
+  rotation_try_90: true
+ocr:
+  languages: ["en"]
+  gpu: false
+  paragraph: false
+  min_ocr_confidence: 0.05
+  max_side: 2200
+  retry_max_side: 1600
+  last_retry_max_side: 1024
+confidence:
+  low_confidence_threshold: 0.70
+  weights:
+    ocr: 0.45
+    pattern: 0.25
+    keyword: 0.15
+    consistency: 0.15
+runtime:
+  save_preprocessed_images: false
+  max_images: 20

@@ -1,0 +1,65 @@
+{
+  "receipt_id": "X51005724611",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005724611.jpg",
+  "fields": {
+    "store_name": {
+      "value": "KEDAI PAPAN YEW CHUAN",
+      "confidence": 0.7787,
+      "low_confidence": false
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.4987,
+      "low_confidence": true
+    },
+    "items": {
+      "value": [
+        {
+          "name": "LOT 276 JALAN BANTING",
+          "price": 276.0
+        },
+        {
+          "name": "GST ID",
+          "price": 781.0
+        },
+        {
+          "name": "JALAN AMAN",
+          "price": 2.0
+        },
+        {
+          "name": "CSOOOT",
+          "price": 1043.0
+        },
+        {
+          "name": "(G8T)",
+          "price": 8.0
+        },
+        {
+          "name": "8/Prico",
+          "price": 8.0
+        },
+        {
+          "name": "8ifuce",
+          "price": 8.0
+        },
+        {
+          "name": "10 (CQ)",
+          "price": 10.0
+        }
+      ],
+      "confidence": 0.8687,
+      "low_confidence": false
+    },
+    "total_amount": {
+      "value": 4476.0,
+      "confidence": 0.7787,
+      "low_confidence": false
+    },
+    "ocr_mean_confidence": {
+      "value": 0.7749,
+      "confidence": 0.7749,
+      "low_confidence": false
+    }
+  },
+  "raw_text": "R\nKEDAI PAPAN YEW CHUAN\n(0005583085-K)\nLOT 276 JALAN BANTING\n43800 DENGKIL, SELANGOR.\nTEL : 03-87686092\nFAX\n03-87686092\nGST ID : 000781500416\nTAX INVOICE\nBiil To\nSUCI ALAM JAYA TRANsPORT\nNO\nJALAN AMAN 2\nTAMAN DESA 43800\nDENGKIL SELANGOR\n017-6057770\nDoc No;\nCSOOOT1043\nDate:  21/0372018\nCashier\nUSER\nTime;\n16 39.00\nSalesperson\nRef _.\n(G8T)\nIem\n8/Prico\n8ifuce\nAmount\nTax\n100139\n17 00\n10.02\n144.16\nSR\nBESI\n10 (CQ)\nTotal\nT44,76\nTotal Sales (Excluding GST)\n136.00\nDlscount\n0.00\nTotal GST\n8 16\nRounding\n0 Oo\nTotal Salee (Incluelve of GST)\n144.16\nCASH\n144.16\nChongo\n0.00\nGT QUMMMARY\nIax Code\nAmt(RM\nIex(RM\nSR\n136.00\n8.16\nTotal\n136.00\n0.16\nGOODS SOLD ARE NOT RETURNABLE, THANK YOU.\n2/3.8L .\nQty:"
+}

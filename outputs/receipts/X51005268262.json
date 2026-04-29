@@ -1,0 +1,53 @@
+{
+  "receipt_id": "X51005268262",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005268262.jpg",
+  "fields": {
+    "store_name": {
+      "value": "HOME MASTER HARDWIARE &",
+      "confidence": 0.7059,
+      "low_confidence": false
+    },
+    "date": {
+      "value": "2017-12-22",
+      "confidence": 0.8259,
+      "low_confidence": false
+    },
+    "items": {
+      "value": [
+        {
+          "name": "No. : ot637sttt",
+          "price": 68.0
+        },
+        {
+          "name": "Z4mimxzy M.QnE TAPE",
+          "price": 4.0
+        },
+        {
+          "name": "Totzl Item{G)",
+          "price": 1.0
+        },
+        {
+          "name": "NQ.",
+          "price": 1.0
+        },
+        {
+          "name": "11SG,",
+          "price": 11.0
+        }
+      ],
+      "confidence": 0.7959,
+      "low_confidence": false
+    },
+    "total_amount": {
+      "value": 2017.0,
+      "confidence": 0.7059,
+      "low_confidence": false
+    },
+    "ocr_mean_confidence": {
+      "value": 0.6131,
+      "confidence": 0.6131,
+      "low_confidence": true
+    }
+  },
+  "raw_text": "HOME MASTER HARDWIARE &\nELecTrICRL\n113G &\nJALAN SETIA GEMBILANG\nUijaG BANDAR SETIA ALAM;\n40170 BANDAR SETIA ALAM,\nSELANGQR\nCompany Reg No. ,8A03711651-p\nGST\nNo. : ot637sttt68\nTAX Frcice\nInvolcz No:;\nCS 67832\nDate\n22/12/2017 14*03\nCaahler#:\nCASHER\nRR\nCode\nZ4mimxzy M.QnE TAPE\n1.00\nX\n15.90\n15.90\nSuttutal\n15.90\nTota) Excl  0r GST\nt5.00\nTotz: Ingi. or GST\n15.90\nTotal Amt Rounded\n15.90\nPayment =\ns0.00\nDuz\n34.10\nTotzl Item{G) : 1\nAtOuii (QM)\nTay (Qa)\nSR\n6%\nt5,00\n0.90\nTHANF YQU\n04\nAR GQQDS FETURN PLEASE DQ WITHIN\n7\nDAYS Witi+ OrIGiNAL RecEIPT To\nNQ.1\n11SG,\nRey\"\nChange\n'ummary"
+}

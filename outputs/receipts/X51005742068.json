@@ -1,0 +1,49 @@
+{
+  "receipt_id": "X51005742068",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005742068.jpg",
+  "fields": {
+    "store_name": {
+      "value": "8HFetro] Palekbang",
+      "confidence": 0.8001,
+      "low_confidence": false
+    },
+    "date": {
+      "value": "2018-03-24",
+      "confidence": 0.8151,
+      "low_confidence": false
+    },
+    "items": {
+      "value": [
+        {
+          "name": "8HFetro] Palekbang",
+          "price": 8.0
+        },
+        {
+          "name": "Lot  1626 ,",
+          "price": 1626.0
+        },
+        {
+          "name": "Cashier",
+          "price": 465.0
+        },
+        {
+          "name": "Customer Service 1-300-22",
+          "price": 2828.0
+        }
+      ],
+      "confidence": 0.8901,
+      "low_confidence": false
+    },
+    "total_amount": {
+      "value": 8046.0,
+      "confidence": 0.8001,
+      "low_confidence": false
+    },
+    "ocr_mean_confidence": {
+      "value": 0.8225,
+      "confidence": 0.8225,
+      "low_confidence": false
+    }
+  },
+  "raw_text": "8HFetro] Palekbang\nLot  1626 ,\nMukim Kampung Laut\nTumpat\n16200 Palekbang, Kelantan\nPREPAY CHIT NUMBER\n29721\nTHIS IS NOT\nA RECEIPT\nFax Invice Wil  be issued upon the\ncofpletion of\nthie Sale transact ion\n24-03-2018 22:02:55\nCashier : 465\nTransaction No:\n1-8046\nIten\nUPrice\nQnty Amount\nPPF\nP1\n1,000\n6\n6,00\nTOTAL AMJUnT\nCASH\nRM\n6,00\nThank  You _\nPlease Come Again\nCustomer Service 1-300-22-2828"
+}

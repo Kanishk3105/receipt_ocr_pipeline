@@ -1,0 +1,153 @@
+{
+  "receipt_id": "X51005705760",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005705760.jpg",
+  "fields": {
+    "store_name": {
+      "value": "U!BbV &0J ese8ld pue",
+      "confidence": 0.6003,
+      "low_confidence": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.2153,
+      "low_confidence": true
+    },
+    "items": {
+      "value": [
+        {
+          "name": "U!BbV &0J ese8ld pue",
+          "price": 8.0
+        },
+        {
+          "name": "2sanbau",
+          "price": 2.0
+        },
+        {
+          "name": "4ons U/e)Jajua 01 &snjeJ JO J9a[au",
+          "price": 9.0
+        },
+        {
+          "name": "Kew 4!4 Waap se",
+          "price": 4.0
+        },
+        {
+          "name": "JaJSIp a1n/osqe S4}",
+          "price": 4.0
+        },
+        {
+          "name": "Je NICA 4PL4M",
+          "price": 4.0
+        },
+        {
+          "name": "a8ey2und J0 84e",
+          "price": 84.0
+        },
+        {
+          "name": "Jo 3J1onU}",
+          "price": 1.0
+        },
+        {
+          "name": "Wazz:g3;50 LlOz/e0/0l :aed Ju6uJ",
+          "price": 6.0
+        },
+        {
+          "name": "61 'QZ",
+          "price": 61.0
+        },
+        {
+          "name": "(Hua)xe",
+          "price": 1.0
+        },
+        {
+          "name": "(WH}SJ [3x3 4IV",
+          "price": 4.0
+        },
+        {
+          "name": "4se?",
+          "price": 4.0
+        },
+        {
+          "name": "Os'",
+          "price": 2.0
+        },
+        {
+          "name": "[9600SSp55;;,",
+          "price": 55.0
+        },
+        {
+          "name": "WBEXHOS  LN/S 30Hn",
+          "price": 30.0
+        },
+        {
+          "name": "se600p56+",
+          "price": 5555.0
+        },
+        {
+          "name": "WSLXwOO L   LN/s 30wo",
+          "price": 30.0
+        },
+        {
+          "name": "SLols-OL nioLXNISL Jdov/3 D N3i",
+          "price": 3.0
+        },
+        {
+          "name": "686LLOQOQCOTZ",
+          "price": 686.0
+        },
+        {
+          "name": "Oz' Owy 9t8 JILSHId",
+          "price": 8.0
+        },
+        {
+          "name": "JB!",
+          "price": 4327.0
+        },
+        {
+          "name": "Ndlz:gz:EO Lloz/80/",
+          "price": 1.0
+        },
+        {
+          "name": "E9G2ZS",
+          "price": 2.0
+        },
+        {
+          "name": "LdI3J",
+          "price": 38.0
+        },
+        {
+          "name": "Z6sg9l6z1000 :QI LSY",
+          "price": 1000.0
+        },
+        {
+          "name": "6s08iZ15",
+          "price": 80.0
+        },
+        {
+          "name": "ol6lizis-Eo",
+          "price": 6.0
+        },
+        {
+          "name": "Jobue aS WeLV 4B4S OO+Ov",
+          "price": 4.0
+        },
+        {
+          "name": "1undzupjoi",
+          "price": 1.0
+        }
+      ],
+      "confidence": 0.6303,
+      "low_confidence": true
+    },
+    "total_amount": {
+      "value": 9600.0,
+      "confidence": 0.5403,
+      "low_confidence": true
+    },
+    "ocr_mean_confidence": {
+      "value": 0.3785,
+      "confidence": 0.3785,
+      "low_confidence": true
+    }
+  },
+  "raw_text": "U!BbV &0J ese8ld pue\nXueyl\n2sanbau\n4ons U/e)Jajua 01 &snjeJ JO J9a[au\nKew 4!4 Waap se\nJaJSIp a1n/osqe S4}\nJe NICA 4PL4M\n[le}\na8ey2und J0 84e\nleys\nJo 3J1onU}\nXe} ((ny JO uoizanpojd J0} Jsanbej\nWazz:g3;50 LlOz/e0/0l :aed Ju6uJ\n5\n0\n0\n1\n0z\n'passLk SJUpad\n00 ' 0\nO0 ' 0\n2\nLz'\n61 'QZ\n%9\n=\nS\n(Hua)xe1\n(WH}SJ [3x3 4IV\n21e 18?\n09' 82\nJnvkJ\n00 ' 05\n4se?\nOb\nLz\n[ezo]\n00 '0\nAuaw}\nIz\n67\nWzif\n2\n05 'Z\n85\"\nV3\nXN Id/n\n'NosXhsE IN/S JOWi;\n05'2\nOs'2\n[9600SSp55;;,\nS'\n9J\nMIXN\nWBEXHOS  LN/S 30Hn\n00 ' €\n00 ' &\n*\nse600p56+5555\nS'\n13\nMIMn\nWSLXwOO L   LN/s 30wo\nE\nQ0 '&\n*\nZZLLO CEbGSSG\n80\"\nvJ\n00'5\n05'Z\n$\nz\nFZLLOEEZOSSSG\nS'\nV3\nSLols-OL nioLXNISL Jdov/3 D N3i\nOz ' 0\nOz \" 0\n*\n686LLOQOQCOTZ\nS\n1J\nOz' Owy 9t8 JILSHId\n0z' 5\n09'Z\n*\nz\nzggp0cezosSsf\nS\nHYQIWZV\nWSW\nbO@LOLH?\nJB!4327\nNdlz:gz:EO Lloz/80/01\n218\nE9G2ZS\n#\nL\nLOSOdsoss\n561\n:[eU!Ivu]\nLdI3J38\nZ6sg9l6z1000 :QI LSY\n6s08iZ15-80\nXe}\nol6lizis-Eo\n[81\nJobue aS WeLV 4B4S OO+Ov\n'SZ UaKsx?S\nO2-#\nVanh IxS  Lyww NIQAW\n(W-SLsBZL) dha NaS SVHHS IXL\nNIQaw\nnoa\nuQi=\n6u\nKuw\n1undzupjoi\nsuexi"
+}

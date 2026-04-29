@@ -1,0 +1,97 @@
+{
+  "receipt_id": "X00016469671",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X00016469671.jpg",
+  "fields": {
+    "store_name": {
+      "value": "aWo) Zs8214",
+      "confidence": 0.57,
+      "low_confidence": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.185,
+      "low_confidence": true
+    },
+    "items": {
+      "value": [
+        {
+          "name": "aWo) Zs",
+          "price": 8214.0
+        },
+        {
+          "name": "junqwv I",
+          "price": 591.0
+        },
+        {
+          "name": "aj1k",
+          "price": 1.0
+        },
+        {
+          "name": "Ie",
+          "price": 4103.0
+        },
+        {
+          "name": "8TzZ",
+          "price": 8.0
+        },
+        {
+          "name": "1 8 z ON",
+          "price": 8.0
+        },
+        {
+          "name": "?irepuny7d",
+          "price": 7.0
+        },
+        {
+          "name": "8IEPXIXXXXXIXXXX",
+          "price": 8.0
+        },
+        {
+          "name": "{JV1OL",
+          "price": 1.0
+        },
+        {
+          "name": "4unowv",
+          "price": 4.0
+        },
+        {
+          "name": "6TOz/to/zo",
+          "price": 6.0
+        },
+        {
+          "name": "IESCEQ.-Al2zd",
+          "price": 2.0
+        },
+        {
+          "name": "B8e-LO\"p*L",
+          "price": 8.0
+        },
+        {
+          "name": "OSLI",
+          "price": 8.0
+        },
+        {
+          "name": "Ni7vC",
+          "price": 7.0
+        },
+        {
+          "name": "K-8scBES",
+          "price": 8.0
+        }
+      ],
+      "confidence": 0.6,
+      "low_confidence": true
+    },
+    "total_amount": {
+      "value": 8214.0,
+      "confidence": 0.465,
+      "low_confidence": true
+    },
+    "ocr_mean_confidence": {
+      "value": 0.3111,
+      "confidence": 0.3111,
+      "low_confidence": true
+    }
+  },
+  "raw_text": "aWo) Zs8214\nS.V PIoS spoog\nEZT appo\nVsin\nOO*QLT\nAuy\n000\njunqwv I591\n9\n52\nSON\n+od\n~0Q.04\nOO QLI_\n\"756\naj1k\nNILVJ\nJosjad\nRiysr)\nNVL\n21*0\n%\nIe 4103\n8TzZ\n8178 888 =\n1 8 z ON\n+ Oavg\n:ON\nahe Nas\nKey? ue}\nuledv\nJixeuinjad\n?irepuny7d\nIeioxdav\n8IEPXIXXXXXIXXXX\nad)\n0O*OLT\n{JV1OL\npunod\nNarvs\n4unowv\nDips\nSAHY\n6TOz/to/zo\nZjioau]\nIESCEQ.-Al2zd\n'dnojbxfodbu _\nB8e-LO\"p*L\nIaj'\n\"Lo:xRJ\nOSLI8\n'Ivsw\njohor\n1835\n'WMv\nNi7vC\nJod\nK-8scBES\nI[O\nJaXuvw\nDNIS\nJak"
+}

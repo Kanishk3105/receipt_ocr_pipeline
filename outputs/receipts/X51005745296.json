@@ -1,0 +1,57 @@
+{
+  "receipt_id": "X51005745296",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005745296.jpg",
+  "fields": {
+    "store_name": {
+      "value": "SUSHI  MENTAI",
+      "confidence": 0.7759,
+      "low_confidence": false
+    },
+    "date": {
+      "value": "2018-09-04",
+      "confidence": 0.8959,
+      "low_confidence": false
+    },
+    "items": {
+      "value": [
+        {
+          "name": "9-G, JALAN PERUBATAN",
+          "price": 2.0
+        },
+        {
+          "name": "Table T",
+          "price": 13.0
+        },
+        {
+          "name": "Tako Bal",
+          "price": 1.0
+        },
+        {
+          "name": "Sushj",
+          "price": 180.0
+        },
+        {
+          "name": "Sushi",
+          "price": 2.8
+        },
+        {
+          "name": "Serv . Charge (10X) =",
+          "price": 10.0
+        }
+      ],
+      "confidence": 0.8659,
+      "low_confidence": false
+    },
+    "total_amount": {
+      "value": 3102.0,
+      "confidence": 0.7759,
+      "low_confidence": false
+    },
+    "ocr_mean_confidence": {
+      "value": 0.7687,
+      "confidence": 0.7687,
+      "low_confidence": false
+    }
+  },
+  "raw_text": "SUSHI  MENTAI\nPANDAN INDAH\nkMF   FOODICIOUS  SDN BHD  (1132106-H)\nNO_\n9-G, JALAN PERUBATAN 2\nPANDAN INdAH,\n55100 KUALA LUMPUR ,\nTel\n+803 2856 0385\nGST Reg.\nNo\n000897208320\nTax\nInvoice\nTable T13\nOrder # : 275705\nBi)#: V015- 673381\nPax(s) :\n0\nDate\n09-04-2018 19;22:25\nCashier: Cashier\nDescr iption\nQty\nU,price\nTota)\nTAX\nTori Teriyakj Don\nX\n12.80\n12.80\nSR\nTako Bal 1\n1\nX\n0, 00\nO@\nSushj 1,80\n4 X\n1.80\n7 ,20\nSR\nSushi 2.80\n2 X\n2 .80\n5,80\nSR\nGreen Tea\n1 X\n1,00\n1,00\nSR\nTota/ (Excluding GST):\n26 , {30\nServ . Charge (10X) =\n2,66\nGST Payab le;\n1.76\nTotal\n(Inclusive of GST) :\n31,02\nRounding Adj\n-0.02\nTOTAL:\n31.00\nClosed:\n0\n09-04-2018\n20:01;23\nServer =\nCashier\nCASH\n31 , 00\nGST  Summary\nAmount (RM)\nTax(RM)\nSR\n(0 6X)\n29.26\n1.76\nThank You! ! !\nPlease Come Anain! ! !"
+}

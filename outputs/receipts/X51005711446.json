@@ -1,0 +1,89 @@
+{
+  "receipt_id": "X51005711446",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005711446.jpg",
+  "fields": {
+    "store_name": {
+      "value": "B8' 0",
+      "confidence": 0.591,
+      "low_confidence": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.206,
+      "low_confidence": true
+    },
+    "items": {
+      "value": [
+        {
+          "name": "(WU) 1unowh",
+          "price": 1.0
+        },
+        {
+          "name": "Kuewwns 1s",
+          "price": 9.0
+        },
+        {
+          "name": "(IS9 J0 &LSn[JuI) (R10]",
+          "price": 10.0
+        },
+        {
+          "name": "(xg) 8pqeked ISI",
+          "price": 8.0
+        },
+        {
+          "name": "(IS9 Buipniax]) [eJoL",
+          "price": 9.0
+        },
+        {
+          "name": "9 :AlU (eJOL",
+          "price": 9.0
+        },
+        {
+          "name": "XHI (e",
+          "price": 10.0
+        },
+        {
+          "name": "uO| 1d1 u3sad",
+          "price": 3.0
+        },
+        {
+          "name": "ON 938 JSJ",
+          "price": 938.0
+        },
+        {
+          "name": "sej043 OOz8p",
+          "price": 8.0
+        },
+        {
+          "name": "SeJa4J Rioxypw Jepueg",
+          "price": 4.0
+        },
+        {
+          "name": "'6 Uekswas",
+          "price": 6.0
+        },
+        {
+          "name": "6/61  bunbouawej ueLe/'",
+          "price": 61.0
+        },
+        {
+          "name": "JnJHS NvM NVHO1S]Y",
+          "price": 1.0
+        }
+      ],
+      "confidence": 0.621,
+      "low_confidence": true
+    },
+    "total_amount": {
+      "value": 938.0,
+      "confidence": 0.531,
+      "low_confidence": true
+    },
+    "ocr_mean_confidence": {
+      "value": 0.3578,
+      "confidence": 0.3578,
+      "low_confidence": true
+    }
+  },
+  "raw_text": "B8' 0\n|8'9\n(X9\n8S\n(Wh)xel\n(WU) 1unowh\nKuewwns 1s9\n03' L\nHSVJ\n0z\nL\n:7v101\n:(IS9 J0 &LSn[JuI) (R10]\nI8\n:(xg) 8pqeked ISI\n[8\n(IS9 Buipniax]) [eJoL\n9 :AlU (eJOL\n8S\n09' 0\nOz' 0\nX &\nHS\n06'&\n0z' &\nX |\n(0) weyj\n45\nOp\n02'&\nX z\n(8) 40\nXHI (e10\n0J1ud'0\nK+0\nuO| 1d1 u3sad\nLe:|0*91 810z-80-01\n0180\na[OJln :Jalysej\n869L801\nOn ANI\nBJ!OAUI\nXPL\nOZGLBLSCE|00\nON 938 JSJ\nJodue(es\nsej043 OOz8p\nSeJa4J Rioxypw Jepueg\n'6 Uekswas\n6/61  bunbouawej ueLe/'\nz'On\nM-61CCFOzo0\nJnJHS NvM NVHO1S]Y"
+}

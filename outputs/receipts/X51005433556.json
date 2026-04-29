@@ -1,0 +1,197 @@
+{
+  "receipt_id": "X51005433556",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005433556.jpg",
+  "fields": {
+    "store_name": {
+      "value": "\"WleeY 307",
+      "confidence": 0.5377,
+      "low_confidence": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.1527,
+      "low_confidence": true
+    },
+    "items": {
+      "value": [
+        {
+          "name": "\"WleeY",
+          "price": 307.0
+        },
+        {
+          "name": "#+",
+          "price": 6.0
+        },
+        {
+          "name": "08 'Z",
+          "price": 8.0
+        },
+        {
+          "name": "05* 9b",
+          "price": 9.0
+        },
+        {
+          "name": "202 xet",
+          "price": 202.0
+        },
+        {
+          "name": "OE'",
+          "price": 0.0
+        },
+        {
+          "name": "O0 ' 0S",
+          "price": 0.0
+        },
+        {
+          "name": "4Sp;)",
+          "price": 4.0
+        },
+        {
+          "name": "4se]",
+          "price": 4.0
+        },
+        {
+          "name": "Xe[ parnlox",
+          "price": 7.0
+        },
+        {
+          "name": "240i",
+          "price": 240.0
+        },
+        {
+          "name": "OL ' 6v",
+          "price": 7.0
+        },
+        {
+          "name": "OL ' 6v",
+          "price": 6.0
+        },
+        {
+          "name": "QL '6p",
+          "price": 6.0
+        },
+        {
+          "name": "O\"",
+          "price": 0.0
+        },
+        {
+          "name": "dnds Q",
+          "price": 844.0
+        },
+        {
+          "name": "8S   08\"€",
+          "price": 8.0
+        },
+        {
+          "name": "09*€ DaL",
+          "price": 9.0
+        },
+        {
+          "name": "43348+JwexPNo84]",
+          "price": 84.0
+        },
+        {
+          "name": "8S   Q5'IE",
+          "price": 5.0
+        },
+        {
+          "name": "8 [ng j8a3 Rwel",
+          "price": 3.0
+        },
+        {
+          "name": "03'5l",
+          "price": 5.0
+        },
+        {
+          "name": "s3Looi",
+          "price": 93.0
+        },
+        {
+          "name": "08'ZL",
+          "price": 8.0
+        },
+        {
+          "name": "09 'ZL",
+          "price": 9.0
+        },
+        {
+          "name": "8 [Mog nhiuixea",
+          "price": 8.0
+        },
+        {
+          "name": "OCoooR",
+          "price": 93.0
+        },
+        {
+          "name": "05' [",
+          "price": 5.0
+        },
+        {
+          "name": "slwoo#",
+          "price": 93.0
+        },
+        {
+          "name": "ej14d'n",
+          "price": 14.0
+        },
+        {
+          "name": "W1t",
+          "price": 1.0
+        },
+        {
+          "name": "UI",
+          "price": 483.0
+        },
+        {
+          "name": "J8L4S",
+          "price": 2.0
+        },
+        {
+          "name": "#d &0: Lo",
+          "price": 0.0
+        },
+        {
+          "name": "8102./50/[ |",
+          "price": 50.0
+        },
+        {
+          "name": "00ll",
+          "price": 8.0
+        },
+        {
+          "name": "neya (I0U#",
+          "price": 0.0
+        },
+        {
+          "name": "p*za5 'LlIS",
+          "price": 5.0
+        },
+        {
+          "name": "33p3[d",
+          "price": 3.0
+        },
+        {
+          "name": "'nejq3]",
+          "price": 3.0
+        },
+        {
+          "name": "6+lJ",
+          "price": 6.0
+        }
+      ],
+      "confidence": 0.5677,
+      "low_confidence": true
+    },
+    "total_amount": {
+      "value": 43348.0,
+      "confidence": 0.4327,
+      "low_confidence": true
+    },
+    "ocr_mean_confidence": {
+      "value": 0.2392,
+      "confidence": 0.2392,
+      "low_confidence": true
+    }
+  },
+  "raw_text": "\"WleeY 307\ns** GoX Xueyl\n#+6\n08 'Z\n05* 9b\n(Wa)xel\n(HaH) unc\"Y\n202 xet\nXe[\nOE' 0\nO0 ' 0S\n4Sp;)\n4se]\nOR\nXe[ parnlox7\n240i\nOL ' 6v7\nHaW: TVigl\nOL ' 6v\neJog\nQL '6p\nLexolgns\n85\nQQ' Q\nO\"0\ndnds Q844\n8S   08\"€\n09*€ DaL\n43348+JwexPNo84]\nZoLoOA-&y\n8S   Q5'IE\n8 [ng j8a3 Rwel\nBen\n03'5l\ns3Looi-93\n08'ZL\n09 'ZL\n8 [Mog nhiuixea\nOCoooR-93\n48\n05' [\n(G\neaj\nslwoo#-93\nxel JUnou\nej14d'n\nW1t\nUI 483\nJejusej:\nJ8L4S02\n#d &0: Lo\nSpeazZL-ECO: 'QN Jdiajay\"\n8102./50/[ |\nSFZOQO[\nOn Japag\nJJIOANI XVL\n$\nJoyor  'nuyeg\n00ll8\nesag Uzwe[\nesaq Ue[ !f\nneya (I0U#\np*za5 'LlIS\n33p3[d\n{Jedens\naiueyj\nlaaJn\nexed\nJoupf\n'nejq3]\n'RJQL\n'AiJ\nJOlJ\n6+lJ"
+}

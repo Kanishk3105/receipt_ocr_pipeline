@@ -1,0 +1,81 @@
+{
+  "receipt_id": "X51005442346",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005442346.jpg",
+  "fields": {
+    "store_name": {
+      "value": "Hs %c6.",
+      "confidence": 0.6903,
+      "low_confidence": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.4103,
+      "low_confidence": true
+    },
+    "items": {
+      "value": [
+        {
+          "name": "Hs %c6.",
+          "price": 6.0
+        },
+        {
+          "name": "Jm0325955-V",
+          "price": 325955.0
+        },
+        {
+          "name": "NQ.69 JALAN PERMAS",
+          "price": 916.0
+        },
+        {
+          "name": "11750 JOHOR BAHRU",
+          "price": 11750.0
+        },
+        {
+          "name": "TEL ' 07-385",
+          "price": 7524.0
+        },
+        {
+          "name": "FAX ' 07-386",
+          "price": 3793.0
+        },
+        {
+          "name": "000800s",
+          "price": 89824.0
+        },
+        {
+          "name": "Raceip) # CS0Qo",
+          "price": 38298.0
+        },
+        {
+          "name": "Date: 16,",
+          "price": 1603.0
+        },
+        {
+          "name": "Tima; 17.34",
+          "price": 0.0
+        },
+        {
+          "name": "O.",
+          "price": 0.0
+        },
+        {
+          "name": "G,0Q",
+          "price": 0.0
+        }
+      ],
+      "confidence": 0.7203,
+      "low_confidence": false
+    },
+    "total_amount": {
+      "value": 325955.0,
+      "confidence": 0.6903,
+      "low_confidence": true
+    },
+    "ocr_mean_confidence": {
+      "value": 0.5784,
+      "confidence": 0.5784,
+      "low_confidence": true
+    }
+  },
+  "raw_text": "Hs %c6.\nPERNIAGAAN ZKENG HUI\nJm0325955-V\nNQ.69 JALAN PERMAS 916\nBANDAR BARU PERMAS JAYA\n11750 JOHOR BAHRU\nTEL ' 07-385 7524\nFAX ' 07-386 3793\nGST NO\n000800s89824\nBimplifIED TAX INVOICE\nCASH\nRaceip) # CS0Qo38298\nSalasperson;\nDate: 16,0302016\nCashier:   (JSER\nTima; 17.34-00\n(RM)\n(RM'\nem\nREF\nApeuni\n3934\n7,66\n7,50\nSR: CAR PARKING COUPON\nToTaly:\n764\n(Excludad GST) sub Total (Rm)\n7,56\nDiscount (RM)\nDOO\nGST (RM}\n0.46\nRounding (RM)\nO.00\nTotal (RM)\n8.00\nCASH\n8.00\n{RM)\nG,0Q\nCst SUMMARY\nTax\nAmeunt\nGST\nSR\n7.6\n045\nTotal\n7,66\n0.48\nGOODS SOLD ARE NOT RETURNABLE\nTHANK YOU,\nTolal\nChange\nCode"
+}
