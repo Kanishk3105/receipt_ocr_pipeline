@@ -1,0 +1,161 @@
+{
+  "receipt_id": "X51005806679",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005806679.jpg",
+  "fields": {
+    "store_name": {
+      "value": "\"NOX XNVHL '#I81NIC1L54 JON 3hv @70S SOOQD",
+      "confidence": 0.5602,
+      "low_confidence": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.1752,
+      "low_confidence": true
+    },
+    "items": {
+      "value": [
+        {
+          "name": "\"NOX XNVHL '#I81NIC1L54 JON 3hv @70S SOOQD",
+          "price": 70.0
+        },
+        {
+          "name": "0o*8s",
+          "price": 8.0
+        },
+        {
+          "name": "8L 'Lz",
+          "price": 8.0
+        },
+        {
+          "name": "6po5 KEI",
+          "price": 5.0
+        },
+        {
+          "name": "Ayjwwos 1S",
+          "price": 2.0
+        },
+        {
+          "name": "1S) IEQL",
+          "price": 1.0
+        },
+        {
+          "name": "JunO3SIQ",
+          "price": 3.0
+        },
+        {
+          "name": "(1S5 fuinnpox]' seles |eiol",
+          "price": 5.0
+        },
+        {
+          "name": "JN3Irj:nnS",
+          "price": 3.0
+        },
+        {
+          "name": "A+2z",
+          "price": 2.0
+        },
+        {
+          "name": "\"oiugans VIONI",
+          "price": 3808.0
+        },
+        {
+          "name": "9:'Bc",
+          "price": 9.0
+        },
+        {
+          "name": "L5O |",
+          "price": 5.0
+        },
+        {
+          "name": "Xnva8 vaixot",
+          "price": 8.0
+        },
+        {
+          "name": "4v37 @2II8M Mc)NS",
+          "price": 8.0
+        },
+        {
+          "name": "Qc",
+          "price": 3.0
+        },
+        {
+          "name": "Hz OOJOZNO) }7T",
+          "price": 7.0
+        },
+        {
+          "name": "Qo*",
+          "price": 85.0
+        },
+        {
+          "name": "dwi 1104 331Y",
+          "price": 15.0
+        },
+        {
+          "name": "MO17A Xjojvad",
+          "price": 17.0
+        },
+        {
+          "name": "'6hi1di",
+          "price": 5.0
+        },
+        {
+          "name": "(1sD)",
+          "price": 1.0
+        },
+        {
+          "name": "Aw",
+          "price": 1.0
+        },
+        {
+          "name": "8Lozizorc",
+          "price": 8.0
+        },
+        {
+          "name": "'O1BiI",
+          "price": 1.0
+        },
+        {
+          "name": "9pseSLous )",
+          "price": 9.0
+        },
+        {
+          "name": "eJo66+||",
+          "price": 100.0
+        },
+        {
+          "name": "Q1 1S",
+          "price": 5.0
+        },
+        {
+          "name": "WOD.SI4QWHHVM337is37vS",
+          "price": 37.0
+        },
+        {
+          "name": "99t68e5-Zicizzrrbloz EQ",
+          "price": 5.0
+        },
+        {
+          "name": "3311S H NOL NVJYI '",
+          "price": 621.0
+        },
+        {
+          "name": "aHA Nas Lsido79HVM",
+          "price": 337.0
+        }
+      ],
+      "confidence": 0.5902,
+      "low_confidence": true
+    },
+    "total_amount": {
+      "value": 9004.0,
+      "confidence": 0.4552,
+      "low_confidence": true
+    },
+    "ocr_mean_confidence": {
+      "value": 0.2894,
+      "confidence": 0.2894,
+      "low_confidence": true
+    }
+  },
+  "raw_text": "\"NOX XNVHL '#I81NIC1L54 JON 3hv @70S SOOQD\nBi Lz\n0o*8s8\n8L 'Lz\n9o*898\n45\n(WHT=\n{WJTTtN\n9\n6po5 KEI\nAyjwwos 1S2\n08*52\neliueyj\nOo*dov\nHSV)\nOz Ple\nZo0\nbuipunoy\nBl Lz\n1S) IEQL\nO0*0\nJunO3SIQ\nOu*sse\n(1S5 fuinnpox]' seles |eiol\n8L +28\nZz\nIeio!\nJN3Irj:nnS\nY3\n08'0S\nZlzi\nCQzi\nA+2z\n\"oiugans VIONI 3808\n43\nZctz\nZeez\nCo*zz\n9004\nW Jva\nWVd\n83\nLl'b\n0S +\n8G0l\n14831 WIiJ\n43\n9:'Bc\n#S '$\n00*6\nL5O |\nXnva8 vaixot:\nLc\"&\n05\n050 [\n4v37 @2II8M Mc)NS\n8;\n{ri\nQc 3\n0)9\nLEQL\nHz OOJOZNO) }7T7\n8;\n8v [3\n9t 19\nQo*85\nStl [\ndwi 1104 331Y15\ny5\n91 P[\n1o &\nC( +E\nziol\nMO17A Xjojvad\n8S\n\"7\n0dzzi\nSiol\nX#i\njunouiv\no)udis\n'6hi1di5\naii\n(183)\n(1sD)\n\"1a4\nuosjedsejes\nQo'lp Lz\nAw 1\nJEiST\nJeviyseo\n8Lozizorc\n'O1BiI\n9pseSLous )\nON :oq\nEbionNXvi\neJo66+||0100\nQ1 1S5\nWOD.SI4QWHHVM337is37vS\n~E0:Xms\n99t68e5-Zicizzrrbloz EQ\n731\n3311S H NOL NVJYI '621\n(-Ezeizs)\naHA Nas Lsido79HVM 337\nFEI\n'Ao-"
+}

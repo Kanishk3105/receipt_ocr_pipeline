@@ -1,0 +1,65 @@
+{
+  "receipt_id": "X51005433553",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005433553.jpg",
+  "fields": {
+    "store_name": {
+      "value": "Aozoe",
+      "confidence": 0.7164,
+      "low_confidence": false
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.3314,
+      "low_confidence": true
+    },
+    "items": {
+      "value": [
+        {
+          "name": "5117 , Gecand Floor ,",
+          "price": 5117.0
+        },
+        {
+          "name": "BY IO0  Johor Bahru=",
+          "price": 0.0
+        },
+        {
+          "name": "\"002105827328 ,",
+          "price": 2105827328.0
+        },
+        {
+          "name": "1403/2018 06,20 PK",
+          "price": 620.0
+        },
+        {
+          "name": "Bedeipt No , ;003-\"",
+          "price": 220615.0
+        },
+        {
+          "name": "2.8J",
+          "price": 2.8
+        },
+        {
+          "name": "20.",
+          "price": 10.0
+        },
+        {
+          "name": "FG-40no",
+          "price": 19.0
+        }
+      ],
+      "confidence": 0.8064,
+      "low_confidence": false
+    },
+    "total_amount": {
+      "value": 2105827328.0,
+      "confidence": 0.8364,
+      "low_confidence": false
+    },
+    "ocr_mean_confidence": {
+      "value": 0.6365,
+      "confidence": 0.6365,
+      "low_confidence": true
+    }
+  },
+  "raw_text": "Aozoe\nYHH Acon Tebrau City\n5117 , Gecand Floor ,\nABon Tebrau Gity,\nJalan (esa Tebrau,\nTaraff Desa Tebrbu;\nBY IO0  Johor Bahru=\nJphpt\n\"002105827328 ,\nTAX\" INVOICE\n1403/2018 06,20 PK\nOrder\n1000219\nPax:\nBedeipt No , ;003-\" 220615\nCashter\nEat In\nAmgant  Tax\nItem\nQty\n1,50\n1,50\nGreen Tea\n8.80\n8,80\nFG-Hoooot\nKake Udan R\n2.80\n2.8J\nFG-Hoojoc\nEnok| Tempo;a\n13.10\nSubTcta]\n13,70\nTotal\n13.10\nTOTAL\n12.36\nTotai Exchuded Tax\n0,74\nPayircnt Detai Is\n20. 10\nCash\nCash Cheng?\nTax Sumary\nAmcunt (HYR}\nTax(HYR)\nTax Cade\n0,74\n##\nThank You ###\nease Corre Again _\nCashier\nU,Price\nFG-40no19\n:MYR"
+}

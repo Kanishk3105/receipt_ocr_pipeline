@@ -1,0 +1,93 @@
+{
+  "receipt_id": "X51005717526",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005717526.jpg",
+  "fields": {
+    "store_name": {
+      "value": "pue noj xeui",
+      "confidence": 0.5714,
+      "low_confidence": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.1864,
+      "low_confidence": true
+    },
+    "items": {
+      "value": [
+        {
+          "name": "JS9 %9 SJCMIJN",
+          "price": 9.0
+        },
+        {
+          "name": "pauapuag YS2J",
+          "price": 2.0
+        },
+        {
+          "name": "(ISJ (3u!) [e01 Jnoaxel",
+          "price": 1.0
+        },
+        {
+          "name": "a3e5 an3aque",
+          "price": 8.0
+        },
+        {
+          "name": "9S* L",
+          "price": 9.0
+        },
+        {
+          "name": "sjabonn",
+          "price": 9.0
+        },
+        {
+          "name": "uax3!4J3H",
+          "price": 3.0
+        },
+        {
+          "name": "(ee4#) 1Q eueney $,PLeUoqDi",
+          "price": 1.0
+        },
+        {
+          "name": "6g0p99105000 :oN QI 1S9)",
+          "price": 9.0
+        },
+        {
+          "name": "efer Bul (ezad OO+Lt'6E/1ZSS ue(er",
+          "price": 1.0
+        },
+        {
+          "name": "8'on",
+          "price": 8.0
+        },
+        {
+          "name": "p49 4PS sjueJnexsen saypuv",
+          "price": 4.0
+        },
+        {
+          "name": "S2 UMouy KLJ8MJo}",
+          "price": 8.0
+        },
+        {
+          "name": "(M-(~es9)",
+          "price": 9.0
+        },
+        {
+          "name": "3 siuejneisax Jely",
+          "price": 6.0
+        }
+      ],
+      "confidence": 0.6014,
+      "low_confidence": true
+    },
+    "total_amount": {
+      "value": 8961.0,
+      "confidence": 0.4664,
+      "low_confidence": true
+    },
+    "ocr_mean_confidence": {
+      "value": 0.3143,
+      "confidence": 0.3143,
+      "low_confidence": true
+    }
+  },
+  "raw_text": "pue noj xeui\n19' [\nJS9 %9 SJCMIJN\nIVL0;\n0s\"'AZ\n'4J\n00'O5\npauapuag YS2J\n05'82\npapunox (eJoL\n0s'82\n(ISJ (3u!) [e01 Jnoaxel\n06 '6\n(V )euajojwefy\na3e5 an3aque8\n9S* L\nsjabonn9\nSahug\n1\n3*07\n0 '41\nuax3!4J3H\nIVJOL\nWlI AlO\n32699 06L88+010)  #ANI\nepls Amh\nJJIONNI XVI\n8961-2609-80\nOn\n[21\n(ee4#) 1Q eueney $,PLeUoqDi\n6g0p99105000 :oN QI 1S9)\nJouetas\nefer Bul (ezad OO+Lt'6E/1ZSS ue(er\n8'on\ncumoadf eJesuetrd\nHL ueunbueg\n9\np49 4PS sjueJnexsen saypuv\n~pp? .\nS2 UMouy KLJ8MJo}\n(M-(~es9)\npya\n3 siuejneisax Jely 6\naseald\n{91a"
+}

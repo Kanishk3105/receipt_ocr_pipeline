@@ -1,0 +1,133 @@
+{
+  "receipt_id": "X51005719873",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005719873.jpg",
+  "fields": {
+    "store_name": {
+      "value": "609,.s &OU 07 z Tepaupa",
+      "confidence": 0.6076,
+      "low_confidence": true
+    },
+    "date": {
+      "value": "2026-06-09",
+      "confidence": 0.6226,
+      "low_confidence": true
+    },
+    "items": {
+      "value": [
+        {
+          "name": "609,.s &OU 07 z Tepaupa",
+          "price": 7.0
+        },
+        {
+          "name": "u/ebv au03 aseald noX Xue4l",
+          "price": 4.0
+        },
+        {
+          "name": "0} slu/odg 1allo@ pue suojouojd",
+          "price": 1.0
+        },
+        {
+          "name": "Jequlau @Nsnioxe Kolua 01 Kepo}",
+          "price": 1.0
+        },
+        {
+          "name": "Zl",
+          "price": 8.0
+        },
+        {
+          "name": "abuey",
+          "price": 3.0
+        },
+        {
+          "name": "4se)",
+          "price": 4.0
+        },
+        {
+          "name": "09 '8WY",
+          "price": 8.0
+        },
+        {
+          "name": "159 Ipui saies |ejol",
+          "price": 159.0
+        },
+        {
+          "name": "6uipunoy",
+          "price": 6.0
+        },
+        {
+          "name": "09 8wY",
+          "price": 8.0
+        },
+        {
+          "name": "Ie1oL qns",
+          "price": 1.0
+        },
+        {
+          "name": "OS",
+          "price": 2.0
+        },
+        {
+          "name": "7- 0303 Inulazeh",
+          "price": 303.0
+        },
+        {
+          "name": "8luziloilz",
+          "price": 8.0
+        },
+        {
+          "name": "a3137dwo?",
+          "price": 3137.0
+        },
+        {
+          "name": "ON I",
+          "price": 18.0
+        },
+        {
+          "name": "3OIONNI XVJ",
+          "price": 3.0
+        },
+        {
+          "name": "wixnw 'bteslLd NOIJVIS 113HS",
+          "price": 113.0
+        },
+        {
+          "name": "92izogblo40.ai1S",
+          "price": 5.0
+        },
+        {
+          "name": "X-ZS9OLSzoo",
+          "price": 9.0
+        },
+        {
+          "name": "asuudieju3 oBO1o",
+          "price": 1.0
+        },
+        {
+          "name": "buodax IIa4S #^eeL",
+          "price": 4.0
+        },
+        {
+          "name": "L8Z",
+          "price": 13.0
+        },
+        {
+          "name": "D1lI*J}",
+          "price": 1.0
+        }
+      ],
+      "confidence": 0.6376,
+      "low_confidence": true
+    },
+    "total_amount": {
+      "value": 3137.0,
+      "confidence": 0.5476,
+      "low_confidence": true
+    },
+    "ocr_mean_confidence": {
+      "value": 0.3947,
+      "confidence": 0.3947,
+      "low_confidence": true
+    }
+  },
+  "raw_text": "609,.s &OU 07 z Tepaupa\nu/ebv au03 aseald noX Xue4l\nseseyjind ainini Uo Weepel\n0} slu/odg 1allo@ pue suojouojd\nJequlau @Nsnioxe Kolua 01 Kepo}\npe? eaLlun @NeaL e JO} dn UbIS\nsjuiod & Ino passiul Isn[ &BY noa\n86 '0\nZl 8\n99\n8S\nxel\nJunouv\napoj\nOp'0\nabuey3\n00 6\npajapual\n09 8\n4se)\n09 '8WY\n%9\n159 Ipui saies |ejol\n00'Owy\n6uipunoy\n09 8wY\nIe1oL qns\n01 L\nIJeed:\n4S\nOS 2\n7- 0303 Inulazeh\n(Wy)ajud\nOWEN Watl\nswjewey seles\n60 .91 %L\n8luziloilz\nejea\na3137dwo?\nON I18\nKemv avel\n062L\njajunoo\n3OIONNI XVJ\nBuodex JPsag Ur\n'nieg\nwixnw 'bteslLd NOIJVIS 113HS\n92izogblo40.ai1S5\nX-ZS9OLSzoo\nasuudieju3 oBO1o\nbuodax IIa4S #^eeL\nL8Z13\nD1lI*J}\n0622\nS! Jaqunu Japjo Jnoj\nKio"
+}

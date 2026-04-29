@@ -1,0 +1,69 @@
+{
+  "receipt_id": "X00016469612",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X00016469612.jpg",
+  "fields": {
+    "store_name": {
+      "value": "NOA NNYHI",
+      "confidence": 0.5632,
+      "low_confidence": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.1782,
+      "low_confidence": true
+    },
+    "items": {
+      "value": [
+        {
+          "name": "1uBleh}snif",
+          "price": 1.0
+        },
+        {
+          "name": "1GJ[y Av",
+          "price": 1.0
+        },
+        {
+          "name": "1ACJON ;X",
+          "price": 1.0
+        },
+        {
+          "name": "7S9CV #JC?",
+          "price": 9.0
+        },
+        {
+          "name": "77I9 Hsv)",
+          "price": 9.0
+        },
+        {
+          "name": "idc 62 €",
+          "price": 1.0
+        },
+        {
+          "name": "8 B (zIziisz",
+          "price": 8.0
+        },
+        {
+          "name": "+o1/\"H[[UCJ",
+          "price": 1.0
+        },
+        {
+          "name": "'11 rovs MVINC '65 % [5'5s :5 ON",
+          "price": 5.0
+        }
+      ],
+      "confidence": 0.5932,
+      "low_confidence": true
+    },
+    "total_amount": {
+      "value": 77.0,
+      "confidence": 0.4582,
+      "low_confidence": true
+    },
+    "ocr_mean_confidence": {
+      "value": 0.2961,
+      "confidence": 0.2961,
+      "low_confidence": true
+    }
+  },
+  "raw_text": "NOA NNYHI\nIp;?\nJ\"%1\nJ78639Nvipx #\nJonvkJ\nWSP\n00'6\n{(Wu) /ezol P punou\n(}0\n1uBleh}snif\njnoy\n0045\n10j21\nQj 0\n(of\"$\nJd T\nVSI\n1GJ[y Av1\nDw)\n1ACJON ;X\nWa\nWix\nAlo\nJSIo)\nJ2-1\n7S9CV #JC?\n77I9 Hsv)\nJariluaw\nSINVH\nIaWSR\nidc 62 €1\n8 B (zIziisz\n+o1/\"H[[UCJ\nON WVaum)QU\nHhh\n#OKOf\n#XVa) NNIvVI\n'11 rovs MVINC '65 % [5'5s :5 ON\nuuef UOOM ue}\nT:\n@ WIF:"
+}

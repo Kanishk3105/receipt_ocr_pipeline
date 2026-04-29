@@ -1,0 +1,177 @@
+{
+  "receipt_id": "X51005442344",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005442344.jpg",
+  "fields": {
+    "store_name": {
+      "value": "10X",
+      "confidence": 0.5614,
+      "low_confidence": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.1764,
+      "low_confidence": true
+    },
+    "items": {
+      "value": [
+        {
+          "name": "10X",
+          "price": 10.0
+        },
+        {
+          "name": "49d_",
+          "price": 49.0
+        },
+        {
+          "name": "06jusy?",
+          "price": 6.0
+        },
+        {
+          "name": "8a1p",
+          "price": 5.0
+        },
+        {
+          "name": "Q0\"LQp",
+          "price": 0.0
+        },
+        {
+          "name": "Z0",
+          "price": 0.0
+        },
+        {
+          "name": "158 {evo",
+          "price": 1.0
+        },
+        {
+          "name": "QQ'",
+          "price": 0.0
+        },
+        {
+          "name": "2V",
+          "price": 56.0
+        },
+        {
+          "name": "4P/s",
+          "price": 4.0
+        },
+        {
+          "name": "BE'",
+          "price": 901.0
+        },
+        {
+          "name": "Ja",
+          "price": 5.0
+        },
+        {
+          "name": "435 00\"",
+          "price": 0.0
+        },
+        {
+          "name": "00\"",
+          "price": 9.0
+        },
+        {
+          "name": "289Z",
+          "price": 289.0
+        },
+        {
+          "name": "00'",
+          "price": 9.0
+        },
+        {
+          "name": "88\"",
+          "price": 2.0
+        },
+        {
+          "name": "88*",
+          "price": 9.0
+        },
+        {
+          "name": "\"Ja",
+          "price": 8.0
+        },
+        {
+          "name": "1a",
+          "price": 1.0
+        },
+        {
+          "name": "'378HN4nL3U _",
+          "price": 3.0
+        },
+        {
+          "name": "41*",
+          "price": 96.0
+        },
+        {
+          "name": "4s?",
+          "price": 4.0
+        },
+        {
+          "name": "{W9T=",
+          "price": 9.0
+        },
+        {
+          "name": "HSv",
+          "price": 3.0
+        },
+        {
+          "name": "[1oj",
+          "price": 1.0
+        },
+        {
+          "name": "(I9D",
+          "price": 9.0
+        },
+        {
+          "name": "LF  L",
+          "price": 7.0
+        },
+        {
+          "name": "uosjadse1es",
+          "price": 1.0
+        },
+        {
+          "name": "{4s5}",
+          "price": 5.0
+        },
+        {
+          "name": "E9oscOuuSJ",
+          "price": 9.0
+        },
+        {
+          "name": "Co.67 &",
+          "price": 1.0
+        },
+        {
+          "name": "8idzisoiei",
+          "price": 8.0
+        },
+        {
+          "name": "NvNvJiry3d",
+          "price": 3.0
+        },
+        {
+          "name": "SNIQV4I",
+          "price": 4.0
+        },
+        {
+          "name": "60'",
+          "price": 60.0
+        }
+      ],
+      "confidence": 0.5914,
+      "low_confidence": true
+    },
+    "total_amount": {
+      "value": 52125.0,
+      "confidence": 0.4564,
+      "low_confidence": true
+    },
+    "ocr_mean_confidence": {
+      "value": 0.2919,
+      "confidence": 0.2919,
+      "low_confidence": true
+    }
+  },
+  "raw_text": "544\n10X\n4S\nLrs\n49d_\nLls\n06jusy?\n8a1p5\nQ0\"LQp\nZ0 0\n158 {evo1\nLls\nQQ'0\nIgtoL\n2V 56\n4P/s\nBE'901\nJa5\n435 00\"\nTo@\n00\"09\n289Z\n00' 09\n524\n88\"02\nT\n88*09\ny5\n\"Ja8\nON\neWil\nYVI\n1a1\nAi\"\nXvd\nJiv\nON\n'L\n8+\n3\nstlocn\n{105\nJON\n'378HN4nL3U _\nXAMHI \"\n41*96\n4s?\n{W9T=\n(H)xel\niepo =\nHSv3\nRupunoa\njuntoosid\n[1oj\n52125\nBujpnpxa}-\n(I9D\nsjdzi\nMoToH\nHaMid :\nShim _\nLF  L7\nSSvdwoj:\nCo &\npopidis\naudis\nuosjadse1es\n#luothy\n(1351\n{4s5}\nJalyse)\nUasn\nJoU\nE9oscOuuSJ\nCo.67 &1\n\"aluCI\n8idzisoiei\n\"BSionNi\nJSD\nEcLblgz-LO -\nG.blgz-LQ _\n\"ohOr\nOollo\nJisvd=\n'DNvOn?\nNvwvI\n'nxle\nNvNvJiry3d\nDNOA\n(Q-Letzezowc!\nLVl\nauvMoavx\nSNIQV4I\n60'"
+}

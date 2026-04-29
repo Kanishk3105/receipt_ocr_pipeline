@@ -1,0 +1,81 @@
+{
+  "receipt_id": "X51005757248",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005757248.jpg",
+  "fields": {
+    "store_name": {
+      "value": "s(80z0ll",
+      "confidence": 0.6134,
+      "low_confidence": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.2284,
+      "low_confidence": true
+    },
+    "items": {
+      "value": [
+        {
+          "name": "3RD FLR, AEJW TAMAN MALURI SC",
+          "price": 3.0
+        },
+        {
+          "name": "S4- THU; 1OQO #IRS",
+          "price": 1.0
+        },
+        {
+          "name": "2200 IKS",
+          "price": 2200.0
+        },
+        {
+          "name": "FRi-S4T : 1Q1O HRS",
+          "price": 1.0
+        },
+        {
+          "name": "2300 HRS",
+          "price": 2300.0
+        },
+        {
+          "name": "(, 2SR",
+          "price": 2.0
+        },
+        {
+          "name": "Ik (O0) 05 H67 (",
+          "price": 5.0
+        },
+        {
+          "name": "14.81ZR",
+          "price": 14.81
+        },
+        {
+          "name": "42.Cu",
+          "price": 42.0
+        },
+        {
+          "name": "4njrt",
+          "price": 4.0
+        },
+        {
+          "name": "10K8  (IC { (01 13y",
+          "price": 13.0
+        },
+        {
+          "name": "YtL 1-300-80-AEON (",
+          "price": 2366.0
+        }
+      ],
+      "confidence": 0.6434,
+      "low_confidence": true
+    },
+    "total_amount": {
+      "value": 2366.0,
+      "confidence": 0.5084,
+      "low_confidence": true
+    },
+    "ocr_mean_confidence": {
+      "value": 0.4076,
+      "confidence": 0.4076,
+      "low_confidence": true
+    }
+  },
+  "raw_text": "s(80z0ll\nAEJN co , (M) BHD' ( 126926-H)\n3RD FLR, AEJW TAMAN MALURI SC\nJln JEMAKA ,\nTAHAN HALURI\nCHEFAS ,\n55100  KUALA  Lumpuir\nGS]   ID\n002017394683\nSHQPPiNG;  HOJURS\nS4- THU; 1OQO #IRS\n2200 IKS\nFRi-S4T : 1Q1O HRS\n2300 HRS\n(;1GOO) 128885,4\n(, 2SR\nFLAST [CS BAG\nIk (O0) 05 H67 (5\n13,9426\n#C WjO) HGF\nIx 0p00076 16775\n14.81ZR\nW; Wj] Nxt\ni4\n0410k042516775\n13.532R\nWc WO) Hef\nSub-fotal\n42. 48\niatal Sales inc| GST\n42.48\nRriniirg id)\n0.02\nIotal After Ad) lrc| GST\n42.Cu\nCASH\n50.00\n[tzl Cuuit\nChnarige Amt\n7,50\nInvoice Ko: 20130312100600910139\nGST  Slmaary\n4njrt\nTax\n3 @ &*\n0.19\n0.vi\nZR @ Ox\n42 ..28\n0.0u\nTolal\n42.47\n0.01\n1273/2ile 13:07\n10K8  (IC { (01 13y\n0304662  HEHADAS  A/L 94LQ0\nAEOw BANIAR FUCI!CNG\nYtL 1-300-80-AEON (2366\nPL FASE COHE  AGAIN\nIIIHI"
+}

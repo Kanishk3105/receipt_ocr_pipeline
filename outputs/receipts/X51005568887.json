@@ -1,0 +1,45 @@
+{
+  "receipt_id": "X51005568887",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005568887.jpg",
+  "fields": {
+    "store_name": {
+      "value": "KON HWA HARDWARE TRADING",
+      "confidence": 0.7392,
+      "low_confidence": false
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.3542,
+      "low_confidence": true
+    },
+    "items": {
+      "value": [
+        {
+          "name": "NO 37,JALAN MAWNIS",
+          "price": 7.0
+        },
+        {
+          "name": "1.2 314\" ALUMNIUM ROD",
+          "price": 314.0
+        },
+        {
+          "name": "7,20 SR",
+          "price": 720.0
+        }
+      ],
+      "confidence": 0.8292,
+      "low_confidence": false
+    },
+    "total_amount": {
+      "value": 9130.0,
+      "confidence": 0.7392,
+      "low_confidence": false
+    },
+    "ocr_mean_confidence": {
+      "value": 0.687,
+      "confidence": 0.687,
+      "low_confidence": true
+    }
+  },
+  "raw_text": "KON HWA HARDWARE TRADING\nCompany Rog: No,\n001055194X\nNO 37,JALAN MAWNIS 7\nTAMAN CEGAR,\n56100 CHERAS, KUALA LUMPUR.\n+603-9130 2672\nGST\n001125220352\nIAXINVOICE\nCB#:\n75688\n20n047017 11 0130 AM\nM#\nC? - 0\nCeshier\ncasht\nQty\nDescrntion\nPricc\nTola(RM;\n1.2 314\" ALUMNIUM ROD\n6.00\n7,20 SR\nQuQ\n12 Tsp0:\nTolal\n7 20\nJscount:\n00\nRounding Ad}\nOQ\nTotal Inclusive GST-\n20\nCASH\n20\nCSLSummary\nCode\n%\nNel Aml\nGSI\nTotal(l*M)\nSR\nSR\n6,79\n0 41\n20\nTolal\nI9\n041\n20\nThank yali\n& Please come again !!\nGoods sokd ure [A relrnable (ol relund M exchanlga I|\nRog"
+}

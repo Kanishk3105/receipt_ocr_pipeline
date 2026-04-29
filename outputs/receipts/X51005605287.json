@@ -1,0 +1,69 @@
+{
+  "receipt_id": "X51005605287",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005605287.jpg",
+  "fields": {
+    "store_name": {
+      "value": "AEON C6,",
+      "confidence": 0.7829,
+      "low_confidence": false
+    },
+    "date": {
+      "value": "2018-03-14",
+      "confidence": 0.7529,
+      "low_confidence": false
+    },
+    "items": {
+      "value": [
+        {
+          "name": "AEON C6,",
+          "price": 6.0
+        },
+        {
+          "name": "3RD FLR ,",
+          "price": 3.0
+        },
+        {
+          "name": "2200 HRS",
+          "price": 2200.0
+        },
+        {
+          "name": "6 , 65SR",
+          "price": 65.0
+        },
+        {
+          "name": "5, 6OSR",
+          "price": 6.0
+        },
+        {
+          "name": "CIF REGULAR",
+          "price": 50.0
+        },
+        {
+          "name": "50 . CO",
+          "price": 50.0
+        },
+        {
+          "name": "Itet Ctit",
+          "price": 2.0
+        },
+        {
+          "name": "SR @ 6%",
+          "price": 6.0
+        }
+      ],
+      "confidence": 0.7679,
+      "low_confidence": false
+    },
+    "total_amount": {
+      "value": 6003.0,
+      "confidence": 0.7379,
+      "low_confidence": false
+    },
+    "ocr_mean_confidence": {
+      "value": 0.6842,
+      "confidence": 0.6842,
+      "low_confidence": true
+    }
+  },
+  "raw_text": "AEON C6,\n(M) BHD\n126926-H)\n3RD FLR ,\nAEON TAMAN MALURI SC\nJLN JEJAKA ,\nTAMAN MALURI\nCHERAS _\n55100 KUALA  LUMPUR\nGST  ID\n0020 |7394688\nSHOPPI NG  HOURS\nMON-SUN: 1 00O  HRS\n2200 HRS\nVALIJED CUSTOMER:\n1\n130307913\nIx\n000o05469765\n6 , 65SR\ntOpVALU FLOOR C\nIx 00000110i575\n5, 6OSR\nCIF REGULAR 50\nSub-tota]\n12.25\nTota} Sales Irc]   GST\n12.25\nToia] After Adj\nIrc]   GST\n12.25\nCASH\n50 . CO\nItet Ctit 2\nCharge  Amt\n37,75\nInvoice No: 2018031430090060035\nGST  Sumary\nAmount\nTax\nSR @ 6%\n11,55\n0.70\nTotal\n11.55\n0,70\n14/03/2018 12:43\n3009  Oo6  0060035\n(284846   AMIRUL"
+}

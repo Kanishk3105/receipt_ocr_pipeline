@@ -1,0 +1,117 @@
+{
+  "receipt_id": "X51005447861",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005447861.jpg",
+  "fields": {
+    "store_name": {
+      "value": ";![uo",
+      "confidence": 0.5975,
+      "low_confidence": true
+    },
+    "date": {
+      "value": "1991-01-29",
+      "confidence": 0.6125,
+      "low_confidence": true
+    },
+    "items": {
+      "value": [
+        {
+          "name": "Wo) '4R",
+          "price": 4.0
+        },
+        {
+          "name": "HJ4RAR auv) HvTldOd",
+          "price": 4.0
+        },
+        {
+          "name": "S8u!aus",
+          "price": 8.0
+        },
+        {
+          "name": "eJo",
+          "price": 1.0
+        },
+        {
+          "name": "Ib '",
+          "price": 98.0
+        },
+        {
+          "name": "1unouv",
+          "price": 1.0
+        },
+        {
+          "name": "1 unoj",
+          "price": 1.0
+        },
+        {
+          "name": "O+ '8p",
+          "price": 8.0
+        },
+        {
+          "name": "J4no3s [(",
+          "price": 3.0
+        },
+        {
+          "name": "SL-TTI4 DNICNVaXq",
+          "price": 4.0
+        },
+        {
+          "name": "[xa] VTaXHNQ   J40LNZA-X",
+          "price": 40.0
+        },
+        {
+          "name": "eqox %03 onss [",
+          "price": 3.0
+        },
+        {
+          "name": "8u! JdS",
+          "price": 8.0
+        },
+        {
+          "name": "1UMOWM",
+          "price": 1.0
+        },
+        {
+          "name": "uo! Ad! 43sau",
+          "price": 43.0
+        },
+        {
+          "name": "8BLp[ [",
+          "price": 8.0
+        },
+        {
+          "name": "ALI?OT2A",
+          "price": 2.0
+        },
+        {
+          "name": "undun] 8 [ enH",
+          "price": 8.0
+        },
+        {
+          "name": "'a8[[/L ub|RT",
+          "price": 8.0
+        },
+        {
+          "name": "'8 on",
+          "price": 8.0
+        },
+        {
+          "name": "on 88h I,SO)",
+          "price": 88.0
+        }
+      ],
+      "confidence": 0.6275,
+      "low_confidence": true
+    },
+    "total_amount": {
+      "value": 4889.0,
+      "confidence": 0.4925,
+      "low_confidence": true
+    },
+    "ocr_mean_confidence": {
+      "value": 0.3722,
+      "confidence": 0.3722,
+      "low_confidence": true
+    }
+  },
+  "raw_text": ";![uo\nsxooq\n4J\nAna\nAu\nWo) '4R\nnidod\nMam\n'Nivov\n'{hQa\nXnvhI\nSINQODST€   TVInHS AOCNZ\n(NP\nHJ4RAR auv) HvTldOd\nV\n%8\n62\n{-\nS8u!aus\neJo1\n00 * 0\nO8 *0 |\n%0\n0\n2\n8 | `%\nIb '98\n%9\n0\n[\n(k\")\n'0\n(wH)\n1unouv\nSuRWuns LSI\nC\n1 unoj\n091 [\n09 '0\n@onvHJ\n00 *0s -\n4889\nO+ '8p\nNH\n[B101\n[0 *0\nFPv bu[punou\n88\nB1\nLSD\nJo\n'[3U]\nAH\n[b101\n80 `8 -\nJ4no3s [(\nJoquar\nL\n06 *0r\nSL-TTI4 DNICNVaXq\nOd\n02 'I-\n14n038 [(\nJoqwor\n2 00 'ZI\n[xa] VTaXHNQ   J40LNZA-X\nIIT\neqox %03 onss [\n8u! JdS\n1 8L `6 [\n68 '6\n0\n2d3\nNsX)\nadRL/) MOawol\n1UMOWM\nuo! Ad! 43sau\n8[/60 /0&\n:Ru!dx]\np.R)\n891 [ 881[0800z\n:on pabj\nJaqwaw\n8BLp[ [\nsubJL\nIX\nId\nDnod\nCELFOIOIOO\n'On\ndHIS\n#I:6[\n#1/80/10\n0269/ [ 829\n[0z6-80\n;\n[8L\nALI?OT2A\nKVMNDS\nB!Scr [ Rn\nundun] 8 [ enH\n00095\nXezeh\nunl esad\n'a8[[/L ub|RT\n'8 on\n(000266261100\non 88h I,SO)\n(M-GzQsh[\nOn\n'02)\nUHX\nNCS\n(n)\n'0)\nXoOx\nYFTldOd\n;Spu!"
+}

@@ -1,0 +1,73 @@
+{
+  "receipt_id": "X51005433541",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005433541.jpg",
+  "fields": {
+    "store_name": {
+      "value": "14 Mar",
+      "confidence": 0.6569,
+      "low_confidence": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.2719,
+      "low_confidence": true
+    },
+    "items": {
+      "value": [
+        {
+          "name": "14 Mar",
+          "price": 14.0
+        },
+        {
+          "name": "794,",
+          "price": 794.0
+        },
+        {
+          "name": "{867388-U)",
+          "price": 867388.0
+        },
+        {
+          "name": "Tarpoi,8{200 _",
+          "price": 200.0
+        },
+        {
+          "name": "Or180j14021e",
+          "price": 14021.0
+        },
+        {
+          "name": "160100033086",
+          "price": 160100033086.0
+        },
+        {
+          "name": "@6r0;",
+          "price": 0.0
+        },
+        {
+          "name": "Fo,",
+          "price": 0.0
+        },
+        {
+          "name": "Q6^",
+          "price": 6.0
+        },
+        {
+          "name": "#0p0856",
+          "price": 95584.0
+        }
+      ],
+      "confidence": 0.7469,
+      "low_confidence": false
+    },
+    "total_amount": {
+      "value": 160100033086.0,
+      "confidence": 0.7769,
+      "low_confidence": false
+    },
+    "ocr_mean_confidence": {
+      "value": 0.5043,
+      "confidence": 0.5043,
+      "low_confidence": true
+    }
+  },
+  "raw_text": "14 Mar\nSPN\n18,40\n794,\ntem\nSR\nTotal\nS5.50\nt8.20\nNett\n88.30\n84.20\n274\nRES\nLike and\nAgain!\nHozosv\nUNIHAKKA\nINTERNATICNAL\n2018\nBHD\n{867388-U)\nJslan \"\nTarpoi Z\nKawasan =\nTarpoi,8{200 _\nPeilndusilan\nJanor =\nBahru; =\nInvoice\nTAXINVDICE\nJoncr\nOr180j14021e\n60311\n160100033086-\nVege\n85.50\n32.70\nPeik\n82.70\nTotal/\nAmount:\nQST\nPayment /\n@6r0;\nMode\n90,46\nCASH\nTolial:\nCharge\nFo,00\nQ6^\nAoud\nJelel\nGST\n#0p0856:95584\nBAR\n64\nWANG E\nRice@PERMAs\n(Price =\nIndusive =\nJAYA\nThank:\nGST}\nYou =\nCuma\nFotow\nFacebook =\non Facebooki\ncomba WangRice"
+}

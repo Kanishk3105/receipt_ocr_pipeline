@@ -1,0 +1,177 @@
+{
+  "receipt_id": "X51005806692",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005806692.jpg",
+  "fields": {
+    "store_name": {
+      "value": "6L'0z",
+      "confidence": 0.6082,
+      "low_confidence": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.2232,
+      "low_confidence": true
+    },
+    "items": {
+      "value": [
+        {
+          "name": "Ts 9pe",
+          "price": 9.0
+        },
+        {
+          "name": "Kiewwns 1S",
+          "price": 5.0
+        },
+        {
+          "name": "O8\"' L9E",
+          "price": 9.0
+        },
+        {
+          "name": "08'L9E",
+          "price": 9.0
+        },
+        {
+          "name": "06je43 ax14Jas",
+          "price": 14.0
+        },
+        {
+          "name": "%9 JSD",
+          "price": 9.0
+        },
+        {
+          "name": "(1S5 aNsnpoxa) Iejol qns",
+          "price": 5.0
+        },
+        {
+          "name": "37635 NAHDLIN 3H 5X",
+          "price": 2.0
+        },
+        {
+          "name": "Jd",
+          "price": 9.0
+        },
+        {
+          "name": "(671) (HJ) 380 JOSSIOS ZOSTJ",
+          "price": 380.0
+        },
+        {
+          "name": "06 ZZ",
+          "price": 6.0
+        },
+        {
+          "name": "37aNVD 3113 Jdoo[ OOT-JJ",
+          "price": 3113.0
+        },
+        {
+          "name": "4S CO*B1Z",
+          "price": 1.0
+        },
+        {
+          "name": "AWuds HJIM NOHI Aua DINOSNEd 068-ISd",
+          "price": 68.0
+        },
+        {
+          "name": "HASN:asid 3VL TI",
+          "price": 6.0
+        },
+        {
+          "name": "HS 09*T",
+          "price": 9.0
+        },
+        {
+          "name": "JVlddO RO6XWWBT",
+          "price": 6.0
+        },
+        {
+          "name": "4S OS",
+          "price": 2.0
+        },
+        {
+          "name": "60 SXE dd",
+          "price": 60.0
+        },
+        {
+          "name": "8S 09'E",
+          "price": 9.0
+        },
+        {
+          "name": "aNvg &38an8 ,St",
+          "price": 8.0
+        },
+        {
+          "name": "4S OE'E",
+          "price": 4.0
+        },
+        {
+          "name": "(a1N) S3uaid3S LJVawo) LaHSOOZ",
+          "price": 3.0
+        },
+        {
+          "name": "J003 Wd",
+          "price": 3.0
+        },
+        {
+          "name": "3)I8d '*n",
+          "price": 8.0
+        },
+        {
+          "name": "Z57M",
+          "price": 57.0
+        },
+        {
+          "name": "4a1yse)",
+          "price": 1.0
+        },
+        {
+          "name": "Joiq",
+          "price": 30.0
+        },
+        {
+          "name": "Wd 65*80*90 gTozIzolet",
+          "price": 90.0
+        },
+        {
+          "name": "'ON Ju3unjoa",
+          "price": 3.0
+        },
+        {
+          "name": "O8828OEE",
+          "price": 8100.0
+        },
+        {
+          "name": "1SS",
+          "price": 1.0
+        },
+        {
+          "name": "DNVn7X'o",
+          "price": 98.0
+        },
+        {
+          "name": "'nxi3 ueler *29 8",
+          "price": 9.0
+        },
+        {
+          "name": "aHg Nas 34LN3) Q1OHJSOOH JNOZ 1VJYD",
+          "price": 1.0
+        },
+        {
+          "name": "6ad",
+          "price": 6.0
+        }
+      ],
+      "confidence": 0.6382,
+      "low_confidence": true
+    },
+    "total_amount": {
+      "value": 8828.0,
+      "confidence": 0.5032,
+      "low_confidence": true
+    },
+    "ocr_mean_confidence": {
+      "value": 0.3961,
+      "confidence": 0.3961,
+      "low_confidence": true
+    }
+  },
+  "raw_text": "6L'0z\nTs 9pe\n%69\n8S\n(Wa)xeL\n(Wa)unouv\nKiewwns 1S5\nO8\"' L9E\npje) Iipa)\n08'L9E\n:(Wu) iexoz papunod\n00'0\njuawnsn[pv buipunoa\nOo*0\n06je43 ax14Jas\n6202\n%9 JSD\n(1S5 aNsnpoxa) Iejol qns\n4S 06*61\nOo*0\n06*61\nd T\n37635 NAHDLIN 3H 5X2\n4S 00*98\n00'0\n00*9\nJd 9\n(671) (HJ) 380 JOSSIOS ZOSTJ\n45 06*2Z\n00*0\n06 ZZ\nJ [\n37aNVD 3113 Jdoo[ OOT-JJ\nHS 0O'I\n00*0\nO0'T\n3 T\nNvynxn NvL\n4S CO*B1Z\nO0*0\n06*01\nJd Oz\nHJOTJ NIVId NOHdV LT-dV\n4S 06'61\nOo*0\n06*6b\nJd [\nAWuds HJIM NOHI Aua DINOSNEd 068-ISd\n4S 09*8\n00'0\n09*8\n3 [\nHASN:asid 3VL TI6\nHS 09*T\nOo*0\n09*[\nJd I\nJVlddO RO6XWWBT\n4S OS2\n00*'0\nOs*z\nD00z T\n60 SXE dd\n8S 09'E\n00*0\n09*€\nDOOz I\naNvg &38an8 ,St\n4S OE'E\n00*0\nOE\" €\nJd [\n(a1N) S3uaid3S LJVawo) LaHSOOZ\nJ003 Wd\nWd\nKlO\nXL JNOOWV\nssia\n3)I8d '*n\n3s30\nZ57M\n4a1yse)\nIOzosIX\nIeuiujal\nJaqWaw\nJoiq30\nWd 65*80*90 gTozIzolet\naje0\nLZZOETIOZODIX\n'ON Ju3unjoa\nO8828OEE8100\n1SS\nDNVn7X'o0098\n'nxi3 ueler *29 8 09\n(n-6b0108)\naHg Nas 34LN3) Q1OHJSOOH JNOZ 1VJYD\nODIOAUI Xel\n6ad"
+}

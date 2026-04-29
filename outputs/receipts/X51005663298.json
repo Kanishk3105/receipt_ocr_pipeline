@@ -1,0 +1,153 @@
+{
+  "receipt_id": "X51005663298",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005663298.jpg",
+  "fields": {
+    "store_name": {
+      "value": "aw' WUJ ' SOdSIS A4 {/luxMOd",
+      "confidence": 0.5848,
+      "low_confidence": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.1998,
+      "low_confidence": true
+    },
+    "items": {
+      "value": [
+        {
+          "name": "aw' WUJ ' SOdSIS A4 {/luxMOd",
+          "price": 4.0
+        },
+        {
+          "name": "tldFv 3W03 Jepal l",
+          "price": 3.0
+        },
+        {
+          "name": "J4NVH",
+          "price": 4.0
+        },
+        {
+          "name": "JJ01S dH3L",
+          "price": 3.0
+        },
+        {
+          "name": "WO:68:+ [",
+          "price": 68.0
+        },
+        {
+          "name": "1o :paso(",
+          "price": 3.0
+        },
+        {
+          "name": "sI'",
+          "price": 81.0
+        },
+        {
+          "name": "91 ' Ab",
+          "price": 91.0
+        },
+        {
+          "name": "LS9 Jo a/sn(JUI) (2H",
+          "price": 1.0
+        },
+        {
+          "name": "a[geked LS",
+          "price": 9.0
+        },
+        {
+          "name": "(XOL ) a6ue4J",
+          "price": 4.0
+        },
+        {
+          "name": "O8' AV",
+          "price": 8.0
+        },
+        {
+          "name": "06 'ZL",
+          "price": 6.0
+        },
+        {
+          "name": "JI9 ]Od VJL",
+          "price": 9.0
+        },
+        {
+          "name": "4we7  znobybew",
+          "price": 7.0
+        },
+        {
+          "name": "aj1Jd'€",
+          "price": 1.0
+        },
+        {
+          "name": "K1d",
+          "price": 1.0
+        },
+        {
+          "name": "J8v SH]",
+          "price": 8.0
+        },
+        {
+          "name": "[5*63:8L &L07-80-Lz",
+          "price": 80.0
+        },
+        {
+          "name": "2 : (s)xed",
+          "price": 2.0
+        },
+        {
+          "name": "Z6ssls",
+          "price": 6.0
+        },
+        {
+          "name": "~LOOA :#LLE",
+          "price": 9.0
+        },
+        {
+          "name": "E7 aqe[",
+          "price": 7.0
+        },
+        {
+          "name": "NVINvshzX I4S",
+          "price": 4.0
+        },
+        {
+          "name": "9ipoujs I7Vw SJNIW 3Hi",
+          "price": 3.0
+        },
+        {
+          "name": "1JAJ",
+          "price": 7.0
+        },
+        {
+          "name": "Lol-9oa",
+          "price": 9.0
+        },
+        {
+          "name": "(0-2z8gl / )",
+          "price": 8.0
+        },
+        {
+          "name": "S3NJW JHL-SIONJM",
+          "price": 3.0
+        },
+        {
+          "name": "hiofo 8 1",
+          "price": 6.0
+        }
+      ],
+      "confidence": 0.6148,
+      "low_confidence": true
+    },
+    "total_amount": {
+      "value": 666.0,
+      "confidence": 0.4798,
+      "low_confidence": true
+    },
+    "ocr_mean_confidence": {
+      "value": 0.3441,
+      "confidence": 0.3441,
+      "low_confidence": true
+    }
+  },
+  "raw_text": "aw' WUJ ' SOdSIS A4 {/luxMOd\ntldFv 3W03 Jepal l\n#*#t\nnoj YULiyl\nEL' &\nCp 'Gh\nX9\nHS\n(hH)xe]\n(WY ) #unowx\nKuewwns LSJ\n58\n(\nJ4NVH:\n00 ' O5\nHSVJ\nJJ01S dH3L\n:JanjBS\nWO:68:+ [\ngluz CQ\nL2\n1o :paso(3\nsI'81\n:IVLOL\n10*0-\n[pv bulpunoh\n91 ' Ab\nLS9 Jo a/sn(JUI) (2H01\nEL' &\n:a[geked LS9\n61'V\n:(XOL ) a6ue4J\nAJa\nO8' AV\n4S\n06` 81\n06 'ZL\nX |\nJI9 ]Od VJL\nXS\n06' 5\n06 ' $\nX |\n(S) pe[es uapueg\nHS\nQS 'ZZ\n(G 'ZZ\nX |\nISL\nM\n4we7  znobybew\nXVL [2H0L\naj1Jd'€1\nK1d\nUO! adLuzsad\nJ8v SH]\nWJJWVL\nJalyse]\n[5*63:8L &L07-80-Lz\na1e0\n2 : (s)xed\nZ6ssls\n~LOOA :#LLE9\nsGhgl /\n# iapuO\nE7 aqe[\naj[O^UI\nxe[\n+u666+589/00\nOn\nLSH )\nNVSH]\nOOECb\nNVINvshzX I4S\n9ipoujs I7Vw SJNIW 3Hi\n1JAJ7\nLol-9oa\n(0-2z8gl / )\nS3NJW JHL-SIONJM\nIV\nhiofo 8 1 6\n6a4"
+}

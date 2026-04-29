@@ -1,0 +1,89 @@
+{
+  "receipt_id": "X51005442376",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005442376.jpg",
+  "fields": {
+    "store_name": {
+      "value": "Ao",
+      "confidence": 0.674,
+      "low_confidence": true
+    },
+    "date": {
+      "value": "2018-03-22",
+      "confidence": 0.689,
+      "low_confidence": true
+    },
+    "items": {
+      "value": [
+        {
+          "name": "22 Mar 2018",
+          "price": 18.24
+        },
+        {
+          "name": "12,Jaian TermpolFeaka-u)",
+          "price": 12.0
+        },
+        {
+          "name": "Tampoi 81200 Johor =",
+          "price": 81200.0
+        },
+        {
+          "name": "Ort",
+          "price": 8032202170428.0
+        },
+        {
+          "name": "SD.",
+          "price": 50.0
+        },
+        {
+          "name": "S7.B",
+          "price": 0.0
+        },
+        {
+          "name": "@8%6",
+          "price": 30.41
+        },
+        {
+          "name": "Neft Totai",
+          "price": 57.6
+        },
+        {
+          "name": "S7.0o",
+          "price": 7.0
+        },
+        {
+          "name": "Sn.0o",
+          "price": 0.0
+        },
+        {
+          "name": "OST06%",
+          "price": 6.0
+        },
+        {
+          "name": "SST REG ?",
+          "price": 856105684.0
+        },
+        {
+          "name": "744,Kawasan",
+          "price": 744.0
+        },
+        {
+          "name": "700100000084",
+          "price": 700100000084.0
+        }
+      ],
+      "confidence": 0.764,
+      "low_confidence": false
+    },
+    "total_amount": {
+      "value": 8032202170428.0,
+      "confidence": 0.794,
+      "low_confidence": false
+    },
+    "ocr_mean_confidence": {
+      "value": 0.5423,
+      "confidence": 0.5423,
+      "low_confidence": true
+    }
+  },
+  "raw_text": "Ao\nUNIHAKKA INTERNATIONAL SDN\n22 Mar 2018 18.24\n12,Jaian TermpolFeaka-u)\nTampoi 81200 Johor =\nPerindustrian\nBahry Johav\nIrwvoice _\nTAXINvoICE\nOrt8032202170428\nItem\nQly\nSR\nTotal\nS7.10\n87.10\nAdd Vegetable\nS0.50\nSD.50\nTotcl\nS7.B0\n@8%6: 30.41\nNeft Totai: 57.60\nCASH\nAmourt\nS7.0o\nSn.0o\nOST\nOST06%\nAmotntt};\nTaxt}\n2.17\n0.43\nSST REG ?000856105684\nBAR WANG RICE@PERMAS\nJAYA\nInclusive Ol\nThent;\nLike and\nAgain}\nUs on\nFacebookl\nFacebook com- BarWangRice\n3113\nBHD\n744,Kawasan\nMea: +\nVege\n700100000084-\nAmourt;\n387\nPaymemt _\nMode\nChenge\nSunuan\n(Price\nGSt)\nYou :\nCcnle /\nFollow !"
+}

@@ -1,0 +1,73 @@
+{
+  "receipt_id": "X51005442384",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005442384.jpg",
+  "fields": {
+    "store_name": {
+      "value": "INTERROATIQNAL",
+      "confidence": 0.7009,
+      "low_confidence": false
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.3159,
+      "low_confidence": true
+    },
+    "items": {
+      "value": [
+        {
+          "name": "12, Jalan",
+          "price": 12.0
+        },
+        {
+          "name": "(287388-U)",
+          "price": 287388.0
+        },
+        {
+          "name": "Tan Fan72D) Jator Bah Peindustian",
+          "price": 72.0
+        },
+        {
+          "name": "OR18o",
+          "price": 31002160324.0
+        },
+        {
+          "name": "OST @8%",
+          "price": 5046.0
+        },
+        {
+          "name": "SQ.",
+          "price": 0.0
+        },
+        {
+          "name": "SR- GST @",
+          "price": 654.0
+        },
+        {
+          "name": "An4h",
+          "price": 4.0
+        },
+        {
+          "name": "DI G8T)",
+          "price": 8.0
+        },
+        {
+          "name": "40o08581E",
+          "price": 8581.0
+        }
+      ],
+      "confidence": 0.7909,
+      "low_confidence": false
+    },
+    "total_amount": {
+      "value": 31002160324.0,
+      "confidence": 0.8209,
+      "low_confidence": false
+    },
+    "ocr_mean_confidence": {
+      "value": 0.602,
+      "confidence": 0.602,
+      "low_confidence": true
+    }
+  },
+  "raw_text": "INTERROATIQNAL\nSDN BHD\n18.26\n12, Jalan\n(287388-U)\nTan Fan72D) Jator Bah Peindustian\nTAX JatorGahr Joher\nInvolce\nOR18o31002160324\nItem\nOl\n53\nTotal\nChicken\n8270\n55,50\n35,50\n56.20\nOST @8%: 50,46\nPayment\nNeft\n8.20\nLASH\n88.20\nSQ.00\nSR- GST @654\nAn4h\n2.74\n0.46\nGeT REG\nBAR WANG\n85584\nRICE@PERMAS JAYA\nDI G8T)\nYou\nAgolrl\nand\nUs ph\nFacebaokl\nAozvp |\nUNIHAKKA\nTampo; =\nJohor\n92.70\nvege\nTatal /\nAmourl:\nTolal:\nMade\nAmoutt\nchange\nGSTSuinmton\n40o08581E\n(Prka\nInclustve\nThant\nCome\nLike =\nFollcw\nFacebook com BarWangRice"
+}

@@ -1,0 +1,89 @@
+{
+  "receipt_id": "X51005568885",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005568885.jpg",
+  "fields": {
+    "store_name": {
+      "value": "N7O4 ANVSL",
+      "confidence": 0.5458,
+      "low_confidence": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.1608,
+      "low_confidence": true
+    },
+    "items": {
+      "value": [
+        {
+          "name": "N7O4 ANVSL",
+          "price": 4.0
+        },
+        {
+          "name": "%9-(a1y3*",
+          "price": 3.0
+        },
+        {
+          "name": "a6ue4j",
+          "price": 4.0
+        },
+        {
+          "name": "4se)",
+          "price": 4.0
+        },
+        {
+          "name": "7VICU €n",
+          "price": 8.0
+        },
+        {
+          "name": "Jhap10L",
+          "price": 10.0
+        },
+        {
+          "name": "s+3tS",
+          "price": 3.0
+        },
+        {
+          "name": "8eS| |",
+          "price": 8.0
+        },
+        {
+          "name": "0(i68/ :'Om",
+          "price": 68.0
+        },
+        {
+          "name": "331O1NI XVL",
+          "price": 1.0
+        },
+        {
+          "name": "61 L60903-E0 :XvJ7aL",
+          "price": 7.0
+        },
+        {
+          "name": "JOJN1733 aNomoid00}",
+          "price": 26.0
+        },
+        {
+          "name": "Iyau1 yonva",
+          "price": 1.0
+        },
+        {
+          "name": "tn-6s3Lta)",
+          "price": 3.0
+        }
+      ],
+      "confidence": 0.5758,
+      "low_confidence": true
+    },
+    "total_amount": {
+      "value": 3244.0,
+      "confidence": 0.4408,
+      "low_confidence": true
+    },
+    "ocr_mean_confidence": {
+      "value": 0.2573,
+      "confidence": 0.2573,
+      "low_confidence": true
+    }
+  },
+  "raw_text": "N7O4 ANVSL\n2F\"{\n68'2S\n%9-(a1y3*\n132\n0o*0\na6ue4j\n00'95\n4se)\n00*95\nWY\nALLLNMT JVLOL\nTa}wali TlQ\nFd 0-\nLannav ONKNnOY\n1D95\n7VICU €n8\nLi'{\nJhap10L\np8 25\nTlo€na\nXOLaO37M0/ Xhaoxd\ns+3tS\nicei\nt\n8eS| |\nWRN\n3244\nNO\n202\nCD: |\nLidUld(\ni0-|0#\n3k93\n0(i68/ :'Om\n331O1NI XVL\n61 L60903-E0 :XvJ7aL\nJOJN1733 aNomoid00}26\nIyau1 yonva\ntn-6s3Lta)\nKed"
+}

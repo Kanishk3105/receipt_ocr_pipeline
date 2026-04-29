@@ -1,0 +1,105 @@
+{
+  "receipt_id": "X51005719856",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005719856.jpg",
+  "fields": {
+    "store_name": {
+      "value": "Ku' u03'suIqcOJUIxseQ'M",
+      "confidence": 0.5641,
+      "low_confidence": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.1791,
+      "low_confidence": true
+    },
+    "items": {
+      "value": [
+        {
+          "name": "Ku' u03'suIqcOJUIxseQ'M",
+          "price": 3.0
+        },
+        {
+          "name": "pbuelij 4se",
+          "price": 3.0
+        },
+        {
+          "name": "(8XW) 4s",
+          "price": 83.0
+        },
+        {
+          "name": "(Lsp*Ijui) Iejo",
+          "price": 1.0
+        },
+        {
+          "name": "'Ip8 buipunod",
+          "price": 8.0
+        },
+        {
+          "name": "YS09'L",
+          "price": 9.0
+        },
+        {
+          "name": "aj14 4n0/",
+          "price": 3.0
+        },
+        {
+          "name": "QO'",
+          "price": 7.0
+        },
+        {
+          "name": "6y aqroa",
+          "price": 6.0
+        },
+        {
+          "name": "a3Ud'n",
+          "price": 3.0
+        },
+        {
+          "name": "K4O",
+          "price": 4.0
+        },
+        {
+          "name": "a3IOAUI XBJ",
+          "price": 3.0
+        },
+        {
+          "name": "LEl2 08z9 (€09) :IeL Jai1no",
+          "price": 1.0
+        },
+        {
+          "name": "978vlelsl00 :Qi1S?",
+          "price": 1.0
+        },
+        {
+          "name": "Jndun",
+          "price": 7.0
+        },
+        {
+          "name": "9j10 JujodyHoN",
+          "price": 10.0
+        },
+        {
+          "name": "V JOMOL I-9-V",
+          "price": 9.0
+        },
+        {
+          "name": "(V-809691) py8 UPS dooos (lapice)",
+          "price": 8.0
+        }
+      ],
+      "confidence": 0.5941,
+      "low_confidence": true
+    },
+    "total_amount": {
+      "value": 978.0,
+      "confidence": 0.4591,
+      "low_confidence": true
+    },
+    "ocr_mean_confidence": {
+      "value": 0.2981,
+      "confidence": 0.2981,
+      "low_confidence": true
+    }
+  },
+  "raw_text": "Ku' u03'suIqcOJUIxseQ'M\njujebe auoj aseald\nMueyL\nZz L\n92 02\n%0 '9\n4s\nKeuluns\n(Wwd) Xej\n(wa) aieS Ajed Xej\nLSO\n0s *0\n:pbuelij 4se3\nO0 Zz\n(8XW) 4s83\n0s Lz\n(Lsp*Ijui) Iejo1\n'Ip8 buipunod\nOS z\nIejoL qns\nYS09'L\n0s\" L\naj14 4n0/03\nXS Q0 0z\nQO'07\ndno\n6y aqroa\n(wa)iejoL\na3Ud'n\nK4O\nuouduuosaa\nA'lii R ?ia\nAldljda\nJailisej\nLiJaa\nCN SOd\nUN Jicu\na3IOAUI XBJ\nLEl2 08z9 (€09) :IeL Jai1no\n978vlelsl00 :Qi1S?\neisKeiew\nJndun7\neienx ejein euInd pa(s lepaw\nION\nKnin\nKaiie^ PIW\n9j10 JujodyHoN\nV JOMOL I-9-V\n(V-809691) py8 UPS dooos (lapice)\nKip xed esea\nMNIqQO HEINIxsbq\nfuip\ninok"
+}

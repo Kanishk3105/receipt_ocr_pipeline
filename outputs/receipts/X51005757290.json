@@ -1,0 +1,57 @@
+{
+  "receipt_id": "X51005757290",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005757290.jpg",
+  "fields": {
+    "store_name": {
+      "value": "31803040",
+      "confidence": 0.7814,
+      "low_confidence": false
+    },
+    "date": {
+      "value": "2018-03-17",
+      "confidence": 0.7964,
+      "low_confidence": false
+    },
+    "items": {
+      "value": [
+        {
+          "name": "SOCKS   3PCS",
+          "price": 3.0
+        },
+        {
+          "name": "Jh6",
+          "price": 1.0
+        },
+        {
+          "name": "QI",
+          "price": 31.0
+        },
+        {
+          "name": "WA",
+          "price": 36.0
+        },
+        {
+          "name": "GST@6%",
+          "price": 6.0
+        },
+        {
+          "name": "SHO",
+          "price": 1.0
+        }
+      ],
+      "confidence": 0.8714,
+      "low_confidence": false
+    },
+    "total_amount": {
+      "value": 5202.0,
+      "confidence": 0.7814,
+      "low_confidence": false
+    },
+    "ocr_mean_confidence": {
+      "value": 0.7808,
+      "confidence": 0.7808,
+      "low_confidence": false
+    }
+  },
+  "raw_text": "31803040\nMR _\nD. IaY .\n(M)\nSDN\nBHD\n(CO , REG\n:86067 1-D )\nLoT\n1851-A\n&\n1851-B\nJALAN KPB\n6\nKawaSAN PERINDUSTRIAN BALAKONG\n43300  SERI\nKEMBANGAN _\nSELANGOR\n(GST\nId\nNo\n:000306020352 )\n(IOI\nPUCHONG )\n~TaX\nINVOIcE\nSTUDENT\nSOCKS   3PCS\nBK\n#S\nJh6 1\n4/200\n9034915\n1 X\n9.50\n9,50\nBELT\n5202-3#*VS\n#S\nQI31\n12/480\n9034870\n1 X\n22 . 90\n22 . 90\nPVC\nMan\nPPER\n969\n(BK )\n#S\nWA36\n9555590500184\n1\nX\n10.50\n10 .50\nItem(s)\n3\nQty(s)\n3\nTotal\nInc] .\nGST@6%\nRH\n42 .90\nCASH\nRM\n50 . 00\nCHAnGE\nRM\n7.10\nGST\n@6X\nincluded\nin tota)\nRM\n2,43\n*\n$\n17-03-18\n14:49\nSHO 1\n2j86\nT1\nRoOO 1 10133\nOPERATOR\nTRAINEE\nCASHIER\nEXCHANGE\nARE\nALLOHED\nWITHIN\n(\nDAY\nWITH\nRECEIPT\nSTRICTLY\nNO\nCASH REFUND ,"
+}

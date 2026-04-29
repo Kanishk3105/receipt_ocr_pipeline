@@ -1,0 +1,141 @@
+{
+  "receipt_id": "X51005444046",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005444046.jpg",
+  "fields": {
+    "store_name": {
+      "value": "STAR GROCER SDN BHD (1171881-W)",
+      "confidence": 0.7998,
+      "low_confidence": false
+    },
+    "date": {
+      "value": "2018-03-25",
+      "confidence": 0.8148,
+      "low_confidence": false
+    },
+    "items": {
+      "value": [
+        {
+          "name": "STAR GROCER SDN BHD (1171881-W)",
+          "price": 1171881.0
+        },
+        {
+          "name": "No",
+          "price": 4.0
+        },
+        {
+          "name": "55100 Kuala Lumpur",
+          "price": 55100.0
+        },
+        {
+          "name": "(GST REG NO: 000915943424)",
+          "price": 915943424.0
+        },
+        {
+          "name": "DSPO",
+          "price": 5201803250022.0
+        },
+        {
+          "name": "25/03/",
+          "price": 18.0
+        },
+        {
+          "name": "13 43.",
+          "price": 11.0
+        },
+        {
+          "name": "1.59*",
+          "price": 8.0
+        },
+        {
+          "name": "12 72 Z",
+          "price": 72.0
+        },
+        {
+          "name": "6,92*0.",
+          "price": 0.21
+        },
+        {
+          "name": "1 48",
+          "price": 2.0
+        },
+        {
+          "name": "20u",
+          "price": 10800259005280.0
+        },
+        {
+          "name": "4.91*0.",
+          "price": 0.52
+        },
+        {
+          "name": "PINEAPPLE LOCAL",
+          "price": 15.0
+        },
+        {
+          "name": "8.60*",
+          "price": 2.0
+        },
+        {
+          "name": "17",
+          "price": 20.0
+        },
+        {
+          "name": "1.29-0",
+          "price": 837.0
+        },
+        {
+          "name": "1 08 >",
+          "price": 8.0
+        },
+        {
+          "name": "US GREEN APPLE (175)",
+          "price": 105.0
+        },
+        {
+          "name": "7.50*",
+          "price": 1.0
+        },
+        {
+          "name": "VALENCIA SA (105)",
+          "price": 85.0
+        },
+        {
+          "name": "5 90*",
+          "price": 4.0
+        },
+        {
+          "name": "6vi",
+          "price": 6.0
+        },
+        {
+          "name": "66",
+          "price": 17.0
+        },
+        {
+          "name": "66",
+          "price": 15.0
+        },
+        {
+          "name": "67 OO",
+          "price": 67.0
+        },
+        {
+          "name": "6\"",
+          "price": 0.0
+        }
+      ],
+      "confidence": 0.8898,
+      "low_confidence": false
+    },
+    "total_amount": {
+      "value": 2.0003310014800214e+17,
+      "confidence": 0.7998,
+      "low_confidence": false
+    },
+    "ocr_mean_confidence": {
+      "value": 0.8218,
+      "confidence": 0.8218,
+      "low_confidence": false
+    }
+  },
+  "raw_text": "STAR GROCER SDN BHD (1171881-W)\nNo 4\nDesa Pandan, Off kampong Pandan,\n55100 Kuala Lumpur\n(GST REG NO: 000915943424)\nTax Invoices\nInvoice\nDSPO5201803250022\n25/03/18\nCashier\nRaja Nur\n13 43. 11\nCARROT SIM SOOGM CH (PKT)\n1800001501\n1.59*8\n12 72 Z\nJAMBU BATU (GUAVA SEEDLESS/ MUTIARA) KG\n200033100148002149\n6,92*0.214\n1 48 2\nMANGO HONEY (SUSU) (KG)\n20u010800259005280\n4.91*0.528\n2.59\n2\nPINEAPPLE LOCAL 15\n1810064501\n8.60*2\n17 20\n2\nTIMUN JEPUN (JAPANESE CUCUMBER) KG\n200017100108008367\n1.29-0 837\n1 08 >\nUS GREEN APPLE (175) 105\n1810078202\n7.50*1\n7,50\n2\nVALENCIA SA (105) 85\n1810061602\n5 90*4\n23.60\n2\nItem\nTotal with GST\n6vi\n66 17\nQty\n18\nRounding\n-0.02\nTotal Saving\n0,00\nTotal\n66 15\nTender\nCash\n67 OO\nChange\n85\nGST Analysis\nGoods\nTax Amount\nS\n6\"0\n0.00\n0o\nz\nOru\n66,17\nConsider PTS.\n66\nTax"
+}

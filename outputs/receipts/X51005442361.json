@@ -1,0 +1,185 @@
+{
+  "receipt_id": "X51005442361",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005442361.jpg",
+  "fields": {
+    "store_name": {
+      "value": "'652",
+      "confidence": 0.5589,
+      "low_confidence": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.1739,
+      "low_confidence": true
+    },
+    "items": {
+      "value": [
+        {
+          "name": "9L\"Ess",
+          "price": 9.0
+        },
+        {
+          "name": "08* LL",
+          "price": 8.0
+        },
+        {
+          "name": "IS",
+          "price": 9.0
+        },
+        {
+          "name": "06' 1Z",
+          "price": 1.0
+        },
+        {
+          "name": "06*D",
+          "price": 2.0
+        },
+        {
+          "name": "06' BL",
+          "price": 6.0
+        },
+        {
+          "name": "06'",
+          "price": 81.0
+        },
+        {
+          "name": "06' €t",
+          "price": 6.0
+        },
+        {
+          "name": "fs",
+          "price": 23.0
+        },
+        {
+          "name": "06 '",
+          "price": 652.0
+        },
+        {
+          "name": "ll",
+          "price": 0.0
+        },
+        {
+          "name": "9e",
+          "price": 13.0
+        },
+        {
+          "name": "9 ;xed",
+          "price": 9.0
+        },
+        {
+          "name": "'E",
+          "price": 65.0
+        },
+        {
+          "name": "\"TBz0L",
+          "price": 0.0
+        },
+        {
+          "name": "[ec1_",
+          "price": 1.0
+        },
+        {
+          "name": "5eZ8*",
+          "price": 61.0
+        },
+        {
+          "name": "(a4,3ni Jui)",
+          "price": 43.0
+        },
+        {
+          "name": "2/1+l",
+          "price": 1.0
+        },
+        {
+          "name": "ak0",
+          "price": 418.0
+        },
+        {
+          "name": "044 (ow",
+          "price": 44.0
+        },
+        {
+          "name": "(4Ja",
+          "price": 9.0
+        },
+        {
+          "name": "06 \"",
+          "price": 901.0
+        },
+        {
+          "name": "adu",
+          "price": 4.0
+        },
+        {
+          "name": "~8ued",
+          "price": 3.0
+        },
+        {
+          "name": "Kn4pneh",
+          "price": 4.0
+        },
+        {
+          "name": "J8128d",
+          "price": 8128.0
+        },
+        {
+          "name": "314B",
+          "price": 4.0
+        },
+        {
+          "name": "8u6}",
+          "price": 439.0
+        },
+        {
+          "name": "[ZI6E",
+          "price": 0.0
+        },
+        {
+          "name": "Ez-C0",
+          "price": 3102.0
+        },
+        {
+          "name": "4a6y5e",
+          "price": 3.0
+        },
+        {
+          "name": "OQ1AAUI",
+          "price": 1.0
+        },
+        {
+          "name": "#s2n",
+          "price": 9.0
+        },
+        {
+          "name": "11u",
+          "price": 33.0
+        },
+        {
+          "name": "3rlany",
+          "price": 3.0
+        },
+        {
+          "name": "LLL",
+          "price": 9.0
+        },
+        {
+          "name": "\"81134131241x",
+          "price": 81134131241.0
+        }
+      ],
+      "confidence": 0.5889,
+      "low_confidence": true
+    },
+    "total_amount": {
+      "value": 81134131241.0,
+      "confidence": 0.5739,
+      "low_confidence": true
+    },
+    "ocr_mean_confidence": {
+      "value": 0.2865,
+      "confidence": 0.2865,
+      "low_confidence": true
+    }
+  },
+  "raw_text": "'652\nJua\n#0\n01\nLS\"EE\n9L\"Ess\n08* LL\nIS9\n06' 1Z\n~QS\n06*D2\n06' BL\n06'81\nH\n06' €t\nfs23\n06 '652\n85\n#s\nll0\n943\n9e13\nSz\n9 ;xed\n\"Qu\nBui_\nSxs' ZL\nPyB Ups\nOu Auecoa IS}\n'05\n@xe\nEs\n'E65\n\"TBz0L\n[ec1_\n5eZ8*61\n(a4,3ni Jui)\n12101\n1\n2/1+l\nPp{ ES\nyest\nYeis\nRhng\nak0-418\nJsnV\n044 (ow\n(4Ja9\n06 \"901\nadu4\nAnOS\n~8ued3\nKn4pneh\nJ8128d\n544\n:314B4\nJanJas\n8u6}439\n+C:Ev:BL\nUezym\n:uad}\n[ZI6E0000\nEz-C0-3102\n4a6y5e3\nOQ1AAUI\n:70\n4240\n#s2n9\nGueyed\n11u33\n00069\n3rlany\n9160\n'oueyed\nLLL9\nX-EOLtLLI\njoo[J\n167\n\"81134131241x\nKuedlo)\nLors\nXH\n96920"
+}

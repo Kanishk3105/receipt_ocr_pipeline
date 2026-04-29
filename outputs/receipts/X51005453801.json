@@ -1,0 +1,41 @@
+{
+  "receipt_id": "X51005453801",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005453801.jpg",
+  "fields": {
+    "store_name": {
+      "value": "3180303",
+      "confidence": 0.7277,
+      "low_confidence": false
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.3427,
+      "low_confidence": true
+    },
+    "items": {
+      "value": [
+        {
+          "name": "19, JALAN KANCIL",
+          "price": 19.0
+        },
+        {
+          "name": "CS 100t",
+          "price": 2.0
+        }
+      ],
+      "confidence": 0.8177,
+      "low_confidence": false
+    },
+    "total_amount": {
+      "value": 6.0,
+      "confidence": 0.7277,
+      "low_confidence": false
+    },
+    "ocr_mean_confidence": {
+      "value": 0.6616,
+      "confidence": 0.6616,
+      "low_confidence": true
+    }
+  },
+  "raw_text": "3180303\nHANDICRAFT\nTAIL (RING\n19, JALAN KANCIL\nCFF JALAN PUQU,\n55100 KLALA LuMpUR\nMALA YSIA\ncompany Reg No\n75495-W\nGST Reg ND\n0019436327 3b\nTAX INVQICE\ninvoice No\nCS 100t2\nQale\n2003/2018 1J 01\ncaihler #\n01\nrM\nCode\nSAFETY PINS BUTTERFLY\n3\n6 00 BOXS\n17 00\n102 Q0\nSR\nsubtotai\n102 Q0\nTotal Excl\nQT GST\n96 23\nTota) Inci q{ GST\nt02 0Q\nTota) Ami Rounded\n102 U\n10? 0Q\nPayment\n00\nChange Que\nTotal Item(6)\n5\nAmount (R)\nTax (RM)\nGST Summay\n6%\n96 23\n5 71\nSR\nTHANK YOU\n144\nPLBASE COME AGAIN"
+}

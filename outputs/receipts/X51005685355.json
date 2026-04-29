@@ -1,0 +1,45 @@
+{
+  "receipt_id": "X51005685355",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005685355.jpg",
+  "fields": {
+    "store_name": {
+      "value": "3180301",
+      "confidence": 0.7567,
+      "low_confidence": false
+    },
+    "date": {
+      "value": "2018-03-19",
+      "confidence": 0.7717,
+      "low_confidence": false
+    },
+    "items": {
+      "value": [
+        {
+          "name": "nQ,2 , GROUND FLOOR ,",
+          "price": 2.0
+        },
+        {
+          "name": "JALAN REKO SENTRAL",
+          "price": 8.0
+        },
+        {
+          "name": "GST  ID NO",
+          "price": 896.0
+        }
+      ],
+      "confidence": 0.8467,
+      "low_confidence": false
+    },
+    "total_amount": {
+      "value": 2018.0,
+      "confidence": 0.7567,
+      "low_confidence": false
+    },
+    "ocr_mean_confidence": {
+      "value": 0.7261,
+      "confidence": 0.7261,
+      "low_confidence": false
+    }
+  },
+  "raw_text": "3180301\nRESTORAN IBRAHIM MAJU SB\nnQ,2 , GROUND FLOOR ,\nJALAN REKO SENTRAL 8\nTAMAN REKO SENTRAL ,\n43000 KAJANG\nSELANGOR DE\nTEL\n03-87342689\nGST  ID NO :000896532992\nTAX INVOICE\nINVOICE\n1-181696\ntiHE\n19/03/2018 03:43:44 PM\nCASHIER\nJAHABA R ALI\nSELF SERVICE=\n1000\nQty  DESCRIPTION\nPRICE\nAMOUNT\nMAKANAN\n2,30\n2,30 $\nMAKANAN\n40\n40 $\nMAKANAN\n60\n60 $\nSub Total Inc| , GST\n5,30\nRound Adjustmt\nRH\n0.00\nIota]\nRM\n5,30\nPayment\nCASH\n10 ,\nChange\nRH\n4 ,\nQ0\nGST\n6 *\nPaid\nRM\n0,,30\nGST ANALYSIS\nAMT (RM)\nTAX (RM\nS\n6 *\n5,00\nZ- 0 *\n0 .00\n00\n19/03/2018 03:44:03 PM\n<THANK   YOU\n<PLEASE COME AGAIN>\nKP Tquh\nJun\nSt\nMr\nLsu"
+}

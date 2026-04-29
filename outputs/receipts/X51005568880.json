@@ -1,0 +1,117 @@
+{
+  "receipt_id": "X51005568880",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005568880.jpg",
+  "fields": {
+    "store_name": {
+      "value": "Onqj3h HSvJ On",
+      "confidence": 0.5913,
+      "low_confidence": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.2063,
+      "low_confidence": true
+    },
+    "items": {
+      "value": [
+        {
+          "name": "Onqj3h HSvJ On",
+          "price": 3.0
+        },
+        {
+          "name": "Ldi3338 HLIM Avq",
+          "price": 3338.0
+        },
+        {
+          "name": "QJ0077v J4v Jonvhjx]",
+          "price": 4.0
+        },
+        {
+          "name": "JI81 UOLVHJde",
+          "price": 81.0
+        },
+        {
+          "name": "(OHS  885|",
+          "price": 885.0
+        },
+        {
+          "name": "LI-80",
+          "price": 61.0
+        },
+        {
+          "name": "(wd) 1wV",
+          "price": 1.0
+        },
+        {
+          "name": "X90 LSJ",
+          "price": 90.0
+        },
+        {
+          "name": "(9) Wa}]",
+          "price": 9.0
+        },
+        {
+          "name": "I8-rr-|MJ",
+          "price": 8.0
+        },
+        {
+          "name": "O8'€ X |",
+          "price": 8.0
+        },
+        {
+          "name": "O8 '& X |",
+          "price": 8.0
+        },
+        {
+          "name": "III8Q LSIML",
+          "price": 8.0
+        },
+        {
+          "name": "2L8| Lo",
+          "price": 6.0
+        },
+        {
+          "name": "6-m78 nM",
+          "price": 78.0
+        },
+        {
+          "name": "Injw3j",
+          "price": 3.0
+        },
+        {
+          "name": "M8z-L",
+          "price": 6.0
+        },
+        {
+          "name": "HO9nv7JS",
+          "price": 7.0
+        },
+        {
+          "name": "I4JS Oocep",
+          "price": 4.0
+        },
+        {
+          "name": "9novtvg",
+          "price": 9.0
+        },
+        {
+          "name": "9dx",
+          "price": 9.0
+        }
+      ],
+      "confidence": 0.6213,
+      "low_confidence": true
+    },
+    "total_amount": {
+      "value": 3338.0,
+      "confidence": 0.4863,
+      "low_confidence": true
+    },
+    "ocr_mean_confidence": {
+      "value": 0.3584,
+      "confidence": 0.3584,
+      "low_confidence": true
+    }
+  },
+  "raw_text": "Onqj3h HSvJ On\nAIJIALS\nLdi3338 HLIM Avq\n1\nNIHIIA\nQJ0077v J4v Jonvhjx]\nYndwhva\nHHnwvq  INHvM\nJI81 UOLVHJde\n80800[0004 &1\nCorz\n(OHS  885|\nLI-80-61\n06 ' 0\n00 ' 5|\nXgos\n1S9\n(Hu)xe]\n(wd) 1wV\nKueuwns\n1S?\n01 '#8\nHd\nJINvhJ\n00 ' 05\nHd\nHSV;\n06 ' G |\nNd\nX90 LSJ\nIJMI\nIVLOL\n9 : (S)a+0\nS\n(9) Wa}]\n00 '5\n0s '2\nX 8\n6 [00zle\n00F /01\nI8-rr-|MJ\nS+\nSdVulS NIHLUIJ\n0e ' &\nO8'€ X |\n80|891 9066069\n009/01\nzihx\nS*\n1+9\nIIIYU LSIML SSH\nO8 ' &\nO8 '& X |\n2018919066069\n005/01\nzzhX\nS*\n+5'5\nIII8Q LSIML\nSSH\n09 ' |\n09 ' | X |\n2L8| Lo6\nopz/zi\nSt\n6-m78 nM\nInjw3j\n0L'2\n0L'2\nX |\n098L906\n091/0b/5\n90-p0-odH\nSt\nM8z-L6\nhsqya\n131I0L\n-JJIOANI\nXH]-\nJqvuhd Hvon])\n(zscozogoeooo:\nOn  QI\n1S9 )\nHO9nv7JS\nNvJvbn]x\nI4JS Oocep\n9novtvg\nNPIHISQONI&Jd NVSHMHM\n9\n9dx\nnhIvc\n8-[581\n8 H-158|\n101\n0-|29098:934-03\nthg NOS (W)a'I'0' &w"
+}

@@ -1,0 +1,73 @@
+{
+  "receipt_id": "X51005568855",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005568855.jpg",
+  "fields": {
+    "store_name": {
+      "value": "POPULAR Book",
+      "confidence": 0.749,
+      "low_confidence": false
+    },
+    "date": {
+      "value": "2017-12-23",
+      "confidence": 0.764,
+      "low_confidence": false
+    },
+    "items": {
+      "value": [
+        {
+          "name": "No 8,",
+          "price": 8.0
+        },
+        {
+          "name": "Shoe White SW [ [6|#2S",
+          "price": 2.0
+        },
+        {
+          "name": "WHi624R",
+          "price": 624.0
+        },
+        {
+          "name": "FC GRIP BPO.",
+          "price": 5.0
+        },
+        {
+          "name": "Fc GRIP BPO.",
+          "price": 5.0
+        },
+        {
+          "name": "31 GlueSt Ick  Ten 4' s",
+          "price": 4.0
+        },
+        {
+          "name": "A4 450 ' s",
+          "price": 450.0
+        },
+        {
+          "name": "set;  010E",
+          "price": 10.0
+        },
+        {
+          "name": "S4 SUPER $",
+          "price": 4.0
+        },
+        {
+          "name": "@8euiy",
+          "price": 8.0
+        }
+      ],
+      "confidence": 0.839,
+      "low_confidence": false
+    },
+    "total_amount": {
+      "value": 4008.0,
+      "confidence": 0.749,
+      "low_confidence": false
+    },
+    "ocr_mean_confidence": {
+      "value": 0.709,
+      "confidence": 0.709,
+      "low_confidence": false
+    }
+  },
+  "raw_text": "POPULAR Book\nco.\n(m)\nSDN\nBHD\n(Co.\nNc,\n143825-W )\n(GST Ree No_\n001492992000 )\nNo 8,\nJa lan\n7/118B,\nDesa\nTun Razak\n56000 Kua |a\nLumpur,\nMa lays ia\nCHERAS   LEISURE MALL\nTe [\n03-91322435/437\n23/12/17 15:53\nS]p No.\n9050338975\naInaa\nTrans\n309782\nMember\nCard\nNc :\n20020op\"c.!\n{ril\nixpiny\n3[/08/20\nDeseript i0n\nAmount\nShoe White SW [ [6|#2S\n4,29\nT\nMR\nC\nTAPE\nREF\nWHi624R -\n31.99\nT\nKIT Kat 'F'\n(PM)\n76\n1.35\nT\nOxford-Coin\nBox\nBTS  RMIO Voucher\nIssu\nFC GRIP BPO. 5\nBLK\nPK\n4.20\nT\nMenber Discount\n~0. 42\nFc GRIP BPO. 5\nBLU\nPK\n4.20\nT\nMeaber  Discount\n~0. 42\n31 GlueSt Ick  Ten 4' s\n10 . 59\nT\nSTAT-PROMO SPEC [AL\n-3,89\nPU F/c B/L\nA4 450 ' s\n16. 99\nT\nSTAT-PROVO  SPECIAL\n~2. 99\nPLUS stapler\nset;  010E\n8. 89 T\nSTAT-PROMO   SPECIAL\n-3.89\nFC  EXM: ERS 4S  187016\n3.90\nT\nSTAT-PRovo  SPEC LAL\n~0. 91\nS4 SUPER $\nM\nAKT'   SPM\n[BK ]\n9. 90\n2\nRev-BTS  Pronot Ion\n-1. 49\nSUCCESS  SPM ADD MATHS [BK]\n37. 00 2\nRev-BTS Pronot ion\n-7.40\nSUCCESS SPM SC[\n[BK]\n35. 70\n2\nRev-BTS  Pronot Ion\n\"7.14\nTotal\nRM\nInc].\nQf\nGST\n140 . 65\nMastercard\n-140 . 85\nItem Count\n14\nGST Summary\nAmount\n(RM)\nTax\n(RM)\nT\n6%\n69. 90\n4. 18\nZ\n0%\n66, 57\n0. 00\nTotal\nSav ings\n~28.35\nBE\nA\nPOPULAR CARD MEMBER\nANd ENJoy SPEC IAL DISCOUNTS\nTHANK\nYOU _\nPLEASE COMF\nAGA [ N.\nwww. popuar. cOm. my\nBuy\nChinese\nbooks\nonline\nVVV. Popularon ] ine. COb: Jy\nS4008\n@8euiy"
+}

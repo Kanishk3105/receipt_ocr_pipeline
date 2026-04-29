@@ -1,0 +1,125 @@
+{
+  "receipt_id": "X51005663272",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005663272.jpg",
+  "fields": {
+    "store_name": {
+      "value": "noa   XNYHL",
+      "confidence": 0.5572,
+      "low_confidence": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.1722,
+      "low_confidence": true
+    },
+    "items": {
+      "value": [
+        {
+          "name": "(ww)zunowv 1S9 (Ny)zunowykewwng",
+          "price": 159.0
+        },
+        {
+          "name": "a6ue4j ?unqwv",
+          "price": 4.0
+        },
+        {
+          "name": "(pv 6utpunox",
+          "price": 6.0
+        },
+        {
+          "name": "JWv 159 Tezol",
+          "price": 159.0
+        },
+        {
+          "name": "#unoww sso.",
+          "price": 9.0
+        },
+        {
+          "name": "4S bL\"QE",
+          "price": 4.0
+        },
+        {
+          "name": "LNivJ JUIXO XJV",
+          "price": 74.0
+        },
+        {
+          "name": "37Nvh INIV443774 n8TXubz",
+          "price": 8.0
+        },
+        {
+          "name": "O0S9 'Z",
+          "price": 9.0
+        },
+        {
+          "name": "('JUI 1s9)",
+          "price": 9.0
+        },
+        {
+          "name": "a354d",
+          "price": 354.0
+        },
+        {
+          "name": "Hd 90",
+          "price": 5.0
+        },
+        {
+          "name": "a4e",
+          "price": 1.0
+        },
+        {
+          "name": "'Qn #3TOAWI",
+          "price": 3.0
+        },
+        {
+          "name": "3JIONNI XVI",
+          "price": 3.0
+        },
+        {
+          "name": "baqunn 1sq",
+          "price": 1.0
+        },
+        {
+          "name": "LOSL[ZOb-EO",
+          "price": 9.0
+        },
+        {
+          "name": "9268TZOb",
+          "price": 9268.0
+        },
+        {
+          "name": "T6TBEZOp",
+          "price": 6.0
+        },
+        {
+          "name": "LBbzEzob-E0?",
+          "price": 731.0
+        },
+        {
+          "name": "Ynjwn7 V7w04 QoozS",
+          "price": 4.0
+        },
+        {
+          "name": "0-T818bT",
+          "price": 818.0
+        },
+        {
+          "name": "WHd   NIS Z4wMuywh NiHW",
+          "price": 4.0
+        }
+      ],
+      "confidence": 0.5872,
+      "low_confidence": true
+    },
+    "total_amount": {
+      "value": 9845.0,
+      "confidence": 0.4972,
+      "low_confidence": true
+    },
+    "ocr_mean_confidence": {
+      "value": 0.2828,
+      "confidence": 0.2828,
+      "low_confidence": true
+    }
+  },
+  "raw_text": "noa   XNYHL\nQt'€\nQ0 \"Ob\nx9845\nFSZ\n=37\n533=\n(ww)zunowv 1S9 (Ny)zunowykewwng 159\n2\n#PTOS Wa?i Tezol\n{Junoj K+equenv\nQ0*0\na6ue4j ?unqwv\nQb\nPteJ Qundww\nQb \"Zb\n(wy) Tezol\n(pv 6utpunox\n@b \" Zb\nTezol gnS\nOb'z\nJWv 159 Tezol\n00 ' Ob\n#unoww sso.9\n4S bL\"QE\nQOpL ' Oz\nLNivJ JUIXO XJV74\n1475  Z2\nJ5 92\"9\n0081 'E\n2\n37Nvh INIV443774 n8TXubz\n4s 02\"5\nO0S9 'Z\n2\n771433 437708 INIH\nub]\n#unowy\n('JUI 1s9)\na354d\nKqTquend\nuot+dt4353010340\nNIHPM\nAatysej\nHd 90:5\nLi/ZL/bO\na4e1\nZETE[oOSJ\n:'Qn #3TOAWI\n3JIONNI XVI\n8+0868860000\nbaqunn 1sq\nLOSL[ZOb-EO9\n9268TZOb\nT6TBEZOp\nLBbzEzob-E0? :731\nYnjwn7 V7w04 QoozS\n'gNVkVd NHTHI\nSZb\n0-T818bT\nWHd   NIS Z4wMuywh NiHW\n~locl& | €"
+}

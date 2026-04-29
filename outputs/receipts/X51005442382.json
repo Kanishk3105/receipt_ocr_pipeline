@@ -1,0 +1,77 @@
+{
+  "receipt_id": "X51005442382",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005442382.jpg",
+  "fields": {
+    "store_name": {
+      "value": "Aozh\"",
+      "confidence": 0.6833,
+      "low_confidence": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.2983,
+      "low_confidence": true
+    },
+    "items": {
+      "value": [
+        {
+          "name": "20 Mar",
+          "price": 20.0
+        },
+        {
+          "name": "{867388-U}",
+          "price": 867388.0
+        },
+        {
+          "name": "Tampoi 7/4,Kawasan Perindusklan",
+          "price": 4.0
+        },
+        {
+          "name": "12 Jalan",
+          "price": 12.0
+        },
+        {
+          "name": "Tarpol,81200 Johor =",
+          "price": 81200.0
+        },
+        {
+          "name": "Involce # : OR",
+          "price": 18032002170471.0
+        },
+        {
+          "name": "6 Vege",
+          "price": 6.0
+        },
+        {
+          "name": "SR=GST @6%",
+          "price": 6.0
+        },
+        {
+          "name": "[0010000oo51",
+          "price": 51.0
+        },
+        {
+          "name": "@89",
+          "price": 89.0
+        },
+        {
+          "name": "S0,d",
+          "price": 0.0
+        }
+      ],
+      "confidence": 0.7733,
+      "low_confidence": false
+    },
+    "total_amount": {
+      "value": 88.6,
+      "confidence": 0.6833,
+      "low_confidence": true
+    },
+    "ocr_mean_confidence": {
+      "value": 0.5629,
+      "confidence": 0.5629,
+      "low_confidence": true
+    }
+  },
+  "raw_text": "Aozh\"\nINTERNATICNAL SDN\nUNIHAKKA\n20 Mar\n{867388-U}\nTampoi 7/4,Kawasan Perindusklan\n12 Jalan\nBahr Johor\nTarpol,81200 Johor =\nTAXIVOICE\nInvolce # : OR18032002170471\nTotal\nOly\nItem\nSR\n6 Vege\nS8.60\n56.60\nTotal Amount: 56.80\nGST\nNett Total: 88.60\nAmount\nMode\n36.60\nCASH\nChange\nTaxv}\nKnounid\nOST Summar\nSR=GST @6%\nGST Reg\n8000858195584\nWANG RICE@PERMAS JAYA\n{Piice Inclusive Of GST}\nThank You & Came\nLike and Follcw UJs on Fecebookl\nFacebook cam BerWangRice\nBHD\n1735\n2018\n[0010000oo51-\nS0,37\n@89:\n'ayitent E\nS0,d0\nBAR:\nAgsini"
+}

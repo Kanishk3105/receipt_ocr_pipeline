@@ -1,0 +1,81 @@
+{
+  "receipt_id": "X51005757308",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005757308.jpg",
+  "fields": {
+    "store_name": {
+      "value": "31202045\"",
+      "confidence": 0.7703,
+      "low_confidence": false
+    },
+    "date": {
+      "value": "2018-03-21",
+      "confidence": 0.7853,
+      "low_confidence": false
+    },
+    "items": {
+      "value": [
+        {
+          "name": "46MM#SM",
+          "price": 46.0
+        },
+        {
+          "name": "RC22",
+          "price": 32.0
+        },
+        {
+          "name": "48MM+ |OOM CLEAR",
+          "price": 48.0
+        },
+        {
+          "name": "GB12-21",
+          "price": 22.0
+        },
+        {
+          "name": "46MM+SM",
+          "price": 46.0
+        },
+        {
+          "name": "TaPE Vstio6c",
+          "price": 6.0
+        },
+        {
+          "name": "MA",
+          "price": 10.0
+        },
+        {
+          "name": "Mc",
+          "price": 42.0
+        },
+        {
+          "name": "GSTz6*",
+          "price": 6.0
+        },
+        {
+          "name": "RM",
+          "price": 2850.0
+        },
+        {
+          "name": "GST  86X",
+          "price": 86.0
+        },
+        {
+          "name": "SHO",
+          "price": 1.0
+        }
+      ],
+      "confidence": 0.8603,
+      "low_confidence": false
+    },
+    "total_amount": {
+      "value": 9084.0,
+      "confidence": 0.7703,
+      "low_confidence": false
+    },
+    "ocr_mean_confidence": {
+      "value": 0.7563,
+      "confidence": 0.7563,
+      "low_confidence": false
+    }
+  },
+  "raw_text": "31202045\"\nMR _\nD,I.Y.\n(M)\nSDN\nBHD\n(CO.ReG\n86067 1-D) `\nLoT\n185 1-A\n&\n1851-B\nJalAn\nKPB\n6 ,\nKahASAN PERINDUSTRIAN BALAKONG_\n43300 SERI\nKEMBANGAN_\nSELANGOR\n(GST\nId\nNo\n000306020352 )\n(IOI\nPUCHONG )\nTaX\nINVOICE -\nCloth\nTAPE\n46MM#SM\n(REd)\n#S\nRC22-32\n36\n9084 134\nX\n1.9U\n1.90\nBOPP\nTAPE\n48MM+ |OOM CLEAR\n#S\nGB12-21-22\n36\n6935818350846\nX\n3 . 90\n3. 90\nCLoTH\nTAPE\n46MM+SM\nGREEN)\n#S\nH003\n36\n9084 135\nX\n1.90\n1,90\nDBL SIDE CLEAR ACRY IC\nTaPE Vstio6c\n#S\nMA10\n8/64\n955-\n100363 103\nX 11.90\n11.90\nS\nTAPE\n1.8*15M\n#S\nMc42\n88\n9080456\n1 X\n1.70\n1.70\nPLASTIC\nBAGS\n#S\n99999\n1 X\n0 ,20\n0 ,20\nItem(s)\n6\nQty(s)\n6 .\nTotal\nInc | ,\nGSTz6*\nRM\n21.50\nCASH\nRH 50 , 00\nCHANGE\nRM 28,50\nGST  86X\ninc luded\nin tota]\nRM\n1.22\n~t\n21-03-18\n12:27\nSHO1\n2j86\nT2 Rooo1 10882\nOPERATOR\nTRAINEE CASHIER\nEXCHANGE\nARE\nALLOWED\nWITHIn\n7\nDay\nwith\nRECEIPT_\nSTRICTLY\nnO CASH\nREFUND"
+}

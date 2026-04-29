@@ -1,0 +1,93 @@
+{
+  "receipt_id": "X51005568881",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005568881.jpg",
+  "fields": {
+    "store_name": {
+      "value": "upbbe Quo? aseeld 8",
+      "confidence": 0.5771,
+      "low_confidence": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.1921,
+      "low_confidence": true
+    },
+    "items": {
+      "value": [
+        {
+          "name": "upbbe Quo? aseeld",
+          "price": 8.0
+        },
+        {
+          "name": "no( Mu8yj",
+          "price": 8.0
+        },
+        {
+          "name": "ib",
+          "price": 6.0
+        },
+        {
+          "name": "ie",
+          "price": 6.0
+        },
+        {
+          "name": "Newwns",
+          "price": 135.0
+        },
+        {
+          "name": "'1SD @NSnIJUI [OJOL",
+          "price": 1.0
+        },
+        {
+          "name": "0dL",
+          "price": 65.0
+        },
+        {
+          "name": "(S3dog)",
+          "price": 3.0
+        },
+        {
+          "name": "DnI7I1M DAd $",
+          "price": 1.0
+        },
+        {
+          "name": "03ud",
+          "price": 3.0
+        },
+        {
+          "name": "3J1ONMXI",
+          "price": 1.0
+        },
+        {
+          "name": "'Yndwnt VvnX 'Svy3h) 0d",
+          "price": 199.0
+        },
+        {
+          "name": "'&VD3S NVWVL",
+          "price": 3.0
+        },
+        {
+          "name": "LSINVW M7VC",
+          "price": 7.0
+        },
+        {
+          "name": "6ed",
+          "price": 6.0
+        }
+      ],
+      "confidence": 0.6071,
+      "low_confidence": true
+    },
+    "total_amount": {
+      "value": 199.0,
+      "confidence": 0.4721,
+      "low_confidence": true
+    },
+    "ocr_mean_confidence": {
+      "value": 0.3269,
+      "confidence": 0.3269,
+      "low_confidence": true
+    }
+  },
+  "raw_text": "M\nupbbe Quo? aseeld 8\nno( Mu8yj\n07*01\n69 0\nib6\n0t*01\n65 0\nie6\n4S\n45\n(epiol\nJSD\nJWN JON\n%\n0p35\nNewwns 135\n0F'0l\nHSM)\n0p'0l\n'1SD @NSnIJUI [OJOL\n00*0\nIpv bupunod\n00'0\n0+ 0\n[B101\nr\n:0dL 65\n(S3dog)\nYS 00' $\n00 !\nDnI7I1M DAd $\n&S Ots\n00'9\n@OHWNNWQIV tve 6'0\n03ud\nuonduosea\nMO\nJOiysb)\n0 -0)\nWv Leozol Llozrtlz\nOleze\n#83\n3J1ONMXI\nLSO\n'Yndwnt VvnX 'Svy3h) 0d199\n'&VD3S NVWVL\nLSINVW M7VC\nLC ON\nXlslssolo0\n'DN 'Boy Kuedwos\nONIaWL auVMaWVH VMH NOH\n6ed"
+}

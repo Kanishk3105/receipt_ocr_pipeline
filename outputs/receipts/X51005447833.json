@@ -1,0 +1,89 @@
+{
+  "receipt_id": "X51005447833",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005447833.jpg",
+  "fields": {
+    "store_name": {
+      "value": "Sun wonc Kut",
+      "confidence": 0.7692,
+      "low_confidence": false
+    },
+    "date": {
+      "value": "2018-02-21",
+      "confidence": 0.8892,
+      "low_confidence": false
+    },
+    "items": {
+      "value": [
+        {
+          "name": "20965 - W",
+          "price": 20965.0
+        },
+        {
+          "name": "57100 KuaLA Lumpur",
+          "price": 57100.0
+        },
+        {
+          "name": "03",
+          "price": 9221345.0
+        },
+        {
+          "name": "'Roongo,1980838838=",
+          "price": 1980838838.0
+        },
+        {
+          "name": "600u",
+          "price": 483942.0
+        },
+        {
+          "name": "39",
+          "price": 54.0
+        },
+        {
+          "name": "13 Itre",
+          "price": 13.0
+        },
+        {
+          "name": "She |",
+          "price": 1.0
+        },
+        {
+          "name": "6b988483334'1763r",
+          "price": 1763.0
+        },
+        {
+          "name": "21/02/18",
+          "price": 11.0
+        },
+        {
+          "name": "40278",
+          "price": 7.0
+        },
+        {
+          "name": "Ron",
+          "price": 95.0
+        },
+        {
+          "name": "Y6ve3 Reb;e€",
+          "price": 3.0
+        },
+        {
+          "name": "(3)",
+          "price": 3.0
+        }
+      ],
+      "confidence": 0.7992,
+      "low_confidence": false
+    },
+    "total_amount": {
+      "value": 1980838838.0,
+      "confidence": 0.8892,
+      "low_confidence": false
+    },
+    "ocr_mean_confidence": {
+      "value": 0.7538,
+      "confidence": 0.7538,
+      "low_confidence": false
+    }
+  },
+  "raw_text": "Sun wonc Kut\nSOK BHD\nNo\n20965 - W\nFonpanyoie\nSite:\n176\nJLN SUNGEI\nBESI\n57100 KuaLA Lumpur\nTe|e\n03- 9221345\nGST\n'Roongo,1980838838=\nInvolce\nnunber\n600u0483942\n39 54\nItre\nFue | Save\n95\nRm\n88\n87\nC\n2\n230\nRM\n13 Itre\nTotal\n88\nRei;ef\nGST\n8\nTotal\nGross\nRN\n88\nShe | 1\nCard\n6b988483334'1763r\nPoints\nAwarded\n39\nDate\nTine\nNur\nOPT\n21/02/18 11\n19\n40278 07\nDiese |\nPetrol\nRon95\nY6ve3 Reb;e€\nunder Sect/on\n(3)\n(b)\nGST\nAct\n2014\nThank\nyou\nPlease\ncone\nagain\nPuip"
+}

@@ -1,0 +1,89 @@
+{
+  "receipt_id": "10",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\10.jpg",
+  "fields": {
+    "store_name": {
+      "value": "BRAA",
+      "confidence": 0.7221,
+      "low_confidence": false
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.4421,
+      "low_confidence": true
+    },
+    "items": {
+      "value": [
+        {
+          "name": "8I3 i",
+          "price": 3.0
+        },
+        {
+          "name": "Z5ML",
+          "price": 5.0
+        },
+        {
+          "name": "8QGR",
+          "price": 8.0
+        },
+        {
+          "name": "40OG",
+          "price": 40.0
+        },
+        {
+          "name": "1KG",
+          "price": 1.0
+        },
+        {
+          "name": "SP4R COOKING OIL",
+          "price": 4.0
+        },
+        {
+          "name": "37SML",
+          "price": 37.0
+        },
+        {
+          "name": "8SGR",
+          "price": 8.0
+        },
+        {
+          "name": "2TUGR",
+          "price": 2.0
+        },
+        {
+          "name": "~ARRIER BAG 24L",
+          "price": 24.0
+        },
+        {
+          "name": "7KG",
+          "price": 7.0
+        },
+        {
+          "name": "596kg",
+          "price": 596.0
+        },
+        {
+          "name": "FOR 14 Itehs",
+          "price": 14.0
+        },
+        {
+          "name": "i:ir.",
+          "price": 1.0
+        }
+      ],
+      "confidence": 0.7521,
+      "low_confidence": false
+    },
+    "total_amount": {
+      "value": 1599.0,
+      "confidence": 0.7221,
+      "low_confidence": false
+    },
+    "ocr_mean_confidence": {
+      "value": 0.6491,
+      "confidence": 0.6491,
+      "low_confidence": true
+    }
+  },
+  "raw_text": "BRAA\n0448124\n8I3 i\npel yspa\"utelk(riia\nvAT Mo\n4.50102696\nRF& NI\nKZn 032577\nE\":Y #JKLES(LR SAULE\nZ5ML\nXiLky KAR CHOC\n8QGR\nSYOnE') VIEMNAS\nSQOGR\nPEALED) PEACHES\n40OG\n82\nYEJITERRANEAN MIX\n1KG\n44.99\nSP4R COOKING OIL\n37SML\n14.99\nF/L ENGLISH CUCUMB\nYESTL[ AERO\n8SGR\n20\nCXQELRY DAIRY MI\n16.39\nGPAPES MIXED TUB\nTUB\n24 99\n#STiC RICE\nSOOGR\n11.99\nWLACX CAT SMOQTH\n2TUGR\n27 .99\n~ARRIER BAG 24L\n02.75\nEANANAS LOOSE\n7KG\n596kg\n15,99 R\n/kg\n9,53\nToTAL\nFOR 14 Itehs\n338 . 16\nTFYAERFC Nedbank\n338 , 16\ntaX INVOICE\nale\nexc\nTax\ninc\n119.48\n0,00\n119.48\nCjc\n190.16\n28.52\n218.68\nAL:P\nTILL\nCASHIER\nDATE\nTIME\n:780\n005\n101\n23.02.21\n16;17\nCASHIER NAME =\nSWAZI\nease Retain Slip\nJiiarik: YcU Far Sliopping With Us!\ni:ir.1\nCerj:"
+}

@@ -1,0 +1,93 @@
+{
+  "receipt_id": "X51005433494",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005433494.jpg",
+  "fields": {
+    "store_name": {
+      "value": "AEOx",
+      "confidence": 0.6622,
+      "low_confidence": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.2322,
+      "low_confidence": true
+    },
+    "items": {
+      "value": [
+        {
+          "name": "2230 HKS",
+          "price": 2230.0
+        },
+        {
+          "name": "2300 i8S",
+          "price": 8.0
+        },
+        {
+          "name": "75,",
+          "price": 75.0
+        },
+        {
+          "name": "G8T",
+          "price": 8.0
+        },
+        {
+          "name": "Too.0o",
+          "price": 0.0
+        },
+        {
+          "name": "2 8 6x",
+          "price": 6.0
+        },
+        {
+          "name": "{p",
+          "price": 3136.0
+        },
+        {
+          "name": "(126926-#)",
+          "price": 126926.0
+        },
+        {
+          "name": "'1e",
+          "price": 0.0
+        },
+        {
+          "name": "00Lx",
+          "price": 7996511.0
+        },
+        {
+          "name": ",C05R",
+          "price": 5.0
+        },
+        {
+          "name": "06/03/*",
+          "price": 2018.0
+        },
+        {
+          "name": "20",
+          "price": 1.0
+        },
+        {
+          "name": "1-310-{-AFOK",
+          "price": 310.0
+        },
+        {
+          "name": "(7366)",
+          "price": 7366.0
+        }
+      ],
+      "confidence": 0.6472,
+      "low_confidence": true
+    },
+    "total_amount": {
+      "value": 510100030493.0,
+      "confidence": 0.6172,
+      "low_confidence": true
+    },
+    "ocr_mean_confidence": {
+      "value": 0.416,
+      "confidence": 0.416,
+      "low_confidence": true
+    }
+  },
+  "raw_text": "AEOx\nSc\nGsr Io\nICo RaS\nIRs\n2230 HKS\n2300 i8S\nGREEK\n75,\nGST\nCish\nAdj Inci\nG8T\n75,02\nIST'\nH;\nAdit\nToo.0o\n2 8 6x\n25,00\nTax\n25\nPt\n008\n25\nTEL\nJAYA\nYuu FOR\n{p3136\nAEOW\n(126926-#)\nTaMAH\nJlk JeJAKA;\nMALiRI\nCIERAS ,\nTAHAH\n55100\nKUALa\nWupur\n002017394828\nshoppin;\nS-Tr: ]\nHqurS\nFKI-Sil =\n'1e0\n00Lx07996511\nAN@ROSIAl\nJ-tota ]\n,C05R\nTota}\nSales\nTotal\nInc]\nAfter\n75.03\nItan\n75.0\nDquret\nEnwoice\nChange\n201803061\nSmmary\n510100030493\nAiunt\nTota)\n70,75\n06/03/*2018\n70.75\n20:01\n0845532\nPIRYALATHA\n1010\n0080498\nAEo#\nFERHAS\n1-310-{-AFOK\nWhARK\n(7366)\nYabr\nPLEASE\nPATRONAGE\nCHHE\nHGAI#"
+}

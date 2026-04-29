@@ -1,0 +1,93 @@
+{
+  "receipt_id": "X51005301666",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005301666.jpg",
+  "fields": {
+    "store_name": {
+      "value": "LIGHTROOM GALLERY",
+      "confidence": 0.7759,
+      "low_confidence": false
+    },
+    "date": {
+      "value": "2017-11-20",
+      "confidence": 0.8959,
+      "low_confidence": false
+    },
+    "items": {
+      "value": [
+        {
+          "name": "28, TALAN ASTANA",
+          "price": 28.0
+        },
+        {
+          "name": "LCN",
+          "price": 212.0
+        },
+        {
+          "name": "Bill Start: 20/11/2017 03:57",
+          "price": 1.0
+        },
+        {
+          "name": "YE3G",
+          "price": 3.0
+        },
+        {
+          "name": "5,43) =RM",
+          "price": 543.0
+        },
+        {
+          "name": "YE",
+          "price": 44.0
+        },
+        {
+          "name": "9.34) =RM",
+          "price": 9.34
+        },
+        {
+          "name": "Ch5o",
+          "price": 688.0
+        },
+        {
+          "name": "1.01) =RM",
+          "price": 1.01
+        },
+        {
+          "name": "RM39 . 80   CONTRA",
+          "price": 80.0
+        },
+        {
+          "name": "LCN002H",
+          "price": 2.0
+        },
+        {
+          "name": "GST /TAX 6*",
+          "price": 6.0
+        },
+        {
+          "name": "Closed Bill; 20/11/2017 04:01:23 PM",
+          "price": 23.0
+        },
+        {
+          "name": "ACC MBB 5626",
+          "price": 4732.0
+        },
+        {
+          "name": "BANK ACC AMBANK",
+          "price": 888.0
+        }
+      ],
+      "confidence": 0.8659,
+      "low_confidence": false
+    },
+    "total_amount": {
+      "value": 5626.0,
+      "confidence": 0.8209,
+      "low_confidence": false
+    },
+    "ocr_mean_confidence": {
+      "value": 0.7687,
+      "confidence": 0.7687,
+      "low_confidence": false
+    }
+  },
+  "raw_text": "LIGHTROOM GALLERY\nSDN\nBHD\nNo:\n28, TALAN ASTANA\n1G,\nBANDDAR  ISUKIT\nRAJA,\n41050\nKLANG  SEI ANGOR\nD. E\nMALAYSTA\nROC No.\n(1072825-A)\nGST No.\n'0005840896610\nTel:03-3362 4395 Fax:03-.362 4395\nCREDIT\nNOTE\nStation:\nCASHIER\nc/n\nNo:\nLCN00212\nCashier\nANGELA\n(ver\nBill Date\n20/11/2017\nBill Start: 20/11/2017 03:57:01\nPM\nCode\n300-E0009\nName\nESWARAN 012-6369400\nAddress\nGST No.\nYT51129\nSR\nYE3G\nBK\n12\nWW  LET)   TRACK\nLIGHT\n2\n*\nRM\n45. 29\nUN T\n5,43) =RM\n9 , 57\nYt52683\nSR\nYE44\n35w\nWW  BK\nTRACK   HOLDER\n8\nRM\n[55. 66\nUNI\n9.34) =RM\n155. 66\nCh5o688\nSR\nIMETER\nTRACK-BK\n*RM\n16, 99\nUN [\n1.01) =RM\n16 , 79\nSR\nRM39 . 80   CONTRA\nW\nLCN002H\nUNN[T\nSub Total\nRM\n\"26}. (2\nItem Discount\n(:\n20\nService Charge\nR\n(.\nGST /TAX 6*\n[5.78\nTOT -\nRM\n278. 80\nCASt.\nRM\n278. 80\nCHANCE =\nRM\n0.00\nItem\nCotint::\nQty\nCount\n4, 0\nClosed Bill; 20/11/2017 04:01:23 PM\nThank You,\nPlease\ncome again\nGoods Sold are Qot\nrefundable, returnable\nBANK ACC MBB 5128 4853 21448\nBANK\nACC MBB 5626  4732\n1744\nBANK ACC AMBANK   888\n10O\n423 3706\nAmount (RM)\nTax (RM)\nGST Summary\n6%\n263. 02\n15. 78\nSR\n0. 00\n0. 00\nZR/os /EZ"
+}

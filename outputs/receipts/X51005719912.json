@@ -1,0 +1,53 @@
+{
+  "receipt_id": "X51005719912",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005719912.jpg",
+  "fields": {
+    "store_name": {
+      "value": "Eedia Ezalteed",
+      "confidence": 0.6013,
+      "low_confidence": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.2163,
+      "low_confidence": true
+    },
+    "items": {
+      "value": [
+        {
+          "name": "G-l9 Level",
+          "price": 6.0
+        },
+        {
+          "name": "P3 KUP [ HW",
+          "price": 4012.0
+        },
+        {
+          "name": "Ca5h",
+          "price": 5.0
+        },
+        {
+          "name": "At Guadia",
+          "price": 1.0
+        },
+        {
+          "name": "St:0 Ctr1  ID:9653 TaxIrw",
+          "price": 4176.0
+        }
+      ],
+      "confidence": 0.6313,
+      "low_confidence": true
+    },
+    "total_amount": {
+      "value": 9653.0,
+      "confidence": 0.6463,
+      "low_confidence": true
+    },
+    "ocr_mean_confidence": {
+      "value": 0.3808,
+      "confidence": 0.3808,
+      "low_confidence": true
+    }
+  },
+  "raw_text": "Eedia Ezalteed\n'Eil\nFazty &un Bnad\nG-l9 Level 6\nBet Mall\nTel:05-62534088\nCopaty Reg #1101083-T\nGST Reg #N039974816\nRM\n121035079 G0N MC HM EXC ROM\n12107079 GIN MC HV ENC ROM\n12103081 GW HC HVW NYWEA\nB\n121035081 GWN HC HW NIREAN\nP3 KUP [ HW 4012\n11.60-\nSUBTOTAL\nI2.0\nTOTAL  (GST  INCL)\n42.0\nCa5h\n2m\nKOR SNINS FOR TODAY\n11.60\nCST\nRate\n{STExcl\nGST Axt\n8\n6x\n11.3\n0.68\nThk You For Sho pjng\nAt Guadia1\nAii Ants Are in RH\nDowds sld &e n-refundable.\nDispensel redicines sold &e\nnt returmtle.\nALl excharees ad returns including\nGwdim baM prodcts It be eate\nwithln ?tays uith original receipts &\nPotrt in @iginal cvitio;\nSt:0 Ctr1  ID:9653 TaxIrw:4176\nJ6:14\n0/05/18"
+}

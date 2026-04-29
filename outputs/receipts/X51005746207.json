@@ -1,0 +1,97 @@
+{
+  "receipt_id": "X51005746207",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005746207.jpg",
+  "fields": {
+    "store_name": {
+      "value": "SUPER SEVEN CASH",
+      "confidence": 0.746,
+      "low_confidence": false
+    },
+    "date": {
+      "value": "2018-03-21",
+      "confidence": 0.761,
+      "low_confidence": false
+    },
+    "items": {
+      "value": [
+        {
+          "name": "http: / /w. super7 .cOM .my",
+          "price": 7.0
+        },
+        {
+          "name": "(SYED AHMAD FALLAH 8I-CUSTOMER SERVICE",
+          "price": 8.0
+        },
+        {
+          "name": "2,9g ZR",
+          "price": 29.0
+        },
+        {
+          "name": "2.00 ZR",
+          "price": 2.0
+        },
+        {
+          "name": "KIMBALL TOMATO PUREE  430G",
+          "price": 430.0
+        },
+        {
+          "name": "3.80 SR",
+          "price": 3.8
+        },
+        {
+          "name": "KIMBALL TOMATO puree  430G",
+          "price": 430.0
+        },
+        {
+          "name": "3.80 SR",
+          "price": 3.8
+        },
+        {
+          "name": "URO  MUSHROOM  425G",
+          "price": 425.0
+        },
+        {
+          "name": "2.80 SR",
+          "price": 2.8
+        },
+        {
+          "name": "YOUnG  CORN  425G  (MS)",
+          "price": 425.0
+        },
+        {
+          "name": "2.90 SR",
+          "price": 2.9
+        },
+        {
+          "name": "6 Units",
+          "price": 6.0
+        },
+        {
+          "name": "RMI",
+          "price": 8.29
+        },
+        {
+          "name": "RMO ,",
+          "price": 1.0
+        },
+        {
+          "name": "RMI",
+          "price": 830.0
+        }
+      ],
+      "confidence": 0.776,
+      "low_confidence": false
+    },
+    "total_amount": {
+      "value": 68.0,
+      "confidence": 0.746,
+      "low_confidence": false
+    },
+    "ocr_mean_confidence": {
+      "value": 0.7023,
+      "confidence": 0.7023,
+      "low_confidence": false
+    }
+  },
+  "raw_text": "SUPER SEVEN CASH\n&\nCARRY SDN 'BHD\n(590150-A)\nPASARAYA BORONG  SUPER SEVEN\nNO _\nJa lan Euro\nOff Jalan Batu Tiga\nSungai Buloh Seksyen U3 Shah Alam,40150\nhttp: / /w. super7 .cOM .my\nTEL\n03- 78590861\nFAX\n03-78590864\nGST ID\n000639090688\nTaX INVOICE\nCustomer\n[77853745]\nKrs _\nONG  GUAT CHYE\nTaX INVOICE NO\n203225\nCOUNTER\n;002\nOPERATOR\n(SYED AHMAD FALLAH 8I-CUSTOMER SERVICE\nCLERK]\n21-03-2018\n11:25:07 AM\n(RM)\nFRUIT  (FP)\n@2.99\n41595\n#1\n2,9g ZR\nNANGKA\nPINGGAN\n@2 . 00\nFM415000303\n2.00 ZR\nKIMBALL TOMATO PUREE  430G\n@3 . 80\n9556191030230\n#1\n3.80 SR\nKIMBALL TOMATO puree  430G\n03,80\n9556191030230\n#1\n3.80 SR\nURO  MUSHROOM  425G\n@2 . 80\n9555227500563\n#1\n2.80 SR\nYOUnG  CORN  425G  (MS)\ne2, 90\n9555654400313\n#1\n2.90 SR\nQuantity\n6 Units\nTotal Sales (Inc] , GST @68)\nRMI8.29\nRounding Adjustment\nRMO , 01\nNet Total\nRMI8,30\nPayment Method\nIs tro\nMASTER CARD\nGST   Summary\nSa les Amt\nTax Amt\n(RM)\n(RM)\nZR (0#\n4.99\n0,Q0\nSR (€ :)\n12,54\n0.76\nPLEASE VERIFY YOUR RECEIPT\nBEFORE LEAVING THE COUNTER ,\nGoodS  SOLD ARE NOT  RETURNABLE .\nTHA;K YOU"
+}

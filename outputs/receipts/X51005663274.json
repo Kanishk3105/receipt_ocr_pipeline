@@ -1,0 +1,113 @@
+{
+  "receipt_id": "X51005663274",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005663274.jpg",
+  "fields": {
+    "store_name": {
+      "value": "NIVOV 3w03 3S131d",
+      "confidence": 0.6423,
+      "low_confidence": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.2573,
+      "low_confidence": true
+    },
+    "items": {
+      "value": [
+        {
+          "name": "NIVOV 3w03 3S131d",
+          "price": 131.0
+        },
+        {
+          "name": "ena Abuey",
+          "price": 3.0
+        },
+        {
+          "name": "OS",
+          "price": 1.0
+        },
+        {
+          "name": "1SO jo",
+          "price": 1.0
+        },
+        {
+          "name": "Ieio",
+          "price": 1.0
+        },
+        {
+          "name": "OC",
+          "price": 1.0
+        },
+        {
+          "name": "OG",
+          "price": 1.0
+        },
+        {
+          "name": "INO3",
+          "price": 238.0
+        },
+        {
+          "name": "Zv Zl 8l0zizo/8o",
+          "price": 8.0
+        },
+        {
+          "name": "8GEtz S",
+          "price": 3.0
+        },
+        {
+          "name": "ON ajio4UI",
+          "price": 4.0
+        },
+        {
+          "name": "331ONNI XVL",
+          "price": 331.0
+        },
+        {
+          "name": "(1-19olEzzoo)",
+          "price": 19.0
+        },
+        {
+          "name": "L6lL 8C29",
+          "price": 80.0
+        },
+        {
+          "name": "5 nipa 4od ueier",
+          "price": 4.0
+        },
+        {
+          "name": "'abe1V neg HIO bueduis",
+          "price": 1.0
+        },
+        {
+          "name": "ONIQVUL a8vmaYVh OHL JN3S WI",
+          "price": 7.0
+        },
+        {
+          "name": "'{io 60 8 €",
+          "price": 8.0
+        },
+        {
+          "name": "6ay",
+          "price": 6.0
+        },
+        {
+          "name": "6ay",
+          "price": 6.0
+        }
+      ],
+      "confidence": 0.6723,
+      "low_confidence": true
+    },
+    "total_amount": {
+      "value": 8965.0,
+      "confidence": 0.5373,
+      "low_confidence": true
+    },
+    "ocr_mean_confidence": {
+      "value": 0.4717,
+      "confidence": 0.4717,
+      "low_confidence": true
+    }
+  },
+  "raw_text": "4\nNIVOV 3w03 3S131d\n00\nnOA XNVHL\n6S 0\n166\n%9\nYS\n(wJ)xel\n(wyhunouv\nKuewuns ISS\nSl\n(SJuall Ieiol\n00 0\nena Abuey3\nOS 01\nJuaufed\nO 01\n1SO jo\nIeio1\nOC 01\nIelolqns\n4S\nOG 01\n02 0\nX\nSON 00 SL\nINO3 238\napoj\nWY\n1S7\n#Jaiysej\nZv Zl 8l0zizo/8o\nDieq\n8GEtz S3\nON ajio4UI\n331ONNI XVL\n8965L069100.\nON\nJSD\n(1-19olEzzoo)\nON\nKuedulo?\nL6lL 8C29-80\nLG1L 8z9-E0\nON\n8 131\nVISAVIVW\n'Jndun] Bienx @Ozlg\n5 nipa 4od ueier\n'abe1V neg HIO bueduis\nLON\nONIQVUL a8vmaYVh OHL JN3S WI7\n'{io 60 8 €\nIzui\n6ay\n6ay\nxe]"
+}

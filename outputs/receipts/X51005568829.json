@@ -1,0 +1,73 @@
+{
+  "receipt_id": "X51005568829",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005568829.jpg",
+  "fields": {
+    "store_name": {
+      "value": "Nz JA AN PUTERI 2/4",
+      "confidence": 0.7768,
+      "low_confidence": false
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.4968,
+      "low_confidence": true
+    },
+    "items": {
+      "value": [
+        {
+          "name": "Nz JA AN PUTERI 2/",
+          "price": 4.0
+        },
+        {
+          "name": "O6S BRAISED",
+          "price": 6.0
+        },
+        {
+          "name": "32 PHRANAKON",
+          "price": 32.0
+        },
+        {
+          "name": "61 GARLiC Fried",
+          "price": 61.0
+        },
+        {
+          "name": "84 THAI STYLE",
+          "price": 84.0
+        },
+        {
+          "name": "KERABUTOFU M1|",
+          "price": 1.0
+        },
+        {
+          "name": "130 PLAINRIC,F",
+          "price": 130.0
+        },
+        {
+          "name": "113COCONUT",
+          "price": 113.0
+        },
+        {
+          "name": "116 DISTILLED",
+          "price": 116.0
+        },
+        {
+          "name": "106B COLD",
+          "price": 106.0
+        }
+      ],
+      "confidence": 0.8068,
+      "low_confidence": false
+    },
+    "total_amount": {
+      "value": 9514.0,
+      "confidence": 0.7768,
+      "low_confidence": false
+    },
+    "ocr_mean_confidence": {
+      "value": 0.7707,
+      "confidence": 0.7707,
+      "low_confidence": false
+    }
+  },
+  "raw_text": "Nz JA AN PUTERI 2/4\nBANDAR PUTERI\n47100 PUCHONG, SELANGOR\n03-8051 9514\nBIll No\n01-36870\nTable\nDate\nAJ\nCashler\n123\nPax\nDeacription\nFtke\nMoult\nO6S BRAISED\n20.00\nPORK LEG SMALL\nm\niawiian\n2\n32 PHRANAKON\n28.00\n28.00\nSALTEDEGG\nSQUID +n\n3\n61 GARLiC Fried\n13.00\n13.00\nKAILAN\nnum\n\"Mtlli\n84 THAI STYLE\n15.00\n15.00\nKERABUTOFU M1|\n01\n5\n130 PLAINRIC,F\n80\n7.20\n113COCONUT\n6.50\n50\nTHAI\n116 DISTILLED\n60\n60\nWATER\n106B COLD\n2 50\n50\nPANDAN GINGER\nTEA\notal\n92.80\nGrand Total\n92.80\nCash Received\n0o.c\nChange\n7.20\nAVERAGE /PAX(S) =\n23.20\nThank You: Please Come Again:"
+}

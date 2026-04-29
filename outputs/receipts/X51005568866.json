@@ -1,0 +1,49 @@
+{
+  "receipt_id": "X51005568866",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005568866.jpg",
+  "fields": {
+    "store_name": {
+      "value": "POPULAR",
+      "confidence": 0.7635,
+      "low_confidence": false
+    },
+    "date": {
+      "value": "2017-08-20",
+      "confidence": 0.7785,
+      "low_confidence": false
+    },
+    "items": {
+      "value": [
+        {
+          "name": "Ja lan 7/[188,",
+          "price": 188.0
+        },
+        {
+          "name": "SPGC",
+          "price": 2017.0
+        },
+        {
+          "name": "25 AUg",
+          "price": 25.0
+        },
+        {
+          "name": "3 Sept",
+          "price": 2017.0
+        }
+      ],
+      "confidence": 0.8535,
+      "low_confidence": false
+    },
+    "total_amount": {
+      "value": 2017.0,
+      "confidence": 0.7635,
+      "low_confidence": false
+    },
+    "ocr_mean_confidence": {
+      "value": 0.7411,
+      "confidence": 0.7411,
+      "low_confidence": false
+    }
+  },
+  "raw_text": "POPULAR\nBook\nco.\n(M)\nSDN\nBHD\n(Co.\nNo,\n113825-W)\n(GST Reg\nNo_\n001492992000 )\nNo\n8 ,\nJa lan 7/[188,\nDesa\nTun\nRazak\n56000 Kuala\nLumpur,\nMa laysia\nCHERAS   LEISURE MALL\nTe\n03-91322435/437\nHega Bookfair\n0\nSPGC 2017\nSunvav Pyranid Convention Gentre\n25 AUg\n3 Sept 2017\n20/08/17 12:48\nSlip No.\n9020374893\nYen Lee\nTrans :\n304168\nMember\nCard\nNo :\n2002008362249\nCard Expiry:\n31/08/20\nDeseriplion\nAmount\nH ' MAn\nGLASS\nPAPER\nApc\n1. 40\n5.60 T\nHenber Discount\n~0. 56\nTotal\nRM Incl.\nof\nGST\n5. 04\nRounding Adj\n0. 01\nTota]\nRM\n5. 05\nCash\n-10. 00\nCHANGE\n4.95\nItem Count\nGST Summaiy\nAmoun &\nRM )\nTax\n(RM)\nT\"\n0\n6 %\n4 .75\n0.29\nTota |\nSavings\n~0.56\nBE\nA\nPUPULAR\nCARD MEMBER\nAnd EnJoy SPEC[AL  DISCOUNTS\n'[hank\nYul_\nPLKASE come\nAGA [N .\nwWw\npopu lar _\n@(I _\nmY\n(hinese books\n(n | ine\nWVV popularon] ine. Con: By\nBuy"
+}

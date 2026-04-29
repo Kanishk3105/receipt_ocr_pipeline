@@ -1,0 +1,73 @@
+{
+  "receipt_id": "X51005568890",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005568890.jpg",
+  "fields": {
+    "store_name": {
+      "value": "ujebe Quo? Osbald 8 i nOK yueyl",
+      "confidence": 0.5738,
+      "low_confidence": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.1888,
+      "low_confidence": true
+    },
+    "items": {
+      "value": [
+        {
+          "name": "ujebe Quo? Osbald 8 i nOK yueyl",
+          "price": 8.0
+        },
+        {
+          "name": "Qo",
+          "price": 5.0
+        },
+        {
+          "name": "Ipv 6upunod",
+          "price": 6.0
+        },
+        {
+          "name": "IB1O]",
+          "price": 1.0
+        },
+        {
+          "name": "C1O\" !",
+          "price": 1.0
+        },
+        {
+          "name": "9QTdIIUMDId $",
+          "price": 9.0
+        },
+        {
+          "name": "3TTOANXHI",
+          "price": 3.0
+        },
+        {
+          "name": "ZL9z Oe +5-€o9+",
+          "price": 9.0
+        },
+        {
+          "name": "'JvD3S NVWVL",
+          "price": 3.0
+        },
+        {
+          "name": "2 SiNvm",
+          "price": 2.0
+        }
+      ],
+      "confidence": 0.6038,
+      "low_confidence": true
+    },
+    "total_amount": {
+      "value": 599.0,
+      "confidence": 0.4688,
+      "low_confidence": true
+    },
+    "ocr_mean_confidence": {
+      "value": 0.3196,
+      "confidence": 0.3196,
+      "low_confidence": true
+    }
+  },
+  "raw_text": "1\nujebe Quo? Osbald 8 i nOK yueyl\n(D) %\n8z\" 0\n{l &\n18101\n0u\n{7 (\nCL #\nUS\nUS\n\"(Wvzhtig }\n15\nHWV JOn\n%\nAp0)\nneWWns TSS\nQo 5\n0o 5\nQJu 0\nIpv 6upunod\nWI 0\n'1u110351C\nOjO\nIB1O]\n:edL\n5\n(53d0g)\n4S 00 5\nC1O\" !\n9QTdIIUMDId $\n#Wud\nuouduosac)\nMO\nLysp)\nJelysb)\n0 - 0J\n#\nWd Vilv# Llotiltco\n6+599\n#82\n3TTOANXHI\nLSO\nZL9z Oe +5-€o9+\n'JvD3S NVWVL\n2 SiNvm\nXps VSSQ [ OO\n'ON\nM\n6e8"
+}

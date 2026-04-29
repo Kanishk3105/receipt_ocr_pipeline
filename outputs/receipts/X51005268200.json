@@ -1,0 +1,69 @@
+{
+  "receipt_id": "X51005268200",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005268200.jpg",
+  "fields": {
+    "store_name": {
+      "value": "AIK",
+      "confidence": 0.6652,
+      "low_confidence": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.2802,
+      "low_confidence": true
+    },
+    "items": {
+      "value": [
+        {
+          "name": "JaLAn SE11A Invah",
+          "price": 11.0
+        },
+        {
+          "name": "(X) U13/x, SETIA ALAH",
+          "price": 13.0
+        },
+        {
+          "name": "SESYEN 013_",
+          "price": 13.0
+        },
+        {
+          "name": "~Lekzzo",
+          "price": 9.0
+        },
+        {
+          "name": "TEL",
+          "price": 12.0
+        },
+        {
+          "name": "6651783 FAx;'U",
+          "price": 5.0
+        },
+        {
+          "name": "DAfe: 45/06/",
+          "price": 2017.0
+        },
+        {
+          "name": "1.6kG X suohh",
+          "price": 1.6
+        },
+        {
+          "name": "BIG STRETCH FILH ?",
+          "price": 22.0
+        }
+      ],
+      "confidence": 0.7552,
+      "low_confidence": false
+    },
+    "total_amount": {
+      "value": 67.0,
+      "confidence": 0.6652,
+      "low_confidence": true
+    },
+    "ocr_mean_confidence": {
+      "value": 0.5227,
+      "confidence": 0.5227,
+      "low_confidence": true
+    }
+  },
+  "raw_text": "AIK\nHuAT\nHARDWekE\nENTERFRISE\n(SETIA\nALAM)\nSDN\nBHD\n822737-X\nNo .\n17-6\nJaLAn SE11A Invah\n(X) U13/x, SETIA ALAH\nSESYEN 013_\n'40170 Shah\n~Lekzzo9\nTEL: 012\n6651783 FAx;'U5\nGST\nNo; 0u0394528768\nSIHFLIF]ED TAX INHUICE\nCaSh\nRECETPT ## CSP0393921\nDAfe: 45/06/2017\nSALESPERSOH\nAhiq0z\nTIME; 15:28;00\nITEH\nQTY\nwX\nAMQuNT\n(Rm\nRm\n2000160000024\n15\n20\"\n1.6kG X suohh\nBIG STRETCH FILH ?22\nJTAL QUANTITY\nSue- (uTAL _ (Usf)\nWISC\nRUUNdI NG\n1\n1\n3.88\nCHANGE\nXGST @ 67 INLLUDE@ IN TOTAL\nGST SUMHARY\nAHOun (\nk\nTax/ahT\ncODE\n14.15\n0.85\nSR\n(AX Tutal:\n0.85\nYoU FUR CAASMc U\n5j\n1\nErCanG\nBE WN CRIClA StatE /0 BE\nFUR BRCHANGE\nTHAN\nGXODS\nERTITLED"
+}

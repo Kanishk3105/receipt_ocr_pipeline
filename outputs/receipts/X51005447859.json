@@ -1,0 +1,73 @@
+{
+  "receipt_id": "X51005447859",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005447859.jpg",
+  "fields": {
+    "store_name": {
+      "value": "PASARAYA BORONG PINTAR",
+      "confidence": 0.859,
+      "low_confidence": false
+    },
+    "date": {
+      "value": "2018-02-14",
+      "confidence": 0.829,
+      "low_confidence": false
+    },
+    "items": {
+      "value": [
+        {
+          "name": "(124525-H)",
+          "price": 124525.0
+        },
+        {
+          "name": "NO 19-G8 19-1819-2 JALAN TASIK UTAMA",
+          "price": 4.0
+        },
+        {
+          "name": "016-5498845.",
+          "price": 5498845.0
+        },
+        {
+          "name": "14/02/",
+          "price": 2018.0
+        },
+        {
+          "name": "5.37 44PM",
+          "price": 44.0
+        },
+        {
+          "name": "TRN: CROO0514O",
+          "price": 514.0
+        },
+        {
+          "name": "COUNTER",
+          "price": 4.0
+        },
+        {
+          "name": "CASHIER;",
+          "price": 2.0
+        },
+        {
+          "name": "1OOPLUS LIME 325ML",
+          "price": 325.0
+        },
+        {
+          "name": "ZRL -0 %",
+          "price": 0.0
+        }
+      ],
+      "confidence": 0.904,
+      "low_confidence": false
+    },
+    "total_amount": {
+      "value": 8.0,
+      "confidence": 0.814,
+      "low_confidence": false
+    },
+    "ocr_mean_confidence": {
+      "value": 0.8532,
+      "confidence": 0.8532,
+      "low_confidence": false
+    }
+  },
+  "raw_text": "PASARAYA BORONG PINTAR\nSDN BHD\nBR No\n(124525-H)\nNO 19-G8 19-1819-2 JALAN TASIK UTAMA 4\nMEDAN NIAGA TASIK DAMAI\n016-5498845.\nGST No\n14/02/2018\n5.37 44PM\nTAX INVOICE\nTRN: CROO0514O\nCOUNTER 4\nCASHIER; 2\nQTY UOM\nUNITAmt Exc\nAmt Inc.\nGST\nPrice\nTax\nTax Code\n1OOPLUS LIME 325ML\nWALK\n1.45\n1 45\n1.45\nZRL\n\"Total Qty: 1.00\n1.45\nTotal Includes @8T 0%/\n1.46\nCustomers Payment\nCash\n10.00\nChange\n8.55\nOST Summary\nAmount (RM)\nTax (RM)\nZRL -0 %\n1.46\n00\n\"Goods sold are not returnable\nThank you for shopping at\nPASARAYA\nBORONG PINTAR SDN BHD"
+}

@@ -1,0 +1,81 @@
+{
+  "receipt_id": "X51005447840",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005447840.jpg",
+  "fields": {
+    "store_name": {
+      "value": "PASARAYA BORONG PINTAR",
+      "confidence": 0.863,
+      "low_confidence": false
+    },
+    "date": {
+      "value": "2018-03-14",
+      "confidence": 0.833,
+      "low_confidence": false
+    },
+    "items": {
+      "value": [
+        {
+          "name": "BR No ' (124525-H)",
+          "price": 124525.0
+        },
+        {
+          "name": "NO 19-G8 19-1819-2 JALAN TASIK UTAMA",
+          "price": 4.0
+        },
+        {
+          "name": "016-5498845,",
+          "price": 5498845.0
+        },
+        {
+          "name": "14/03/2018 557.O7PM",
+          "price": 7.0
+        },
+        {
+          "name": "TRN; CR",
+          "price": 8964.0
+        },
+        {
+          "name": "COUNTER",
+          "price": 3.0
+        },
+        {
+          "name": "CASHIER",
+          "price": 1.0
+        },
+        {
+          "name": "WALL'S TOPTEN CHOCOLATE 73ML",
+          "price": 73.0
+        },
+        {
+          "name": "WALL'S TOPTEN CHOCOLATE 7JML",
+          "price": 7.0
+        },
+        {
+          "name": "MAGNUM ALMOND 9OML",
+          "price": 9.0
+        },
+        {
+          "name": "Cloud 9 plua",
+          "price": 229.0
+        },
+        {
+          "name": "ZRL = 0 %",
+          "price": 0.0
+        }
+      ],
+      "confidence": 0.908,
+      "low_confidence": false
+    },
+    "total_amount": {
+      "value": 5498845.0,
+      "confidence": 0.938,
+      "low_confidence": false
+    },
+    "ocr_mean_confidence": {
+      "value": 0.8623,
+      "confidence": 0.8623,
+      "low_confidence": false
+    }
+  },
+  "raw_text": "PASARAYA BORONG PINTAR\nSDN BHD\nBR No ' (124525-H)\nNO 19-G8 19-1819-2 JALAN TASIK UTAMA 4\nMEDAN NIAGA TASIK DAMAI\n016-5498845,\nGST No\n14/03/2018 557.O7PM\nTAX INVOICE\nTRN; CR0008964\nCOUNTER 3\nCASHIER: 1\nQTY UOM\nUNIT Amt\nExc\nAmt\nInc,\nGST\nPrice\nTax\nTax Code\nWALL'S TOPTEN CHOCOLATE 73ML\nWALK\n1.60\n1.60\n1\n60\nZRL\nWALL'S TOPTEN CHOCOLATE 7JML\nWALK\n60\n1.60\n1\n60\nZRL\nMAGNUM ALMOND 9OML\nWALK\n4.50\n4.50\n4 50\nZRL\nCloud 9 plua 229\nWALK\n0.50\n50\n0.50\nZRL\n\"Total\n4.00\n8 20\nTotal Includes GST O%\n8.20\nCustomers Pavment\nCash\n20.20\nChange\n12.00\nGST Summary\nAmount (RM)\nTax (RM)\nZRL = 0 %\n20\n0.00\n\"Goods sold are not returnable\nThank Yu for shopping at PASARAYA\nBORONG PINTAR SDN BHD\nQty:"
+}

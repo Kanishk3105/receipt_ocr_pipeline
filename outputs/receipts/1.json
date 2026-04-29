@@ -1,0 +1,81 @@
+{
+  "receipt_id": "1",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\1.jpg",
+  "fields": {
+    "store_name": {
+      "value": "TRADER JOE 'S",
+      "confidence": 0.7675,
+      "low_confidence": false
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.3375,
+      "low_confidence": true
+    },
+    "items": {
+      "value": [
+        {
+          "name": "2001,Greenv{ IJe Ave",
+          "price": 2001.0
+        },
+        {
+          "name": "Store #",
+          "price": 403.0
+        },
+        {
+          "name": "OPEN 8:OOAh TO 9:OOFh DAILY",
+          "price": 9.0
+        },
+        {
+          "name": "CARRQTS SHREDDED 10",
+          "price": 2.0
+        },
+        {
+          "name": "1 Le",
+          "price": 1.0
+        },
+        {
+          "name": "4E584EAG",
+          "price": 584.0
+        },
+        {
+          "name": "4CT",
+          "price": 4.0
+        },
+        {
+          "name": "A-APPLE BAG \" JAZZ 2 LB",
+          "price": 2.0
+        },
+        {
+          "name": "3FA",
+          "price": 3.0
+        },
+        {
+          "name": "29/EA",
+          "price": 29.0
+        },
+        {
+          "name": "{6ex8-=",
+          "price": 8.0
+        },
+        {
+          "name": "12;34PM",
+          "price": 34.0
+        }
+      ],
+      "confidence": 0.7525,
+      "low_confidence": false
+    },
+    "total_amount": {
+      "value": 2814.0,
+      "confidence": 0.8425,
+      "low_confidence": false
+    },
+    "ocr_mean_confidence": {
+      "value": 0.6499,
+      "confidence": 0.6499,
+      "low_confidence": true
+    }
+  },
+  "raw_text": "TRADER JOE 'S\n2001,Greenv{ IJe Ave\nDa I Ias\nTX\n75206\nStore #403\n469) 334-0614\nOPEN 8:OOAh TO 9:OOFh DAILY\nCARRQTS SHREDDED 10 02\n~CUCUMBERS PERSTAN\n1 Le\nTOES CRUSHED No SaLT\nToES WHOLE No SAL\"\nH/BASIL\nORGANIC @D FLSHIoNED OATheAl\n|\nSPROUTED CA\n4E584EAG\n4CT\nA-AvocADOS HASS\nA-APPLE BAG \" JAZZ 2 LB\nA-PEPPER BELL EACH XL\nRED\nGROCERY NON TAXABLE\n0, 49\n0,87\nBANANAS ORGANIC\n3FA\n29/EA\nCREANY_SALTED PEANUT  BUTtER\n4.69\nWHL WHt PITABREAD\n38\nGROCERY NON TAXABLE\n2 @ 0.69\n68\nSUBTQTAL\n68\nTOTAL\nCASH\nCHANCE\nRyan\n{6ex8-=\n-2814\n12;34PM\n0403 04\nAT\nTHANK"
+}

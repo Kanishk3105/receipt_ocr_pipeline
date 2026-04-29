@@ -1,0 +1,93 @@
+{
+  "receipt_id": "X51005441401",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005441401.jpg",
+  "fields": {
+    "store_name": {
+      "value": "IREE",
+      "confidence": 0.7421,
+      "low_confidence": false
+    },
+    "date": {
+      "value": "2018-12-03",
+      "confidence": 0.8621,
+      "low_confidence": false
+    },
+    "items": {
+      "value": [
+        {
+          "name": "109 _",
+          "price": 109.0
+        },
+        {
+          "name": "SS21/1A _",
+          "price": 1.0
+        },
+        {
+          "name": "BIZDATE:   12/03/",
+          "price": 2018.0
+        },
+        {
+          "name": "12/03/2018 10;25;49 PM",
+          "price": 49.0
+        },
+        {
+          "name": "HH GUINESS   12 GLASSES",
+          "price": 12.0
+        },
+        {
+          "name": "150 ,",
+          "price": 0.0
+        },
+        {
+          "name": "HH TIGER  12 GLASSES",
+          "price": 12.0
+        },
+        {
+          "name": "145,",
+          "price": 0.0
+        },
+        {
+          "name": "295 .",
+          "price": 0.0
+        },
+        {
+          "name": "SERVICE CHARGE  10X",
+          "price": 10.0
+        },
+        {
+          "name": "29 ,",
+          "price": 50.0
+        },
+        {
+          "name": "GST 6X",
+          "price": 6.0
+        },
+        {
+          "name": "14\"Ur] f",
+          "price": 14.0
+        },
+        {
+          "name": "295 ,",
+          "price": 0.0
+        },
+        {
+          "name": "324,5n",
+          "price": 3245.0
+        }
+      ],
+      "confidence": 0.8321,
+      "low_confidence": false
+    },
+    "total_amount": {
+      "value": 1661886464.0,
+      "confidence": 0.7421,
+      "low_confidence": false
+    },
+    "ocr_mean_confidence": {
+      "value": 0.6935,
+      "confidence": 0.6935,
+      "low_confidence": true
+    }
+  },
+  "raw_text": "IREE\nSTOOGES\nBISTRO & CAFE\n109 _\nSS21/1A _\nDAMANSARA  UTAMA\nGST ID\n001661886464\nAKLE\nBAR\n7\nORDER\n00012916\nBIZDATE:   12/03/2018\nCASHIER=\nCASHIER\nDT\n12/03/2018 10;25;49 PM\nRM\nQTY ITEM\nAMUUM |\nHH GUINESS   12 GLASSES\n150 , 00\nHH TIGER  12 GLASSES\n145, 00\n2\nSUB   TOTAL\n295 . 00\nSERVICE CHARGE  10X\n29 , 50\nGST 6X\n19,47\nROUNDING ADJ\n~0,02\n'6\nIUTAL\n343,95\n14\"Ur] f\nAmount\nSVL\nEhv_\nLlnhuL\n(U\n295 , 00\nSR\nGS\nax\n324,5n\nThank\nAiil"
+}

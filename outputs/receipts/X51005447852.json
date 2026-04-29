@@ -1,0 +1,81 @@
+{
+  "receipt_id": "X51005447852",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005447852.jpg",
+  "fields": {
+    "store_name": {
+      "value": "99 SPEED HaRT S/B (519537-X )",
+      "confidence": 0.6751,
+      "low_confidence": true
+    },
+    "date": {
+      "value": "2018-02-20",
+      "confidence": 0.6901,
+      "low_confidence": true
+    },
+    "items": {
+      "value": [
+        {
+          "name": "99 SPEED HaRT S/B (519537-X )",
+          "price": 519537.0
+        },
+        {
+          "name": "LOT P,T, 2811,",
+          "price": 2811.0
+        },
+        {
+          "name": "4150 KLANG, SELANGOR",
+          "price": 4150.0
+        },
+        {
+          "name": "1249-THN Pandan cahaya",
+          "price": 1249.0
+        },
+        {
+          "name": "18314/102/",
+          "price": 10422.0
+        },
+        {
+          "name": "06: 2OPM",
+          "price": 2.0
+        },
+        {
+          "name": "20-02",
+          "price": 18.0
+        },
+        {
+          "name": "8991 NUTRI PLUS TELUR SEgAR",
+          "price": 8991.0
+        },
+        {
+          "name": "RNS .",
+          "price": 90.0
+        },
+        {
+          "name": "10. O",
+          "price": 0.0
+        },
+        {
+          "name": "G5T Suadsry",
+          "price": 5.0
+        },
+        {
+          "name": "2 *",
+          "price": 7.0
+        }
+      ],
+      "confidence": 0.7051,
+      "low_confidence": false
+    },
+    "total_amount": {
+      "value": 181747712.0,
+      "confidence": 0.5701,
+      "low_confidence": true
+    },
+    "ocr_mean_confidence": {
+      "value": 0.5447,
+      "confidence": 0.5447,
+      "low_confidence": true
+    }
+  },
+  "raw_text": "99 SPEED HaRT S/B (519537-X )\nLOT P,T, 2811,\nJalan Angsa,\nTAman  BERKELEY\n4150 KLANG, SELANGOR\n1249-THN Pandan cahaya\nGST  ID.\nNO\n8\n000181747712\nINVOICE  MQ\n8\n18314/102/10422\n06: 2OPM\n568008\n20-02-18\n8991 NUTRI PLUS TELUR SEgAR\nRNS . 90\n2\nTota] Sales (Inclusive GST)\nRm\n9.90\nCaSh RN\n10. O0\nCHANGE RM\n10\nG5T Suadsry\nAnount (RH)\nTax (RH)\n2 * 07\n9.90\nUQ\nThank You: Please cose\nKeep the iivoice for aplicable\nreturns\nagain"
+}

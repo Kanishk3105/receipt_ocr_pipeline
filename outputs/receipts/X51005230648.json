@@ -1,0 +1,45 @@
+{
+  "receipt_id": "X51005230648",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005230648.jpg",
+  "fields": {
+    "store_name": {
+      "value": "CROSS CHANNEL NETWORK SDN: BHD:",
+      "confidence": 0.6531,
+      "low_confidence": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.2681,
+      "low_confidence": true
+    },
+    "items": {
+      "value": [
+        {
+          "name": "JALAN MERANTI 1, SEK. 3,",
+          "price": 3.0
+        },
+        {
+          "name": "ECHNEIDER E163 134 SWITCH",
+          "price": 134.0
+        },
+        {
+          "name": "gwaxa8opmailcom",
+          "price": 8.0
+        }
+      ],
+      "confidence": 0.6831,
+      "low_confidence": true
+    },
+    "total_amount": {
+      "value": 9683.0,
+      "confidence": 0.5481,
+      "low_confidence": true
+    },
+    "ocr_mean_confidence": {
+      "value": 0.4958,
+      "confidence": 0.4958,
+      "low_confidence": true
+    }
+  },
+  "raw_text": "CROSS CHANNEL NETWORK SDN: BHD:\n47\nJALAN MERANTI 1, SEK. 3,\nBANDAR UTAMA BATANG KALJ ,\n44300 BATANG KALL, SELANGOR\nTel\n03-6057 9683\nFax\n03-6057 9578\nOstid\n001 16160924\nTax Invoko\nNo:\nBtg-052332\nAyy\nRM Tox\nECHNEIDER E163 134 SWITCH\n6.28\nSa\nSOCKET OUTLET\n6.00*\nTobal AmtInd,\nStnek\nGST\n6%\n6,36\nRoundimg\nTob\nFndoun:\nIqalay\n8\nGST Summary\nAmount\nRM)\n(RMR\nSRQA\n0.3\nTetel:\n69_\nTHVNNKYon\nGoodstokd are not refundiabk mr exchangetle\nFor any enqulry Please &-mall us:\ngwaxa8opmailcom\n29/0102018 4*40*40 PM"
+}

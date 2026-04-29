@@ -1,0 +1,61 @@
+{
+  "receipt_id": "X51005453802",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005453802.jpg",
+  "fields": {
+    "store_name": {
+      "value": "SDN BHD",
+      "confidence": 0.728,
+      "low_confidence": false
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.343,
+      "low_confidence": true
+    },
+    "items": {
+      "value": [
+        {
+          "name": "SR 1 9 SEK",
+          "price": 9.0
+        },
+        {
+          "name": "NQ 32 &",
+          "price": 33.0
+        },
+        {
+          "name": "110 + 9bnmn)",
+          "price": 9.0
+        },
+        {
+          "name": "\"Bad99 +) @ 0",
+          "price": 5500.0
+        },
+        {
+          "name": "GST 0 6*",
+          "price": 6.0
+        },
+        {
+          "name": "Sr.@4.",
+          "price": 4.0
+        },
+        {
+          "name": "C3wJzh)",
+          "price": 3.0
+        }
+      ],
+      "confidence": 0.758,
+      "low_confidence": false
+    },
+    "total_amount": {
+      "value": 5500.0,
+      "confidence": 0.848,
+      "low_confidence": false
+    },
+    "ocr_mean_confidence": {
+      "value": 0.6623,
+      "confidence": 0.6623,
+      "low_confidence": true
+    }
+  },
+  "raw_text": "1303\nSDN BHD\nSR 1 9 SEK\nNQ 32 & 33\nserI\n1536\nID\n002\nTex\nN_\nRm\nGy\nTer\n116 60 /\nSR\n1399\n110 + 9bnmn)\n\"Bad99 +) @ 0 5500\nSR\n4240 /\nName\nCip\nNarie Badga\n809\n100'8 @20\n00\nGST 0 6*\n\"Total At Ind\nRoundng\n159.00\nTotel\n200 00\nPaid\nQo\nChanoo\n202\nTotd Gty Tenda\nTer\nSummary\nAmount\nIRME\nGST\n9.00\n150.,90\n9.00\nSr.@4.\n150\nTotad\nYOu\nVS\nFor'\nInV\nC3wJzh)\nSTATKONERY\nHING\nUAN\n(162761M)\nSYEN\nJALAN\nRAYA\nSERDANG\nSELANGOR\nTAMAN\nKEMBANGAN\nEHSAN\n43300\nDARUL\n13920-\nGST\nInvoice\nCS-20322\n2018\n30.92:\n200\nDuratile\nMotal\nOooo\n159\nAdjustmont\nPayablo\nAmt \"\nAmount\n(Rm)\nT\ncoritad\nonoury"
+}

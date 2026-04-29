@@ -1,0 +1,61 @@
+{
+  "receipt_id": "X51005722699",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005722699.jpg",
+  "fields": {
+    "store_name": {
+      "value": "POPULAR",
+      "confidence": 0.6815,
+      "low_confidence": true
+    },
+    "date": {
+      "value": "1980-11-29",
+      "confidence": 0.6965,
+      "low_confidence": true
+    },
+    "items": {
+      "value": [
+        {
+          "name": "M3825-W",
+          "price": 3825.0
+        },
+        {
+          "name": "7 / |4ks ,",
+          "price": 4.0
+        },
+        {
+          "name": "56wuu",
+          "price": 56.0
+        },
+        {
+          "name": "0'3-4260 | OF; | '(F",
+          "price": 4260.0
+        },
+        {
+          "name": "#I:2ff (",
+          "price": 2.0
+        },
+        {
+          "name": "La4(",
+          "price": 4.0
+        },
+        {
+          "name": "4r. L()  . IJ",
+          "price": 4.0
+        }
+      ],
+      "confidence": 0.7115,
+      "low_confidence": false
+    },
+    "total_amount": {
+      "value": 4260.0,
+      "confidence": 0.6815,
+      "low_confidence": true
+    },
+    "ocr_mean_confidence": {
+      "value": 0.559,
+      "confidence": 0.559,
+      "low_confidence": true
+    }
+  },
+  "raw_text": "POPULAR\nBoOk\nCo.\n(M)\nSDN\nBHD\n((o .\no .\nM3825-W\n(GS\nKkex\nNo .\n00119299*00/ )\nI\nX,\naIar\n7 / |4ks ,\nI)csa\n'Ft\nKkazak\n56wuu\nKua [a\nI.pU' ,\nMa Iay $in\nAMPANG\nPOINT\nCENTRE\nTvl\n0'3-4260 | OF; | '(F\n11702/18 19:21\nSip No. :\n8030098553\nMohd\nNor\nAxm i\nTrans :\n79389\n[o '>ipt ior\n#I:2ff (\npk\nhv'$ 'Tape\nLa4(\n7'\nIl;;c\n1\n40 ' $\n'.96\nT'\nTotal\nRM\nInc ] ,\nof\nGST\n11. 80\nCash\n11,80\nMem\nCount\nGST Summary\nAmo)(m (\n(KM )\nTax\n(HRM )\nT @ 6%\n133\n0 . 67\nTotal\nSavings\n00\nBE\nPOPULAR\nCARD\nMEMBER\nAnd ENJOY SPECIAL\nDISCOUNTS\nThank\nYOl:\nPLKST\n(MI:\nAga f.\nWww. popu\n4r. L()  . IJ\n(kinese\nbooks\n( |ine\nVVW: Popularon] ine. con: my\nBuy"
+}

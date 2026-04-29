@@ -1,0 +1,73 @@
+{
+  "receipt_id": "X51005757304",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005757304.jpg",
+  "fields": {
+    "store_name": {
+      "value": "803OC",
+      "confidence": 0.7385,
+      "low_confidence": false
+    },
+    "date": {
+      "value": "2018-03-20",
+      "confidence": 0.7535,
+      "low_confidence": false
+    },
+    "items": {
+      "value": [
+        {
+          "name": "803OC",
+          "price": 803.0
+        },
+        {
+          "name": "#000002 EATFU,(N) SdnYEhd",
+          "price": 2.0
+        },
+        {
+          "name": "REG;OT\" CSH:ooooooo",
+          "price": 8.0
+        },
+        {
+          "name": "Piastic_spoons 8pcs",
+          "price": 8.0
+        },
+        {
+          "name": "17.70 SR",
+          "price": 17.7
+        },
+        {
+          "name": "Piastic_forks 8pcs",
+          "price": 8.0
+        },
+        {
+          "name": "17.70 SR",
+          "price": 17.7
+        },
+        {
+          "name": "RH",
+          "price": 3540.0
+        },
+        {
+          "name": "ITEHS SOLD",
+          "price": 6.0
+        },
+        {
+          "name": "GST (6.COOX)",
+          "price": 6.0
+        }
+      ],
+      "confidence": 0.7685,
+      "low_confidence": false
+    },
+    "total_amount": {
+      "value": 3540.0,
+      "confidence": 0.7835,
+      "low_confidence": false
+    },
+    "ocr_mean_confidence": {
+      "value": 0.6855,
+      "confidence": 0.6855,
+      "low_confidence": true
+    }
+  },
+  "raw_text": "803OC\n#000002 EATFU,(N) SdnYEhd\nCOMPANY\nNo(814198-XP\nDAISO JAPAN\nIOI MALL\nPhone 03-80753806\nGST  ID\nQ0\n)1389649920\nWELCOHE\nTax INVOICE\n20/03/2018 7 O7on RCPT No.18352\nREG;OT\" CSH:ooooooo8\n4997642045475\nPiastic_spoons 8pcs\n17.70 SR\n5.90 X\n3\n4997642045482\nPiastic_forks 8pcs\n17.70 SR\n5,90\nX\n3\nSUB  TOTAL (INcL ,\nGST )\n35. 40\nTOTAL\nRH 35,40\n50 , 00\nCASH\nCHHHGE\n14,60\nITEHS SOLD  6\nTax Code\nAmt(RM_\nGST (RM)\nGST (6.COOX)\n33.40\n2.00\nTHANK  YOU\"\n~PLEASE COME AGAIN"
+}

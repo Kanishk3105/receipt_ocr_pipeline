@@ -1,0 +1,45 @@
+{
+  "receipt_id": "X51005741944",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005741944.jpg",
+  "fields": {
+    "store_name": {
+      "value": "TAX",
+      "confidence": 0.8233,
+      "low_confidence": false
+    },
+    "date": {
+      "value": "2018-01-18",
+      "confidence": 0.7933,
+      "low_confidence": false
+    },
+    "items": {
+      "value": [
+        {
+          "name": "Cashier",
+          "price": 888.0
+        },
+        {
+          "name": "iniiniti 97 E4MP",
+          "price": 3.0
+        },
+        {
+          "name": "S; Standard 6%",
+          "price": 6.0
+        }
+      ],
+      "confidence": 0.8683,
+      "low_confidence": false
+    },
+    "total_amount": {
+      "value": 2828.0,
+      "confidence": 0.7783,
+      "low_confidence": false
+    },
+    "ocr_mean_confidence": {
+      "value": 0.7739,
+      "confidence": 0.7739,
+      "low_confidence": false
+    }
+  },
+  "raw_text": "TAX\nINVOICE\nBHPetro] Subang Airport\nJalan Lapangan Terbang Subang\n47200 Subang\nSelangor\nD 'Rosh Servport\nCO _\nREG ,\nNO;\n000948487-V\nGST REG ,\nNO;\n000768122880\n18-01-2018\n15.44:46\nCashier: 888\nInvoice Mo: 1-916166\nItem\nUFrice\nQnty Amount\niniiniti 97 E4MP3\n2,570\n16,32\n41 ,95 $\nTOTAL SALES\nRM\n41 ,95\nTOTAL AMOUNT PAYABLE\nRM\n41.95\nEDC   MASTER\nRM\n41.95\nESt SUMMARY\nAmount RM\nTax RM\nS; Standard 6%\n39.58\n2 .37\nECARD\nWonG TaI Chin\nCard fiumber\n7897139011585960\nIer:;riant\nNumber\nOOoO0  020 138429\nReference Nuiber\n199258579655\nA#ARD\nBa lance\n412\nEarned\n41\nNev Ba lance\n453\nEPOINTS Expiry\n24\n31/10/2020\n136\n30/11/2020\nThank You For Shopping At\nWPetromart\nCustcmer Service\n1-300-22-2828"
+}

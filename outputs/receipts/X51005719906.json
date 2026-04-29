@@ -1,0 +1,73 @@
+{
+  "receipt_id": "X51005719906",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005719906.jpg",
+  "fields": {
+    "store_name": {
+      "value": "Zen and",
+      "confidence": 0.7954,
+      "low_confidence": false
+    },
+    "date": {
+      "value": "2018-03-25",
+      "confidence": 0.9154,
+      "low_confidence": false
+    },
+    "items": {
+      "value": [
+        {
+          "name": "coffee 28 S/B",
+          "price": 28.0
+        },
+        {
+          "name": "No 53,",
+          "price": 53.0
+        },
+        {
+          "name": "Jalan 3/62A ,",
+          "price": 62.0
+        },
+        {
+          "name": "Number: 001363259392)",
+          "price": 1363.0
+        },
+        {
+          "name": "Date",
+          "price": 25.0
+        },
+        {
+          "name": "Mar 2018 9:27FM",
+          "price": 27.0
+        },
+        {
+          "name": "1 Saba shioyaki",
+          "price": 1.0
+        },
+        {
+          "name": "wazen (20mins)",
+          "price": 20.0
+        },
+        {
+          "name": "zenandcof fee8ecgmaiL, com",
+          "price": 8.0
+        },
+        {
+          "name": "FC",
+          "price": 8.0
+        }
+      ],
+      "confidence": 0.8254,
+      "low_confidence": false
+    },
+    "total_amount": {
+      "value": 2600.0,
+      "confidence": 0.7954,
+      "low_confidence": false
+    },
+    "ocr_mean_confidence": {
+      "value": 0.8119,
+      "confidence": 0.8119,
+      "low_confidence": false
+    }
+  },
+  "raw_text": "Zen and\ncoffee 28 S/B\nNo 53,\nJalan 3/62A ,\nBandar menjalara,\n52200\nKuala Lumpur_\n(GST\nNumber: 001363259392)\nDate: 25\nMar 2018 9:27FM\nReceipt\nNo;\n57269\nServed By:\nCashier\nPax:\n2\nTable:\nL2\n1 Saba shioyaki\nwazen (20mins)\n26,00 5\nUnagi don\n28.00 5\nSpicy ASARI Pasta\n19.00 $\nEbf Mentai Pasta\n22,00 5\nJasmine Green\nTea\n10.00 S\nExtra\n1\nTea\nSubtotal:\n105,00\nTotal:\n105,00\nCash:\n105,00\nChange:\n0,00\nGST\nSummary\nTax\nCode\nAount\nTax\nS @8\n99, 05\n5.95\nBusiness Hour\nMON-FRI\n1l:30am -10:00pm\nSAT_SUN\n11;00am--10:00pm\nTel: 03-62619337\nEmail:\nzenandcof fee8ecgmaiL, com\nFacebook:\nzenandcof fee\nInstagram: ZenAndCof fee\nWifi\nPassword:\nzenandcof fee\nThank  You _\nPLease\ncome\nagain.\nPawered by\nARMS\nFC8\n(w,anns-fnba COm)\nCup"
+}

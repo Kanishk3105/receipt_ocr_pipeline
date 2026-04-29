@@ -1,0 +1,77 @@
+{
+  "receipt_id": "X51005268408",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005268408.jpg",
+  "fields": {
+    "store_name": {
+      "value": "J-t",
+      "confidence": 0.6614,
+      "low_confidence": true
+    },
+    "date": {
+      "value": "2017-03-14",
+      "confidence": 0.6314,
+      "low_confidence": true
+    },
+    "items": {
+      "value": [
+        {
+          "name": "2811, JaLAR ANGSA;",
+          "price": 2811.0
+        },
+        {
+          "name": "1413-SETIA ALAH ?",
+          "price": 1413.0
+        },
+        {
+          "name": "657 ID,",
+          "price": 657.0
+        },
+        {
+          "name": "03;29Pm",
+          "price": 29.0
+        },
+        {
+          "name": "3573 PedIASURE COXLETE",
+          "price": 55.0
+        },
+        {
+          "name": "089 KILD ZuT",
+          "price": 89.0
+        },
+        {
+          "name": "Flis.5 2IH} BC",
+          "price": 2.0
+        },
+        {
+          "name": "4385 JohnSunS",
+          "price": 4385.0
+        },
+        {
+          "name": "PH;",
+          "price": 17.9
+        },
+        {
+          "name": "RhS. &",
+          "price": 9.0
+        },
+        {
+          "name": "Rria. %",
+          "price": 9.0
+        }
+      ],
+      "confidence": 0.6464,
+      "low_confidence": true
+    },
+    "total_amount": {
+      "value": 4385.0,
+      "confidence": 0.5114,
+      "low_confidence": true
+    },
+    "ocr_mean_confidence": {
+      "value": 0.4143,
+      "confidence": 0.4143,
+      "low_confidence": true
+    }
+  },
+  "raw_text": "J-t\n99 SPEED MArt S/8 {519537-X)\nLTT P,T,\n2811, JaLAR ANGSA;\nTAMaN BERKELEY\n41356 KLanG; SELANGOR\n1413-SETIA ALAH ?\n657 ID,\nHo\nQ00381747712\nINvOICE NJ\n18222/102/T034 1\n562936\n03;29Pm\n3573 PedIASURE COXLETE 55\n$\n089 KILD ZuT\nZING HEIRa JAT_\n} UEAT\n;\n2709\nNECK\n2883\n8S112\n$\nFlis.5 2IH} BC\n4385 JohnSunS\nRm\nTotb] Sales\n{\nInclusive\nRM\n07\nRourding Adjustaert\nRounding RK\nCaSh Rk   206,06\nRM\n30, 20\nGST Suaxary\nXL\nYou. Please core\ninvoice far\nKeep tte\n3-14-17\nPH;17.90\nR73#, 90\nRhG,JQ\nRhS. &9\nWIdE\nDISREY\nRria. %9\n187.78\nGST)\n189.20\ncange\nTax(RH)\nAaount(RH)\n9.81\n160.17\nagain\nretuctss\nThank\napplicable"
+}

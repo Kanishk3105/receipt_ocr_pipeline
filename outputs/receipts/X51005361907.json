@@ -1,0 +1,57 @@
+{
+  "receipt_id": "X51005361907",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005361907.jpg",
+  "fields": {
+    "store_name": {
+      "value": "TEQ HENG STAtI@NeRY & BQOKS",
+      "confidence": 0.7885,
+      "low_confidence": false
+    },
+    "date": {
+      "value": "2018-12-02",
+      "confidence": 0.9085,
+      "low_confidence": false
+    },
+    "items": {
+      "value": [
+        {
+          "name": "SIMPI IFIED T4X INVOICE",
+          "price": 4.0
+        },
+        {
+          "name": "Ik YELLOW 7OGRAMS",
+          "price": 7.0
+        },
+        {
+          "name": "ARTLINE",
+          "price": 70.0
+        },
+        {
+          "name": "CBE As SIZE 20 POCKETS REFILLABLE NEW",
+          "price": 20.0
+        },
+        {
+          "name": "EAGLE F4 120 NUMBERING FOOLSCAP",
+          "price": 120.0
+        },
+        {
+          "name": "{2diu",
+          "price": 2.0
+        }
+      ],
+      "confidence": 0.8785,
+      "low_confidence": false
+    },
+    "total_amount": {
+      "value": 9872.0,
+      "confidence": 0.7885,
+      "low_confidence": false
+    },
+    "ocr_mean_confidence": {
+      "value": 0.7966,
+      "confidence": 0.7966,
+      "low_confidence": false
+    }
+  },
+  "raw_text": "TEQ HENG STAtI@NeRY & BQOKS\n(001451637-M)\nNo. 53, JALAN BESAR, 45600 BATANG BERJUNTAI\nSELANGOR DARUL EHSAN\nTeL\n03-3271 9872\nFAX\n03-3271 9481\nGST No.\n000689913856\nSIMPI IFIED T4X INVOICE\nCASH\nReceijt No.\nCS1802/27714\nDate\n12/02/2018\n[TEM\nQTY\nUPP\nDISC%\nAMOUNT\n(RM)\n9555067700208\n10\n10.57\nQ.00\n105.66\nIk YELLOW 7OGRAMS\n9557583450025\n17.45\n0,00\n17.45 *\nPAPYRUS DARK COLOUR PAPER\n4974052801334\n2.70\nQ.00\n2.70 *\nARTLINE 70\n9557546953990\n0.85\n0.00\n0.85\nFASTER CXSN BALL PEN\n6924238702311\n2\n0.85\n0.00\n1.70\nCBE HANDYCUTTER\n9556655112694\n8,40\n0.00\n8.40\nCBE As SIZE 20 POCKETS REFILLABLE NEW\nCLEAR HOLDER\n9557369305006\n3.96\n0.00\n7.92\nEAGLE F4 120 NUMBERING FOOLSCAP\nBOOK\nTotal\n16\n144.68\nSUB-TOTAL\n144.88\nTOTAL\n8,68\nROUNDING\n-0.01\nTOTAI\nCASH\n'a35\nCHANGE\n0.00\nCST SUMMARY\nTAX CODE\nAMOUNT\nTAX\n(RM)\n(RM)\nSR\n6.00\n144.68\n8.68\nTOTAL\n144.68\n8.68\nNote'\nIndicated The Item Sold Has Been Related\nTo GST (GoOUs & Services Tax)\nGOODS SOLD ARE NOT RETURNABLE\nTHANK YOU,\nQty:\n~akrna\nTAX\nFER\n{2diu"
+}

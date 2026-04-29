@@ -1,0 +1,81 @@
+{
+  "receipt_id": "X51005605295",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005605295.jpg",
+  "fields": {
+    "store_name": {
+      "value": "61/60/27",
+      "confidence": 0.5359,
+      "low_confidence": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.1509,
+      "low_confidence": true
+    },
+    "items": {
+      "value": [
+        {
+          "name": "Is",
+          "price": 9.0
+        },
+        {
+          "name": "300 #wnhk)",
+          "price": 300.0
+        },
+        {
+          "name": "(LS9   IQHI) IHLOL",
+          "price": 9.0
+        },
+        {
+          "name": "THLOL9S",
+          "price": 9.0
+        },
+        {
+          "name": "IH 700J 391 SJ(8N)",
+          "price": 8.0
+        },
+        {
+          "name": "LJOS  7JJ10H) SJ(HN)",
+          "price": 10.0
+        },
+        {
+          "name": "Z60eOp [0ssSS6 # HJLI",
+          "price": 6.0
+        },
+        {
+          "name": "09LIzz6isioo",
+          "price": 6.0
+        },
+        {
+          "name": "DN Bau 1S",
+          "price": 9.0
+        },
+        {
+          "name": "Z8Gbz; XI",
+          "price": 8.0
+        },
+        {
+          "name": "Lzol !b4b (509)",
+          "price": 509.0
+        },
+        {
+          "name": "En5N",
+          "price": 33.0
+        }
+      ],
+      "confidence": 0.5659,
+      "low_confidence": true
+    },
+    "total_amount": {
+      "value": 700.0,
+      "confidence": 0.4309,
+      "low_confidence": true
+    },
+    "ocr_mean_confidence": {
+      "value": 0.2353,
+      "confidence": 0.2353,
+      "low_confidence": true
+    }
+  },
+  "raw_text": "61/60/27\nB[ :0i\n\"U!EB% 0UO) eseald\n'noa Xueyl\nIhhM\nHwwbh\nNHMEINIONHA\n62\" 0\n99 \"p\n89\n(HH)XhI\n(hH) LhH-__~\nJIHH\nIs9\n(\n:IJSHHJUId SHZII\n50 '0\n300 #wnhk)\n0z*9\nHSHJ\nStG\n(LS9   IQHI) IHLOL\nTHLOL9S\nIH 700J 391 SJ(8N)\n02' |\nLJOS  7JJ10H) SJ(HN)\nZ60eOp [0ssSS6 # HJLI\nW\n449\n09LIzz6isioo\nDN Bau 1S9\nZ8Gbz; XI\nLi:0\nBL/c0/zz\nLzol !b4b (509)\n[81\nIX\nOH\n(O9 407\nEn5N033\n@zox"
+}

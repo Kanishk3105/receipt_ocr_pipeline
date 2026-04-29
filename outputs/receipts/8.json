@@ -1,0 +1,97 @@
+{
+  "receipt_id": "8",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\8.jpg",
+  "fields": {
+    "store_name": {
+      "value": "bl:do ZLI:UJL #:WJL 629:a541",
+      "confidence": 0.5911,
+      "low_confidence": true
+    },
+    "date": {
+      "value": "2026-08-19",
+      "confidence": 0.6061,
+      "low_confidence": true
+    },
+    "items": {
+      "value": [
+        {
+          "name": "bl:do ZLI:UJL #:WJL 629:a",
+          "price": 541.0
+        },
+        {
+          "name": "asra1d",
+          "price": 1.0
+        },
+        {
+          "name": "#39hnn  Tu1ol",
+          "price": 1.0
+        },
+        {
+          "name": "XUL  7U10L",
+          "price": 10.0
+        },
+        {
+          "name": "UL ~9L\"'€",
+          "price": 3.0
+        },
+        {
+          "name": "SI *",
+          "price": 68.0
+        },
+        {
+          "name": "Tu10L",
+          "price": 10.0
+        },
+        {
+          "name": "7ulolens",
+          "price": 7.0
+        },
+        {
+          "name": "i2 Xur INOH LQizz",
+          "price": 2.0
+        },
+        {
+          "name": "Aaxunl ON4I 866s",
+          "price": 9.0
+        },
+        {
+          "name": "OLUHOL Juu4g ssoLL",
+          "price": 4.0
+        },
+        {
+          "name": "5903 1j8L LElBL",
+          "price": 8.0
+        },
+        {
+          "name": "KOl 3210 SX {95EC",
+          "price": 9.0
+        },
+        {
+          "name": "45 Uo4Gu[4sem",
+          "price": 4.0
+        },
+        {
+          "name": "N GLE9 [",
+          "price": 9.0
+        },
+        {
+          "name": "4o+04o",
+          "price": 41.0
+        }
+      ],
+      "confidence": 0.6211,
+      "low_confidence": true
+    },
+    "total_amount": {
+      "value": 5903.0,
+      "confidence": 0.4861,
+      "low_confidence": true
+    },
+    "ocr_mean_confidence": {
+      "value": 0.358,
+      "confidence": 0.358,
+      "low_confidence": true
+    }
+  },
+  "raw_text": "bl:do ZLI:UJL #:WJL 629:a541\nuTrbh\nauoj\nasra1d\ninox\n44541\n#39hnn  Tu1ol\nXUL  7U10L\n26\nUL ~9L\"'€ 3\n95\nXUL Yos*8 0\nO0\nSI *68\n168\nTu10L\nZ5 '8\nXHL\n19*98\n7ulolens\n3 %6'6\ni2 Xur INOH LQizz\n3 65'€\nNQINO dahj SZbEgz\n3\n3 2v'91\nAaxunl ON4I 866s9\n0 6p*9\nNuj J7Uk 0j3 609101\nOLUHOL Juu4g ssoLL\n3 6r*9\n5903 1j8L LElBL8\n3\n3 28 Z[\n62*6 0 €\n3 26'2\nKOl 3210 SX {95EC9\n3 61*9\ns8 JJ 616829\n5\n3 66\"32\nJaqwak XZ\nEzoog 0J\n'UD}uJOU\n45 Uo4Gu[4sem\nN GLE9 [\n629#\n4o+04o41\n857555"
+}

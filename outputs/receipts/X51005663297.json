@@ -1,0 +1,93 @@
+{
+  "receipt_id": "X51005663297",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005663297.jpg",
+  "fields": {
+    "store_name": {
+      "value": "3 (6 03 0 14",
+      "confidence": 0.7491,
+      "low_confidence": false
+    },
+    "date": {
+      "value": "2018-04-03",
+      "confidence": 0.8691,
+      "low_confidence": false
+    },
+    "items": {
+      "value": [
+        {
+          "name": "LOT 1-0-2, JLN 1/50,",
+          "price": 50.0
+        },
+        {
+          "name": "IVAN_KONG12@HOTMAIL.COM",
+          "price": 12.0
+        },
+        {
+          "name": "0192616 281 MR NEO",
+          "price": 281.0
+        },
+        {
+          "name": "CS",
+          "price": 677.0
+        },
+        {
+          "name": "BATU CEMENT (A} 6GOPCS",
+          "price": 6.0
+        },
+        {
+          "name": "80 Od",
+          "price": 80.0
+        },
+        {
+          "name": "3 Ou",
+          "price": 3.0
+        },
+        {
+          "name": "3 Qu",
+          "price": 3.0
+        },
+        {
+          "name": "1PAIR,",
+          "price": 1.0
+        },
+        {
+          "name": "'BENANG NYLON #",
+          "price": 18.0
+        },
+        {
+          "name": "16i.Oj)",
+          "price": 16.0
+        },
+        {
+          "name": "MMAN RULE TImBANG 18\"",
+          "price": 18.0
+        },
+        {
+          "name": "PAKU KAYU 1' (KFSIL)",
+          "price": 1.0
+        },
+        {
+          "name": "MAYBANK\" 5122 (148\"",
+          "price": 6723.0
+        },
+        {
+          "name": "Q6x",
+          "price": 6.0
+        }
+      ],
+      "confidence": 0.8391,
+      "low_confidence": false
+    },
+    "total_amount": {
+      "value": 6723.0,
+      "confidence": 0.7941,
+      "low_confidence": false
+    },
+    "ocr_mean_confidence": {
+      "value": 0.7091,
+      "confidence": 0.7091,
+      "low_confidence": false
+    }
+  },
+  "raw_text": "3 (6 03 0 14\nBEYOND BROTHERS HARDWARE\n(272981-V)\nLOT 1-0-2, JLN 1/50,\nDIAMCND SQUARE\nOFF JLN GCMBAK\n53000 KUALA LUMPUR\nTEL\n03-40211233\nFAX\n03-40223233\nIVAN_KONG12@HOTMAIL.COM\nGST ID\n001921974272\nTAXINVQICE\nBill To\nPDP UTEK (M) SDN BHD\nSEBELAH PETRONAS\nAMPANG\nNEAR TQ KPJ MIOSFITAL\n0192616 281 MR NEO\nDoc No.\nCS00067741\nDate\"\n1\n4/03/2018\nCashier\nUSER\nTime:\n16.37*00\nSalespersor\nRef.\n(GST)\n(GST)\nItern\nS'Price\nS/Price\nAmount\nTes\n11028'\n150.00\n158.00\n168.00\nSf\nBATU CEMENT (A} 6GOPCS\n11C48\n80 Od\n84 80\n160.60\nSF\nPASIR HALUS\n1000\nIt QO\n16 96\n101,76\nSa\nYTL CEMENT SOKG (NEVV PRICE)\n11036\n3 Ou\n3.18\n3 18\nSR\nKAPUR At\n10012\n3 Qu\n3.18\n6.36\nSft\nSALING TANGAN GGETAH\n1PAIR,\n1882\n2 0u\n2 12\n'12\nSF\n'BENANG NYLON #18\n2567\n16i.Oj)\n16 96\n'i6.86\nSR\nGERMANY SUDU PLASTER\n2564\n9u\n7 3J1\n7.31\nSK\nSUDU PLASTER KAYU (NORMAL)\n2888\n50\n477\n4 77\nSK\nPAPAN SIMEI (HITAM)\n1621\n19 9C\n21 0g\n21 09\nSR\nMMAN RULE TImBANG 18\"\n3879\n100 00\n106. O0\n106 0Q\nSf\nKERETA TOLAK HD OREN)\n3416\n20\n1.27\n1 27\nSir\nPAKU KAYU 1' (KFSIL)\n3432\nQ0\n0o\n0.0G\nSir\nMAYBANK\" 5122 (148\" 6723\nToial Cty\n20\n599.43\nTotal Sal-s (\nExcludirig (ST )\n565, 50\nDiscount\n0 00\nD\notal GST\n3393\nRoundirig\n02\nKales (Inclusive of GST)\n599.45\nCAsH\n599.45\nChange\n0.00\nGST SUMMARY\nIex Gode\nAnLIRM\nIax(RM)\nSR\n565.50\n33,93\nTnfal\nECI {^\n93\nQ6x"
+}

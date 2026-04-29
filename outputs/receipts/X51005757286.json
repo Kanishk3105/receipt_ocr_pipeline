@@ -1,0 +1,85 @@
+{
+  "receipt_id": "X51005757286",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005757286.jpg",
+  "fields": {
+    "store_name": {
+      "value": "uiebv auio) aseald",
+      "confidence": 0.5826,
+      "low_confidence": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.1976,
+      "low_confidence": true
+    },
+    "items": {
+      "value": [
+        {
+          "name": "%00 9=US",
+          "price": 9.0
+        },
+        {
+          "name": "Heuuns jS",
+          "price": 5.0
+        },
+        {
+          "name": "7V101 JJN",
+          "price": 101.0
+        },
+        {
+          "name": "'Ie1oL gns",
+          "price": 1.0
+        },
+        {
+          "name": "S77I40 4J",
+          "price": 8800.0
+        },
+        {
+          "name": "4S. 0n",
+          "price": 8.0
+        },
+        {
+          "name": "35iJa\"",
+          "price": 35.0
+        },
+        {
+          "name": "Ki6\"",
+          "price": 6.0
+        },
+        {
+          "name": "SG6StE-TQ",
+          "price": 6.0
+        },
+        {
+          "name": "LS9)",
+          "price": 9.0
+        },
+        {
+          "name": "J3IONNI XVL",
+          "price": 3.0
+        },
+        {
+          "name": "9602 ELE-ZiOaL",
+          "price": 9602.0
+        },
+        {
+          "name": "3UYMaJVH daMOd Hf",
+          "price": 3.0
+        }
+      ],
+      "confidence": 0.6126,
+      "low_confidence": true
+    },
+    "total_amount": {
+      "value": 9909.0,
+      "confidence": 0.4776,
+      "low_confidence": true
+    },
+    "ocr_mean_confidence": {
+      "value": 0.3391,
+      "confidence": 0.3391,
+      "low_confidence": true
+    }
+  },
+  "raw_text": "uiebv auio) aseald\nYuPyl+ e++\nSb0\nSS\n%00 9=US\n(ivu)ei\n(Wa)junowy\nHeuuns jS5\n00 *8\npanazad YSe)\n00'8\n7V101 JJN\nQ6 0\nGjWV punoj\nO0 8\n'Ie1oL gns\nWWS'€\nS77I40 4J8800\n4S. 0n8\n00 &\nSSH VLSJIVW\npunoiv\n35iJa\"\nKi6\"\niloijdiiosad\nWd ZT:zp LIOZIo  /ot\naiea\nSG6StE-TQ\nON ajionu]\nZe8b9909+000 :ON\nLS9)\nJ3IONNI XVL\n9602 ELE-ZiOaL\njobuejas\nfuijejad 'OISLb\n'ejesueuea EJOx 'Aemuns ueuened\n'oi/s ntd uelet\nT-ET\nl-s898S+ZO0\nDNIOVdL\n3UYMaJVH daMOd Hf\nSeozobve\n'noa\n6a8\n'eke["
+}

@@ -1,0 +1,61 @@
+{
+  "receipt_id": "X51005453729",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005453729.jpg",
+  "fields": {
+    "store_name": {
+      "value": "SDN 8HD",
+      "confidence": 0.7185,
+      "low_confidence": false
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.3335,
+      "low_confidence": true
+    },
+    "items": {
+      "value": [
+        {
+          "name": "SDN 8HD",
+          "price": 8.0
+        },
+        {
+          "name": "SR 1",
+          "price": 9.0
+        },
+        {
+          "name": "No 32 &",
+          "price": 33.0
+        },
+        {
+          "name": "43jou Seri",
+          "price": 43.0
+        },
+        {
+          "name": "100 SR",
+          "price": 100.0
+        },
+        {
+          "name": "9Smin)",
+          "price": 9.0
+        },
+        {
+          "name": "Gst@ 6*",
+          "price": 6.0
+        }
+      ],
+      "confidence": 0.7485,
+      "low_confidence": false
+    },
+    "total_amount": {
+      "value": 9201.0,
+      "confidence": 0.7185,
+      "low_confidence": false
+    },
+    "ocr_mean_confidence": {
+      "value": 0.6411,
+      "confidence": 0.6411,
+      "low_confidence": true
+    }
+  },
+  "raw_text": "SDN 8HD\nVAN\nM)\nSR 1 9\nNo 32 & 33\nRAYA,\n43jou Seri\nKEMBANGAN_\nGST I0\n0021\nTax Invoice\nN\nCE:\n2792.2018\nTer\nRM\nOty\n100 SR\n110\n9Smin)\nDur alke\n({H) @ 0 5500\nNamo Badgo\nSR\nName Badga Cip\nMetal '\nioo: @ 20 O000\n79 50\nGst@ 6*\nAntt Ind\nRounding Adjustnient\n79 50\nTotal Aa Payablo\n100.00\nPaid Amount\n20 50\nChengo\n101\nTotd Gty\n\"OX\nSummary\nAmount\n(RM)\nGST\n(Rm)\n50\n15\n50\nSR\nTotl\n( Ia\nsnnuiy_nlaase\nFor mxv\n30303\nSTATKONERY\nHING\n162761 _\nSEKSTEN\nJALAN\nSERDANG\nSELANGOR\nAMAN\nEHSAN\nDARUL\n536\n\"9201=\n292412\n58 30\nH399\n21 20\n309\nTotal\nTonder\n@A\nYOU\nTHK\naniart"
+}

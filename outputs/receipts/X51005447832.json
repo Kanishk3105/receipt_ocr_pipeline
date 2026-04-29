@@ -1,0 +1,105 @@
+{
+  "receipt_id": "X51005447832",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005447832.jpg",
+  "fields": {
+    "store_name": {
+      "value": "PETRODELI EN[ERPRISE",
+      "confidence": 0.7593,
+      "low_confidence": false
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.3743,
+      "low_confidence": true
+    },
+    "items": {
+      "value": [
+        {
+          "name": "Sa0127959",
+          "price": 0.0
+        },
+        {
+          "name": "54200 Kuala Lumpur",
+          "price": 54200.0
+        },
+        {
+          "name": "03",
+          "price": 41056485.0
+        },
+        {
+          "name": "'Phon8oo",
+          "price": 935849562.0
+        },
+        {
+          "name": "39.",
+          "price": 42.0
+        },
+        {
+          "name": "Fuel Save",
+          "price": 95.0
+        },
+        {
+          "name": "85 54 C",
+          "price": 54.0
+        },
+        {
+          "name": "1 Itre",
+          "price": 1.0
+        },
+        {
+          "name": "85",
+          "price": 54.0
+        },
+        {
+          "name": "85 ,",
+          "price": 85.0
+        },
+        {
+          "name": "85 ,",
+          "price": 85.0
+        },
+        {
+          "name": "8b8884883789,",
+          "price": 888488378963.0
+        },
+        {
+          "name": "26 /02/",
+          "price": 18.0
+        },
+        {
+          "name": "08",
+          "price": 28.0
+        },
+        {
+          "name": "Ron9s",
+          "price": 9.0
+        },
+        {
+          "name": "(3)",
+          "price": 3.0
+        },
+        {
+          "name": "aga1r",
+          "price": 1.0
+        },
+        {
+          "name": "Corpanx3es",
+          "price": 3.0
+        }
+      ],
+      "confidence": 0.7893,
+      "low_confidence": false
+    },
+    "total_amount": {
+      "value": 888488378963.0,
+      "confidence": 0.8793,
+      "low_confidence": false
+    },
+    "ocr_mean_confidence": {
+      "value": 0.7317,
+      "confidence": 0.7317,
+      "low_confidence": false
+    }
+  },
+  "raw_text": "PETRODELI EN[ERPRISE\nNo\nSa0127959-0\nSite\nLoT\n485\nTMN LEMbaH KERAMAT\nJLN\nULu KelanG\n54200 Kuala Lumpur\nTe l e\n03- 41056485\nGST\n'Phon8oo935849562\nInvoice\nnumber\n60000152273\n39. 42\nIntre\n0\n09\nFuel Save 95\nRM\n85 54 C\n2\n170\nRM\n1 Itre\nTotal\nRM\n85 54\nVisa\nRM\n85 ,\nRe/ i ef\nCST\nRM\n0\n89\nTotal\nGross\nRM\n85 ,\nShel l\nCard\n8b8884883789,635\nPoints\nAwarded\n39\nOate\nfle\nNum\nOPT\n26 /02/18\n08 28\n10886\n09\nDiesel\nPetrol\nRon9s\nRelef\nunder SectI on\n(3)\n(b)\nGST\nAct\n2014\nThana\nYou\nPlease\ncome\naga1r\nCorpanx3es\nPunp"
+}

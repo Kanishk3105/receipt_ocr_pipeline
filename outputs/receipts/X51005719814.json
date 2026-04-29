@@ -1,0 +1,53 @@
+{
+  "receipt_id": "X51005719814",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005719814.jpg",
+  "fields": {
+    "store_name": {
+      "value": "KIKU",
+      "confidence": 0.7896,
+      "low_confidence": false
+    },
+    "date": {
+      "value": "2018-01-17",
+      "confidence": 0.9096,
+      "low_confidence": false
+    },
+    "items": {
+      "value": [
+        {
+          "name": "19-1,JALAN",
+          "price": 1.0
+        },
+        {
+          "name": "Sct",
+          "price": 10.0
+        },
+        {
+          "name": "TS",
+          "price": 2.0
+        },
+        {
+          "name": "RM 29 .",
+          "price": 29.0
+        },
+        {
+          "name": "RM 29.",
+          "price": 70.0
+        }
+      ],
+      "confidence": 0.8796,
+      "low_confidence": false
+    },
+    "total_amount": {
+      "value": 9722.0,
+      "confidence": 0.7896,
+      "low_confidence": false
+    },
+    "ocr_mean_confidence": {
+      "value": 0.799,
+      "confidence": 0.799,
+      "low_confidence": false
+    }
+  },
+  "raw_text": "KIKU\nJAPANESE\nRESTAURANT\nTK Division\nK |TCHEN\nSDN\nBHD\n1202152-P\n19-1,JALAN\nMAL INJA\n2\nTAMAN\nBUNGA\nRAYA\n53100\nSETAPAK, KUALA\nLUMPUR\nTEL _\n03-4161\n8936\nINVOICE\nInvoico\n.9722\nCash i er : admin\nPOS\nNo\nTab |0\nD3\nDate\n17/1/2018\n12.12:21\nPax: 0\nITEM\nOty\nU, P (RM)\ndisc (%)\nAmt (RM)\nChicken Katsu Bento\nBENO?\n12, 90\n0. 00\n12. 90\nOmu Curry\nFr ied Rice Set\nSct10\n6. 90\n0. 00\n6. 90\nKatau Don\n(F  sh) Set\nTS02\nKat\n9.90\n0. 00\n9.90\nSub Tota\nBefor e Discount\nRM 29 .\nSarv ice Charg0\nRM\n0.\no8\nTotal\nSa l0s\nRM 29. 70\nRound\nng Adjustment\nRM\n0. 00\nTOTAL\nRM\n29 .70\nCASH\nRM\n30. 00\nCHANGE\nRM\n0. 30"
+}

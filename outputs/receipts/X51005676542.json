@@ -1,0 +1,37 @@
+{
+  "receipt_id": "X51005676542",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005676542.jpg",
+  "fields": {
+    "store_name": {
+      "value": "3 | 8'01 013",
+      "confidence": 0.7972,
+      "low_confidence": false
+    },
+    "date": {
+      "value": "2017-12-29",
+      "confidence": 0.9172,
+      "low_confidence": false
+    },
+    "items": {
+      "value": [
+        {
+          "name": "NO 290,JALAN AIR PANAS,",
+          "price": 290.0
+        }
+      ],
+      "confidence": 0.8872,
+      "low_confidence": false
+    },
+    "total_amount": {
+      "value": 3015.0,
+      "confidence": 0.7972,
+      "low_confidence": false
+    },
+    "ocr_mean_confidence": {
+      "value": 0.8159,
+      "confidence": 0.8159,
+      "low_confidence": false
+    }
+  },
+  "raw_text": "3 | 8'01 013\nSYARIKAT PERNIAGAAN GIN KEE\n(81109-A)\nNO 290,JALAN AIR PANAS,\nSETAPAK\n53200, KUALA LUMPUR;\nTEL\n03-40210276\nGST ID\n000750673920\nSIMPLIFIED TAX INVOICE\nCASH\nDoc No.\nCSOO012465\nDate:\n29/12/2017\nCashier\nUSER\nTime:\n15 32*00\nSalesperson\nRef .\nItem\nSIPrice\nAmount\n3015\n10.60\n10 60\nSR\nG.I WIRE RMiO\nTotal\nT0.60\nTotal Sales (Excluding GST)\n10.00\nDiscount\nO.00\nTotal GST\n0.60\nRounding\n00\nTotal Sales (Inclusive of GST)\n10.60\nCASH\n10.60\nChange\n0.00\nGST SUMMARY\nTax Code\nAmt LRM)\nIax(RM\nSR\n10.00\n0.60\nTotal\n10.00\n0.60\nGOODS SOLD ARE NOT RETURNABLE, THANK YOU\nTax\nQty:"
+}

@@ -1,0 +1,73 @@
+{
+  "receipt_id": "X51005715007",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005715007.jpg",
+  "fields": {
+    "store_name": {
+      "value": "3-1708032",
+      "confidence": 0.8109,
+      "low_confidence": false
+    },
+    "date": {
+      "value": "2018-03-25",
+      "confidence": 0.8859,
+      "low_confidence": false
+    },
+    "items": {
+      "value": [
+        {
+          "name": "Lot No. L3-012, Level 3,",
+          "price": 3.0
+        },
+        {
+          "name": "6 , Jalan Cochrane ,",
+          "price": 6.0
+        },
+        {
+          "name": "Seksyen",
+          "price": 90.0
+        },
+        {
+          "name": "OOOoNTW-P2o",
+          "price": 867.0
+        },
+        {
+          "name": "Staff: 1710 Athirah",
+          "price": 1710.0
+        },
+        {
+          "name": "8.90 SR",
+          "price": 8.9
+        },
+        {
+          "name": "5,90 SR",
+          "price": 590.0
+        },
+        {
+          "name": "3.90 SR",
+          "price": 3.9
+        },
+        {
+          "name": "Tota1 (RM)",
+          "price": 1.0
+        },
+        {
+          "name": "EXCHANGE  OF GOODS  WITHIN 14 DAYS",
+          "price": 14.0
+        }
+      ],
+      "confidence": 0.8559,
+      "low_confidence": false
+    },
+    "total_amount": {
+      "value": 1870.0,
+      "confidence": 0.6609,
+      "low_confidence": true
+    },
+    "ocr_mean_confidence": {
+      "value": 0.7465,
+      "confidence": 0.7465,
+      "low_confidence": false
+    }
+  },
+  "raw_text": "3-1708032\nKAISON   FURNiSHiNG  SDN BHD\nLot No. L3-012, Level 3,\nMyTOWN Shopping Centre,\nNo\n6 , Jalan Cochrane ,\nSeksyen 90\n55100 Kua la Lumpur .\nCo . Reg No .\n(761834-D)\nGST  Reg No_\n001813975040\nTe] =\n03\n92017701\nSlip\nOOOoNTW-P2o00086706\nStaff: 1710 Athirah\nTrans: 1502102697\nDate:\n25-03-18 18.34\nDescription\nAmount (RH)\nItem\" No;=\n30000545\nPLASTIC TRAY-GLOSS R pcs\n8.90 SR\nItem No.\n30001916\nKEYCHAIn\nSCARF STA pCS\n5,90 SR\nItem No,\n30001918\nKEYCHAIN\nKniT SCAR pCS\n3.90 SR\nTota] RM\n18,70\nCASH (MYR)\n20 , 00\nChange\n1,30\nGSTX\nAmt (RM)\nGST (RM)\nTota1 (RM)\nSR\n6\n17.64\n1,06\n18,70\nGOODS   SOLD ARE   NON-CASH  REFUNDABLE .\nEXCHANGE  OF GOODS  WITHIN 14 DAYS\nACCOMPANIED BY ORIGINAL RECEIPT ,"
+}

@@ -1,0 +1,49 @@
+{
+  "receipt_id": "X51005711403",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005711403.jpg",
+  "fields": {
+    "store_name": {
+      "value": "RESTORAN WAN SHENG",
+      "confidence": 0.7998,
+      "low_confidence": false
+    },
+    "date": {
+      "value": "2018-03-19",
+      "confidence": 0.9198,
+      "low_confidence": false
+    },
+    "items": {
+      "value": [
+        {
+          "name": "No.2 , Jalan Temenggung 19/9_",
+          "price": 9.0
+        },
+        {
+          "name": "Seksyen",
+          "price": 9.0
+        },
+        {
+          "name": "GST  REG NO",
+          "price": 1335.0
+        },
+        {
+          "name": "Cham (8)",
+          "price": 8.0
+        }
+      ],
+      "confidence": 0.8898,
+      "low_confidence": false
+    },
+    "total_amount": {
+      "value": 2043.0,
+      "confidence": 0.7998,
+      "low_confidence": false
+    },
+    "ocr_mean_confidence": {
+      "value": 0.8217,
+      "confidence": 0.8217,
+      "low_confidence": false
+    }
+  },
+  "raw_text": "RESTORAN WAN SHENG\n002043319-W\nNo.2 , Jalan Temenggung 19/9_\nSeksyen 9\nBandar Mahkota Cheras_\n43200 Cheras\nSelangor\nGST  REG NO : 001335767520\nTax\nInvoice\nIn no, :\n1052580\nCashier : Thandar\nDate\n19-03-2018 M:12:15\nDescr ipt I0)\nQty\nU,pr ice\nTota| TAX\nTeh (B)\n2 *\n2.20\n4. 40\nSR\nCham (8)\n1X\n2,20\n2,20\nSR\nHerba |   Tea\n1X\n1,70\n1,70\nSR\nTake Away\n4 X\n0,20\n0,80\nSR\nTola| QTY;\n8\nTota| (Excluding GST ) ;\n8,59\nGST  payab Ie (GX) ;\nTota| (Inclusive of GST ) :\n8.58\n10\nTOTAL :\n9.10\nCASH\n9,10\nGST   Summary\nAmount (RM)\nTax(RM)\nSR\n(0 BX)\n8.59\n0,51"
+}

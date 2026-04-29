@@ -1,0 +1,105 @@
+{
+  "receipt_id": "X51005441408",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005441408.jpg",
+  "fields": {
+    "store_name": {
+      "value": "32 PUB",
+      "confidence": 0.7694,
+      "low_confidence": false
+    },
+    "date": {
+      "value": "2018-10-03",
+      "confidence": 0.8894,
+      "low_confidence": false
+    },
+    "items": {
+      "value": [
+        {
+          "name": "32 PUB",
+          "price": 32.0
+        },
+        {
+          "name": "78G ,",
+          "price": 78.0
+        },
+        {
+          "name": "JALAN SS21/62,",
+          "price": 62.0
+        },
+        {
+          "name": "47400 PETAL ING JAYA.",
+          "price": 47400.0
+        },
+        {
+          "name": "000416321536}",
+          "price": 416321536.0
+        },
+        {
+          "name": "10-03-2018 23:03",
+          "price": 6.0
+        },
+        {
+          "name": "HEINEKEN (5 BTL)",
+          "price": 5.0
+        },
+        {
+          "name": "190.",
+          "price": 0.0
+        },
+        {
+          "name": "10,",
+          "price": 75.0
+        },
+        {
+          "name": "190",
+          "price": 0.0
+        },
+        {
+          "name": "190. 00'",
+          "price": 0.0
+        },
+        {
+          "name": "Closed",
+          "price": 32.0
+        },
+        {
+          "name": "11-03",
+          "price": 2018.0
+        },
+        {
+          "name": "O0: 32",
+          "price": 2.0
+        },
+        {
+          "name": "200 . (",
+          "price": 10.0
+        },
+        {
+          "name": "10.",
+          "price": 0.0
+        },
+        {
+          "name": "(@@ 6%)",
+          "price": 6.0
+        },
+        {
+          "name": "10. TS",
+          "price": 10.0
+        }
+      ],
+      "confidence": 0.8594,
+      "low_confidence": false
+    },
+    "total_amount": {
+      "value": 416321536.0,
+      "confidence": 0.8894,
+      "low_confidence": false
+    },
+    "ocr_mean_confidence": {
+      "value": 0.7542,
+      "confidence": 0.7542,
+      "low_confidence": false
+    }
+  },
+  "raw_text": "32 PUB\n& BISTRO\nowri by CNU TRADING\n78G ,\nJALAN SS21/62,\nDAMANSARA UTAMA,\n47400 PETAL ING JAYA.\n(GST Reg.\nNo\n000416321536}\nTax\nInvoice\nTable\n5\nINV No.\n504233\nPax (s)\nDate\n10-03-2018 23:03: 06\nCashier =\nCHEN\nDescr ipt ion\nQty\nU: pr ice\nTotal\nTAX\nHEINEKEN (5 BTL)\n2\n95.00\n190. 00\nSR\nTotal\n(Excluding GST) =\n17.25\nGST Payable.\n10, 75\nTotal\n(Inclusive of GST) :\n190 00\nTOTAL:\n190. 00'\nClosed: 32\n11-03-2018\nO0: 32:02\nSer Veer\nCHEN\nCASH\n200 . (10\nCHANGE\n10. 00\nGST   Summary\nAmount (RM)\nTax (RM)\nSR\n(@@ 6%)\n10. TS\n###t\nThank  You\n#XXr\n0i\nin\n11.25"
+}

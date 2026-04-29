@@ -1,0 +1,85 @@
+{
+  "receipt_id": "X51005711442",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005711442.jpg",
+  "fields": {
+    "store_name": {
+      "value": "Cs '0",
+      "confidence": 0.6099,
+      "low_confidence": true
+    },
+    "date": {
+      "value": "2026-06-09",
+      "confidence": 0.6249,
+      "low_confidence": true
+    },
+    "items": {
+      "value": [
+        {
+          "name": "Lo'",
+          "price": 6.0
+        },
+        {
+          "name": "7v1OL",
+          "price": 1.0
+        },
+        {
+          "name": "(1S9 J0 @^LSnIDuI) (e",
+          "price": 101.0
+        },
+        {
+          "name": "(Js9 Bulpniox]) (BJOL",
+          "price": 9.0
+        },
+        {
+          "name": "'Alu [e",
+          "price": 101.0
+        },
+        {
+          "name": "(8) dox",
+          "price": 8.0
+        },
+        {
+          "name": "uO! JdLJ38ad",
+          "price": 38.0
+        },
+        {
+          "name": "01 : Lo zl 810z-80",
+          "price": 91.0
+        },
+        {
+          "name": "O3!O^UI",
+          "price": 3.0
+        },
+        {
+          "name": "Ozs LBLSESL 00 :ON 938 1S",
+          "price": 9.0
+        },
+        {
+          "name": "9ej04J OOzch",
+          "price": 4.0
+        },
+        {
+          "name": "6 ueksxas",
+          "price": 6.0
+        },
+        {
+          "name": "6/81  bunbouawe_ ueler",
+          "price": 81.0
+        }
+      ],
+      "confidence": 0.6399,
+      "low_confidence": true
+    },
+    "total_amount": {
+      "value": 938.0,
+      "confidence": 0.5049,
+      "low_confidence": true
+    },
+    "ocr_mean_confidence": {
+      "value": 0.3998,
+      "confidence": 0.3998,
+      "low_confidence": true
+    }
+  },
+  "raw_text": "Cs '0\nLo'6\n(X9 0\n8S\n(wu)xel\n(wY) zunowv\nKueins JSI\n09'6\nHSYA\n09\n6\n:7v1OL\n6\n(1S9 J0 @^LSnIDuI) (e101\n89\nL0'6\n(Js9 Bulpniox]) (BJOL\n8\n'Alu [e101\nHS\n08 ' 0\nOz' 0\nx |\nKeMv BMBL\n8S\nOp\nO2'&\nX7\n(0) Weyj\n8S\nOz'&\nOz' &\nX |\n(9) 4a]\n8S\n0z'Z\nOz ' Z\nX |\n(8) dox\nXHL (ezoj\na31Jd'0\nKz0\nuO! JdLJ38ad\n01 : Lo zl 810z-80-91\n0180\nJepueyl :Jalyse]\nEzGLpoi\n:'On ANI\nO3!O^UI\nXPj\nOzs LBLSESL 00 :ON 938 1S9\nJobue(OS\n9ej04J OOzch\nSeJaYJ Bioxybh Jrpueg\n6 ueksxas\n6/81  bunbouawe_ ueler\nz'On\nM-6L68p0z00\nJnJHS NVM NHHOJSJU"
+}

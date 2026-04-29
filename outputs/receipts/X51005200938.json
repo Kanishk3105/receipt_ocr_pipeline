@@ -1,0 +1,81 @@
+{
+  "receipt_id": "X51005200938",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005200938.jpg",
+  "fields": {
+    "store_name": {
+      "value": "Aoxpls",
+      "confidence": 0.6578,
+      "low_confidence": true
+    },
+    "date": {
+      "value": "2018-12-02",
+      "confidence": 0.6728,
+      "low_confidence": true
+    },
+    "items": {
+      "value": [
+        {
+          "name": "NO.59 JALAN PERMAS",
+          "price": 915.0
+        },
+        {
+          "name": "TEL . 07-386",
+          "price": 7524.0
+        },
+        {
+          "name": "Tlme:08.",
+          "price": 30.0
+        },
+        {
+          "name": "\"PRDVESS HIDUTY SILicoNE GUNG-D2_",
+          "price": 2.0
+        },
+        {
+          "name": "SR: 11\"",
+          "price": 11.0
+        },
+        {
+          "name": "SILICONE SA",
+          "price": 107.0
+        },
+        {
+          "name": "SET3PCS - 14\",5/82\".1/4\"",
+          "price": 4.0
+        },
+        {
+          "name": "50.DC",
+          "price": 50.0
+        },
+        {
+          "name": "3R24\"MARKSMAN PIPEWRENCH",
+          "price": 24.0
+        },
+        {
+          "name": "SR.24\"",
+          "price": 24.0
+        },
+        {
+          "name": "3OFVCWIRE TAPE IPCXTYD",
+          "price": 3.0
+        },
+        {
+          "name": "TT06.@c",
+          "price": 6.0
+        }
+      ],
+      "confidence": 0.6878,
+      "low_confidence": true
+    },
+    "total_amount": {
+      "value": 9744.0,
+      "confidence": 0.7778,
+      "low_confidence": false
+    },
+    "ocr_mean_confidence": {
+      "value": 0.5062,
+      "confidence": 0.5062,
+      "low_confidence": true
+    }
+  },
+  "raw_text": "Aoxpls\nPERNIAGAAN ZHeng KUI\nJM0326956-V\nNO.59 JALAN PERMAS915\nBANDAR BARU PERMASJAYA\nTEL . 07-386 7524\nGST NO\n000800589824\nSiMPLiFied TAX INVOICE_\n\"GOGIANT\n\"ENGINEERING (M) BDN\nRecelpi #:  C80d082662\n12/02/2018\nDale'\nSalespoison;\nTlme:08.30.30\nCaslier: USER\n(RM)\n(RM;\nAinoun\nIen\n{6,90\nS&\n8239\n\"PRDVESS HIDUTY SILicoNE GUNG-D2_\nSR: 11\"\n7.00\n8556076109147\nGa\nSILICONE SA-107\nSR; XTRASEAL RrV ACETIC\n18,00\n&2\n9744\nSET3PCS - 14\",5/82\".1/4\"\nSR: CENTRAL PUNCH\nSD,00\n50.DC\nGC\n3R24\"MARKSMAN PIPEWRENCH\nSR.24\"\n0.70\n21C\nGh\n3OFVCWIRE TAPE IPCXTYD\nTT06.@c\nToTai\nGST) Si Totat (RM)\n106.10\n(Excluded \"\nQ,QQ\nDiscout (RM}\nTotal GST {RM)\n637\n4.02\nRounding (RM}\nTotal (RM}\n142.46\nCASH\n612.48\nChange (Rm}\n0.00\nCST' SUMMARY\nAount_\nGSt\nTax Code_\n106.10\n6.37\n\"TR\n106.10\nToial\nSOLD ARENOT REFURNABLE\nTHANK YQU:\nBAHRU\nBHD\nRSP\nTioc\n2105\n12 @C\n6.57\nGOODS"
+}

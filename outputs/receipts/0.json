@@ -1,0 +1,57 @@
+{
+  "receipt_id": "0",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\0.jpg",
+  "fields": {
+    "store_name": {
+      "value": "WAL MART",
+      "confidence": 0.7549,
+      "low_confidence": false
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.3249,
+      "low_confidence": true
+    },
+    "items": {
+      "value": [
+        {
+          "name": "OPEN 24 HOURS",
+          "price": 24.0
+        },
+        {
+          "name": "ST# 5748 C#",
+          "price": 5748.0
+        },
+        {
+          "name": "OOOOOO004011KF",
+          "price": 4011.0
+        },
+        {
+          "name": "ee3sn",
+          "price": 3.0
+        },
+        {
+          "name": "8 Get",
+          "price": 8.0
+        },
+        {
+          "name": "lEEat8r Less _",
+          "price": 8.0
+        }
+      ],
+      "confidence": 0.7999,
+      "low_confidence": false
+    },
+    "total_amount": {
+      "value": 7828.2,
+      "confidence": 0.7549,
+      "low_confidence": false
+    },
+    "ocr_mean_confidence": {
+      "value": 0.622,
+      "confidence": 0.622,
+      "low_confidence": true
+    }
+  },
+  "raw_text": "WAL MART\nALWAYS\nLow\nPAICES_\nAlwave\nSUPERCENTER\nOPEN 24 HOURS\nMANACER\nTBA\n515\n986\n1783\nST# 5748 C#\n'06000956 TEX789 TR# 03178\nBANANAS\nOOOOOO004011KF\n0.41\nIb\n/0.49\n0_\nFRAP\n001260010431\n5.\n28 N\nDISCOUNT_ GIVEN\nSuBTOTAL\nGHSNGE\"\nDUE\n41\n# ITEMS SOLD\n2\nCT6,9,8348,6485.7828.2003\nIll\nTHANK\nNAlNi'\nee3sn\nWITH US\noi\nLErt\n8 Get\nFhcol _Liz\nlEEat8r Less _\nYOU\nFor\nehep"
+}

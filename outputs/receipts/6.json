@@ -1,0 +1,49 @@
+{
+  "receipt_id": "6",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\6.JPG",
+  "fields": {
+    "store_name": {
+      "value": "MOMI",
+      "confidence": 0.7485,
+      "low_confidence": false
+    },
+    "date": {
+      "value": "2015-01-26",
+      "confidence": 0.7635,
+      "low_confidence": false
+    },
+    "items": {
+      "value": [
+        {
+          "name": "Ma1",
+          "price": 1.0
+        },
+        {
+          "name": "@Tndmom",
+          "price": 1.0
+        },
+        {
+          "name": "Pax",
+          "price": 1.0
+        },
+        {
+          "name": "200, QQC",
+          "price": 200.0
+        }
+      ],
+      "confidence": 0.7785,
+      "low_confidence": false
+    },
+    "total_amount": {
+      "value": 2015.0,
+      "confidence": 0.7485,
+      "low_confidence": false
+    },
+    "ocr_mean_confidence": {
+      "value": 0.7077,
+      "confidence": 0.7077,
+      "low_confidence": false
+    }
+  },
+  "raw_text": "MOMI\n& ToYs\ncRepERIE\nLippemaag\nMa1 1\nvKenansa\nL\nInd\n(Inst\n@Tndmom 1\nCheck:\nPax: 1\nOP: Gunawan\nGunawan\nPOS  TItle: Cashier\nRcpt#:A15000001363\n26/01/2015 16:13\nWoman\nHam\n74, 000\nIce Java\nMinera\nWater\n65\nBlack\n&\nWhite\nX\nSUBTOTAL\n175, 000\nTOTAL\n176,000\nCASH\n200, QQC\nChange\n25, 000\n==\nCI\nB\n26/8192845848}\n14--\nThank_you for  tast Ing\nour\nMelt ingly Crepe\nNo.\nCheeseea"
+}

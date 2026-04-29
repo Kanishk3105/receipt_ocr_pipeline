@@ -1,0 +1,97 @@
+{
+  "receipt_id": "X51005433538",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005433538.jpg",
+  "fields": {
+    "store_name": {
+      "value": "I2Ma _",
+      "confidence": 0.6551,
+      "low_confidence": true
+    },
+    "date": {
+      "value": null,
+      "confidence": 0.2701,
+      "low_confidence": true
+    },
+    "items": {
+      "value": [
+        {
+          "name": "I2Ma _",
+          "price": 2.0
+        },
+        {
+          "name": "8t,t",
+          "price": 0.0
+        },
+        {
+          "name": "8a.20\"",
+          "price": 20.0
+        },
+        {
+          "name": "OS7' @8x",
+          "price": 8.0
+        },
+        {
+          "name": "S0.do",
+          "price": 0.0
+        },
+        {
+          "name": "A0zoY",
+          "price": 7.0
+        },
+        {
+          "name": "2018",
+          "price": 2018.0
+        },
+        {
+          "name": "(887388-U)",
+          "price": 887388.0
+        },
+        {
+          "name": "7/4,Kewasen =",
+          "price": 4.0
+        },
+        {
+          "name": "Tampoi,",
+          "price": 81200.0
+        },
+        {
+          "name": "0r",
+          "price": 18031202170432.0
+        },
+        {
+          "name": "700100000035',",
+          "price": 700100000035.0
+        },
+        {
+          "name": "I00+00000315'",
+          "price": 315.0
+        },
+        {
+          "name": "0656",
+          "price": 656.0
+        },
+        {
+          "name": "#o0cas",
+          "price": 8195584.0
+        },
+        {
+          "name": "0 <",
+          "price": 0.0
+        }
+      ],
+      "confidence": 0.7451,
+      "low_confidence": false
+    },
+    "total_amount": {
+      "value": 5.0,
+      "confidence": 0.6551,
+      "low_confidence": true
+    },
+    "ocr_mean_confidence": {
+      "value": 0.5002,
+      "confidence": 0.5002,
+      "low_confidence": true
+    }
+  },
+  "raw_text": "I2Ma _\nSDN\nSR\nQty\nSR\n8t,t0\n87.10\nTolal _\nNett\nS4.20\n8a.20\"\nOS7' @8x\nS0.do\nBAR\nYou _\nAgaln]\nUNIHAKKA\nA0zoY7\nINTERNATIONAL\n2018 -\n18.19\nBHD\n(887388-U)\nJalan\nTampol >\n7/4,Kewasen =\nTampoi,81200\nPerindustrlar\nIrcvokce ;\nJohot =\nBahru Jchor\nTAXiNvOiCE\n0r18031202170432\nItem\n700100000035',\n57.40\nMea? ~\nVege\nTolal\nI00+00000315'\nvagetable\nM1.10\nAmclrt:\nPaynent\n98.20\nGST\nMode\n0656:\nCASA\n80.48\nTotal: 5\nCharge\nAmourit\nCstsuminax\nGST REG\nIex\n#o0cas8195584\nWANGE\n0 <\nRICE@PERMAS _\n(Ptce e\nInciusive =\nThank `\nJAYA\nGsT}\nLke =\nCome =\nand Fodow |\nFecebook com BarWencRice\nFacehookl"
+}

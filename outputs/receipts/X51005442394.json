@@ -1,0 +1,85 @@
+{
+  "receipt_id": "X51005442394",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005442394.jpg",
+  "fields": {
+    "store_name": {
+      "value": "1nzu6",
+      "confidence": 0.6868,
+      "low_confidence": true
+    },
+    "date": {
+      "value": "2018-03-30",
+      "confidence": 0.7018,
+      "low_confidence": false
+    },
+    "items": {
+      "value": [
+        {
+          "name": "1nzu",
+          "price": 6.0
+        },
+        {
+          "name": "30 Mar 2018",
+          "price": 18.17
+        },
+        {
+          "name": "(887388-U)",
+          "price": 887388.0
+        },
+        {
+          "name": "12, Jalan Tampoi 7i4,K axsenPerinxiustian",
+          "price": 4.0
+        },
+        {
+          "name": "Tampol,81200 Johar Bahru,Johar",
+          "price": 81200.0
+        },
+        {
+          "name": "OR",
+          "price": 18033002170384.0
+        },
+        {
+          "name": "SR 100,00000035.",
+          "price": 10000.0
+        },
+        {
+          "name": "3 Vege",
+          "price": 3.0
+        },
+        {
+          "name": "SR /0010000d015- Vegetable",
+          "price": 15.0
+        },
+        {
+          "name": "Gs7 @ix",
+          "price": 80.43
+        },
+        {
+          "name": "GST @",
+          "price": 399.0
+        },
+        {
+          "name": "QSTREG #",
+          "price": 656195584.0
+        },
+        {
+          "name": "{Price Inclusive 01 GST)",
+          "price": 1.0
+        }
+      ],
+      "confidence": 0.7768,
+      "low_confidence": false
+    },
+    "total_amount": {
+      "value": 8.2,
+      "confidence": 0.6868,
+      "low_confidence": true
+    },
+    "ocr_mean_confidence": {
+      "value": 0.5706,
+      "confidence": 0.5706,
+      "low_confidence": true
+    }
+  },
+  "raw_text": "1nzu6\nUNIHAKKA INTERNATIONAL SDN BHD\n30 Mar 2018 18.17\n(887388-U)\n12, Jalan Tampoi 7i4,K axsenPerinxiustian\nTampol,81200 Johar Bahru,Johar\nTAXINVOICE\nInvoice #\nOR18033002170384\nItait\nAty\nTotal\nSR 100,00000035.\nMeat =\n3 Vege\n87.10\n57.10\nSR /0010000d015- Vegetable\nS1,10\n81.10\nTotal Amcunt; 8.20\nGs7 @ix: 80.43\nNett Total: S3.20\nPayment Mode\nAmount\n~ASh\n58.20\nChange\n90,00\n{JSFSummzy\nnoup)\nTaks)\nGST @399\nQSTREG #000656195584\nBAR WANG RICE@PERMAS JAYA\n{Price Inclusive 01 GST)\nThank You\nCome\nLike andFoim Us on\nacebookl\nFachbook com BarlangRlce\nAgaini"
+}

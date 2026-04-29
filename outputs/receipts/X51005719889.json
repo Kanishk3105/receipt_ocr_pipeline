@@ -1,0 +1,49 @@
+{
+  "receipt_id": "X51005719889",
+  "source_path": "C:\\Users\\kanis\\Downloads\\AI-OCR dataset-20260428T205037Z-3-001\\AI-OCR dataset\\X51005719889.jpg",
+  "fields": {
+    "store_name": {
+      "value": "HENG",
+      "confidence": 0.7796,
+      "low_confidence": false
+    },
+    "date": {
+      "value": "2018-04-01",
+      "confidence": 0.8996,
+      "low_confidence": false
+    },
+    "items": {
+      "value": [
+        {
+          "name": "NO",
+          "price": 31.0
+        },
+        {
+          "name": "NO",
+          "price": 403.0
+        },
+        {
+          "name": "TBOL [530_dj885 37854+",
+          "price": 23.0
+        },
+        {
+          "name": "Anount ( 88)",
+          "price": 88.0
+        }
+      ],
+      "confidence": 0.8096,
+      "low_confidence": false
+    },
+    "total_amount": {
+      "value": 2018.0,
+      "confidence": 0.7796,
+      "low_confidence": false
+    },
+    "ocr_mean_confidence": {
+      "value": 0.7769,
+      "confidence": 0.7769,
+      "low_confidence": false
+    }
+  },
+  "raw_text": "HENG\nKEE\nDEIIGHT S\nBAK\nKUT\nIEH _\nNO31\nJALAN\n3/62A _\nBANDAR\nRINJALARA\nKEPONG _\n52100\nKUALA\nIUMPUR\nGST\nNO: 000403890176\nHl?\n016-6555553\nTAX\nINVO ICE\nT3011530\nTABLE\nTAKE\nAWAY\nDATE\n04/01/2018\n7 : 42 : 10\nAM\nTrangaotion\nBy : admln\nMMS\nRoforonaa:\n180104074210\nTBOL [530_dj885 37854+23\nD SCRIPTION\nMOLNJ'\nTAX\n2.00\nX 17,00\n34 _\n00\n8R\nBak\nKut\nTah  goup\n2,00\nX 1.50\n9.00\nSR\nwhito\nRiae\n(B)\n1.00 * 4.0(\n4 . (0\nSR\nTotu\n(B)\n2.00\nx 0.50\n1 . (0\nSR\nChinado\nTea /\nWator\nSubtotal\n(GST\nIrial)\n42\nOC\nVouohor\nDisaount\n0.00\nRedoem\nPoint\nDiscount\nDoposit\nRounding\n00\nTotal :\nRM\n42\n00\n-~Payment\nSuma-y-S\nCa sh\n42 _\n00\nChange\n0\n00\nGST\nSumnmary--\nAnount ( 88)\n39\n.Ja\nTHANK\nYOU\nPLEASE\n(OMZ\nACAIN"
+}
