@@ -15,12 +15,28 @@ def parse_args() -> argparse.Namespace:
         default="config/default_config.yaml",
         help="Path to YAML config file.",
     )
+    parser.add_argument(
+        "--dataset-root",
+        type=str,
+        default=None,
+        help="Override dataset_root from config (path to folder of receipt images).",
+    )
+    parser.add_argument(
+        "--output-root",
+        type=str,
+        default=None,
+        help="Override output_root from config.",
+    )
     return parser.parse_args()
 
 
 def main() -> None:
     args = parse_args()
-    result = run_pipeline(Path(args.config))
+    result = run_pipeline(
+        Path(args.config),
+        dataset_root=args.dataset_root,
+        output_root=args.output_root,
+    )
     print(json.dumps(result, indent=2))
 
 
