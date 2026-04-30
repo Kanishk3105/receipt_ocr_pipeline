@@ -72,6 +72,43 @@ class OCREngine:
         new_h = max(1, int(h * scale))
         return cv2.resize(image, (new_w, new_h), interpolation=cv2.INTER_AREA)
 
+    def detect_orientation(self, image: np.ndarray) -> int:
+        """Probe OCR confidence at all 4 rotations on a downscaled copy.
+
+        Returns one of {0, 90, 180, 270} — the rotation (clockwise) that
+        produced the strongest OCR signal. Using OCR-derived confidence
+        catches upside-down receipts that gradient-based heuristics miss.
+        """
+        small = self._resize_keep_aspect(image, 800)
+        candidates = {
+            0: small,
+            90: cv2.rotate(small, cv2.ROTATE_90_CLOCKWISE),
+            180: cv2.rotate(small, cv2.ROTATE_180),
+            270: cv2.rotate(small, cv2.ROTATE_90_COUNTERCLOCKWISE),
+        }
+        best_angle = 0
+        best_score = -1.0
+        for angle, img in candidates.items():
+            try:
+                results = self.reader.readtext(img, paragraph=False, detail=1)
+            except Exception:  # noqa: BLE001
+                continue
+            score = sum(float(c) for _, _, c in results) if results else 0.0
+            if score > best_score:
+                best_score = score
+                best_angle = angle
+        return best_angle
+
+    @staticmethod
+    def apply_rotation(image: np.ndarray, angle: int) -> np.ndarray:
+        if angle == 90:
+            return cv2.rotate(image, cv2.ROTATE_90_CLOCKWISE)
+        if angle == 180:
+            return cv2.rotate(image, cv2.ROTATE_180)
+        if angle == 270:
+            return cv2.rotate(image, cv2.ROTATE_90_COUNTERCLOCKWISE)
+        return image
+
     def run(self, image: np.ndarray) -> tuple[list[OCRLine], OCRRunMeta]:
         h, w = image.shape[:2]
         original_size = (int(w), int(h))

@@ -90,10 +90,15 @@ def _load_receipt_outputs(receipts_dir: Path) -> list[dict[str, Any]]:
     return receipts
 
 
-def run_pipeline(config_path: str | Path) -> dict[str, Any]:
+def run_pipeline(
+    config_path: str | Path,
+    *,
+    dataset_root: str | Path | None = None,
+    output_root: str | Path | None = None,
+) -> dict[str, Any]:
     cfg = PipelineConfig.from_yaml(config_path)
-    dataset_root = Path(cfg.get("dataset_root")).resolve()
-    output_root = Path(cfg.get("output_root", "./outputs")).resolve()
+    dataset_root = Path(dataset_root or cfg.get("dataset_root")).resolve()
+    output_root = Path(output_root or cfg.get("output_root", "./outputs")).resolve()
     logs_dir = output_root / "logs"
     pre_dir = output_root / "preprocessed"
     raw_ocr_dir = output_root / "raw_ocr"
@@ -202,6 +207,11 @@ def run_pipeline(config_path: str | Path) -> dict[str, Any]:
         receipt_json = None
         try:
             processed = preprocess_image(image_path, cfg.get("preprocessing", {}))
+            if cfg.nested("preprocessing", "rotation_try_90", default=True):
+                angle = ocr.detect_orientation(processed)
+                if angle:
+                    processed = ocr.apply_rotation(processed, angle)
+                    logger.info("Orientation corrected | file=%s angle=%d", image_path.name, angle)
             if save_pre:
                 cv2.imwrite(str(pre_dir / f"{receipt_id}.png"), processed)
 
