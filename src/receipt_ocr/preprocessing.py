@@ -35,25 +35,6 @@ def _estimate_skew(gray: np.ndarray) -> float:
     return float(angle)
 
 
-def _orientation_score(image: np.ndarray) -> float:
-    # Higher score means stronger horizontal text-like edges.
-    sobel_x = cv2.Sobel(image, cv2.CV_32F, 1, 0, ksize=3)
-    sobel_y = cv2.Sobel(image, cv2.CV_32F, 0, 1, ksize=3)
-    return float(np.mean(np.abs(sobel_x)) - np.mean(np.abs(sobel_y)))
-
-
-def _best_orthogonal_rotation(gray: np.ndarray) -> np.ndarray:
-    candidates = [
-        gray,
-        cv2.rotate(gray, cv2.ROTATE_90_CLOCKWISE),
-        cv2.rotate(gray, cv2.ROTATE_180),
-        cv2.rotate(gray, cv2.ROTATE_90_COUNTERCLOCKWISE),
-    ]
-    scored = [(img, _orientation_score(img)) for img in candidates]
-    scored.sort(key=lambda x: x[1], reverse=True)
-    return scored[0][0]
-
-
 def preprocess_image(image_path: Path, cfg: dict[str, Any]) -> np.ndarray:
     img = cv2.imread(str(image_path))
     if img is None:
@@ -65,8 +46,8 @@ def preprocess_image(image_path: Path, cfg: dict[str, Any]) -> np.ndarray:
         h = int(cfg.get("denoise_h", 12))
         gray = cv2.fastNlMeansDenoising(gray, h=h)
 
-    if cfg.get("rotation_try_90", True):
-        gray = _best_orthogonal_rotation(gray)
+    # Orthogonal (90/180/270) rotation is decided by OCREngine.detect_orientation
+    # in pipeline.py — confidence-probe beats gradient heuristics on rotated receipts.
 
     angle = _estimate_skew(gray)
     if math.fabs(angle) >= float(cfg.get("deskew_min_angle_abs", 0.4)):

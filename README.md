@@ -61,6 +61,14 @@ python -m pip install -r requirements.txt
 python run_pipeline.py --config config/default_config.yaml
 ```
 
+Override the dataset path without editing the YAML:
+
+```bash
+python run_pipeline.py --config config/default_config.yaml \
+                      --dataset-root /path/to/receipts \
+                      --output-root  ./outputs
+```
+
 ## Output Format (Per Receipt)
 
 ```json

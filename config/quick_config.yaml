@@ -1,4 +1,4 @@
-dataset_root: "C:/Users/kanis/Downloads/AI-OCR dataset-20260428T205037Z-3-001/AI-OCR dataset"
+dataset_root: "./dataset"
 output_root: "./outputs"
 image_extensions:
   - ".jpg"
